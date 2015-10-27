@@ -1,7 +1,7 @@
 # NoScript-Whitelist
 
 
-A global database for NoScript
+A global domain database for NoScript powered by the crowd.
 
 
 This project is original designed by CHEF-KOCH and it's under Apache License v2.0 (see License). 
@@ -21,7 +21,14 @@ So how to report a 'trusted' domain/page?
 * ....
 
 
-How you help?
+What is the benefit?
+---------------
+
+
+I think most stuff can be blocked by disabling .js on common pages, so instead to temp allow all I prefer whitelists. In fact this would helo because all other pages are by default 'blocked'. 
+
+
+How can you help?
 -----------------
 
 Easy and simple.
