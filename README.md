@@ -24,8 +24,16 @@ So how to report a 'trusted' domain/page?
 What is the benefit?
 ---------------
 
+I think most stuff can be blocked by disabling javascript on common pages, so instead to temp allow all I prefer whitelists. In fact this would helo because all other pages are by default 'blocked'.
 
-I think most stuff can be blocked by disabling javascript on common pages, so instead to temp allow all I prefer whitelists. In fact this would helo because all other pages are by default 'blocked'. 
+
+What about the cons?
+---------------
+
+The nagative thingy is that this is more about user needs, if you never visit xyz listed page you normally no need to whitelist them, but on the other hand it's not dangerous because they are trustworth and should never connect to your pages (except social pages for e.g. the little share buttons).
+
+Another thing is that you also could just block the entire domain via router, so this woule mean this would have no affect. 
+
 
 
 How can you help?
