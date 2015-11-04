@@ -35,6 +35,11 @@ The nagative thingy is that this is more about user needs, if you never visit xy
 Another thing is that you also could just block the entire domain via router, so this woule mean this would have no affect. 
 
 
+Can I import NoScript settings in e.g. addons like uMatrix?
+---------------
+
+You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's dashboard, then click Import from file. You can select a NoScript backup file and uMatrix will import what it can from the backup file. The imported rules will apply to the script column of the global scope only.
+
 
 How can you help?
 -----------------
