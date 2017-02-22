@@ -9,16 +9,19 @@ This project is original designed by [CHEF-KOCH](https://github.com/CHEF-KOCH) a
 
 The goal of this project is to get an (nearly) complete whitelist for NoScript, in fact it's created due the fact that e.g. Tor Browser temp. enable all domains, personally I don't like this, so this is the reason I created this.
 
-
-So how to report a 'trusted' domain/page?
+Usage
 ---------------
+Go to  and click through the warning. Use the search box to find your whitelist and blacklist. The whitelist is called `capability.policy.maonoscript.sites`. The blacklist is called `noscript.untrusted`. Right click --> 'Modify' to edit the value. You can either replace your existing values or add our values as you see fit.
 
-* Ensure no bad reputation is present for your reported page.
-* Ensure safe-browsing not blocked your site, I will not add pages which are detected by safe-browsing even if they are okay, because to the simply reason we possible get troubles without additional user interaction.
-* Check yourself (if possible) that the domain / page isn't compromised by e.g. XSS or other attacks (of course needs some knowlage).
+
+Contributing to this crowdsourced list
+---------------
+* Find your whitelist and blacklist as described above.
+* To add to whitelist, ensure no bad reputation is present for your reported page.
+* Your website must not be blocked by the [built-in safe-browsing feature](https://www.google.com/safebrowsing/static/faq.html).
+* If you know how to, please confirm the page is not compromised by XSS or other attacks.
 * Check the page/domain if the webmaster is trusted and all whois given information are valid and nothing is missing.
-* Of course ads is no argument to block the entire page since this is an common thing, and w all need to pay our bills. But if the ads coming with malware in it, I will not add the page for security reasons.
-* ....
+* It does not matter much if you use the http:// or https:// prefix on domains as NoScript handles this.
 
 
 What is the benefit?
@@ -39,15 +42,6 @@ Can I import NoScript settings in e.g. addons like uMatrix?
 ---------------
 
 You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's dashboard, then click Import from file. You can select a NoScript backup file and uMatrix will import what it can from the backup file. The imported rules will apply to the script column of the global scope only.
-
-
-How can you help?
------------------
-
-Easy and simple.
-
-Open up about:config and search for capability.policy.maonoscript.sites, now double click on it and you will see your trusted list, feel free to submit but please ensure it's not already added (dublicates).
-It doesnÄt really matter much if you use http:// format or only the domain, since it can anyway handled by NoScript and it's settings (if you need another format just replace e.g. http:// with your fav. text editor).
 
 
 
