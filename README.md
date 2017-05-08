@@ -1,13 +1,17 @@
 # NoScript Whitelist
 
-
-A global domain database for NoScript powered by the crowd.
+A global domain database for NoScript powered by the community.
 
 
 This project is original designed by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE))). 
 
 
-The goal of this project is to get an (nearly) complete whitelist for NoScript, in fact it's created due the fact that e.g. Tor Browser temp. enable all domains, personally I don't like this, so this is the reason I created this.
+The goal of this project is to get an _complete_ whitelist for NoScript, in fact it's created due the fact that e.g. Tor Browser temp. enable all domains, personally I don't like this, so this is the reason I created the project.
+
+uBlock₀ + uBlock₀
+
+These are some examples and hardened config settings.
+
 
 Usage
 ---------------
