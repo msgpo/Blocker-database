@@ -40,6 +40,8 @@ The negative thingy is that this is more about user needs, if you never visit xy
 
 Another thing is that you also could just block the entire domain via router, so this would mean this would have no affect. 
 
+All social media (except Twitter) are blocked.
+
 
 Can I import NoScript settings in e.g. addons like uMatrix?
 ---------------
