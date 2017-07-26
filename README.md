@@ -49,6 +49,12 @@ Can I import NoScript settings in e.g. addons like uMatrix?
 You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's dashboard, then click Import from file. You can select a NoScript backup file and uMatrix will import what it can from the backup file. The imported rules will apply to the script column of the global scope only.
 
 
+Known issue
+---------------
+
+* uMatrix crashes on accessing the 'My Rules' panel
+
+
 
 Reference
 -----------------
