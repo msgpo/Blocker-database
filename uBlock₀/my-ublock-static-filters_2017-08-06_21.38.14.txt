@@ -1218,3 +1218,117 @@ gskill.us###notices > .tborder > tbody > tr > .alt1
 
 ! 7/262017 03:00 Google analytics
 ||google-analytics.com^$important
+
+! 7/26/2017, 1:35:22 PM https://www.druckerzubehoer.de/shop/subcategory/catid/D-Epson/subcatid/EPSON+WORKFORCE+PRO+WF-4640+DTWF/lng/de_DE/site/1/lng/de_DE
+||images.druckerzubehoer.de/shop/images/system_images/nav_social-media.png$image
+
+! 7/27/2017, 1:41:21 AM https://downace.com/V9q5
+downace.com##.uk-hidden-small.ace-overflow-hidden.uk-padding-remove.uk-text-center.uk-margin-small-top.uk-margin-small-bottom.uk-panel-box-secondary.uk-panel-box.uk-panel
+
+! 7/28/2018, 01:01:01 
+||http://mms.bournemouthecho.co.uk^$script
+
+! 7/28/2017, 2:04:17 AM https://rsload.net/soft/desktop/19983-aura.html
+rsload.net##center:nth-of-type(1)
+
+! 7/28/2017, 2:04:25 AM https://rsload.net/soft/desktop/19983-aura.html
+||rsload.net/images5/premssf.png$image
+
+! 7/30/2017, 12:59:48 AM http://winfuture.de/news,98858.html
+winfuture.de##body > div:nth-of-type(5)
+
+! 7/30/2017, 9:05:51 PM https://skidrowgamesreloaded.com/
+skidrowgamesreloaded.com###innertop > .grid-h.width100.grid-box
+
+! 7/31/2017, 2:02:02 AM http://www.mediafire.com/file/vo770dqwun7cbda/LuckyPatcher.apk
+||cdn.mediafire.com/images/backgrounds/download/dl_promo_logo.png$image
+
+! 7/31/2017, 2:02:10 AM http://www.mediafire.com/file/vo770dqwun7cbda/LuckyPatcher.apk
+||cdn.mediafire.com/images/backgrounds/download/dl_promo_logo.png$image
+
+! 7/31/2017, 3:52:32 AM https://www.computerbase.de/downloads/
+www.computerbase.de##.box-white.box--sidebar.box
+
+! 8/1/2017, 12:07:15 AM https://www.pornhub.com/video?page=3
+www.pornhub.com##.rueb9lyc > .adlink2
+
+! 8/1/2017, 11:23:14 PM https://douploads.com/iay9x5nirqme
+douploads.com##center
+
+! 8/2/2017, 2:11:26 AM http://www.itsecuritynews.info/
+www.itsecuritynews.info##.code-block-4.code-block:nth-of-type(1) > .ad-affiliate > center
+
+! 8/2/2017, 2:11:37 AM http://www.itsecuritynews.info/
+www.itsecuritynews.info##.code-block-4.code-block:nth-of-type(1) > .ad-affiliate > hr:nth-of-type(1)
+
+! 8/2/2017, 2:11:45 AM http://www.itsecuritynews.info/
+www.itsecuritynews.info##.code-block-4.code-block:nth-of-type(1) > .ad-affiliate > hr:nth-of-type(2)
+
+! 8/2/2017, 2:22:44 AM http://www.marburg-biedenkopf.de/
+www.marburg-biedenkopf.de##.fcontainer:nth-of-type(1) > .window_gray.fcontent_container
+
+! 8/2/2017, 2:29:24 AM https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928/page98
+||forum.xda-cdn.com/images/oneplus-badge-9.jpg$image
+
+! 8/2/2017, 7:56:22 PM http://www.solidfiles.com/v/yqawPKwXa8nVZ/dl
+www.solidfiles.com##.premium-promo.box
+
+! 8/2/2017, 7:56:38 PM http://www.solidfiles.com/v/yqawPKwXa8nVZ
+www.solidfiles.com##.box:nth-of-type(2) > .box-content
+
+! 8/2/2017, 7:56:43 PM http://www.solidfiles.com/v/yqawPKwXa8nVZ
+www.solidfiles.com##.box:nth-of-type(2)
+
+! 8/4/2017, 12:56:26 AM https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928
+||forum.xda-cdn.com/images/oneplus-badge-8.jpg$image
+
+! 8/4/2017, 10:40:11 PM https://forums.oneplus.net/threads/magisk-installation-error.534412/
+forums.oneplus.net##.content
+
+! 8/5/2017, 5:33:27 AM https://www.startpage.com/do/dsearch?query=retroarch&cat=web&pl=opensearch&language=english
+www.startpage.com##li:nth-of-type(2) > .no-mobile.add-to-browser-hover.add-to-browser.addsettings
+
+! 8/5/2017, 5:33:31 AM https://www.startpage.com/do/dsearch?query=retroarch&cat=web&pl=opensearch&language=english
+www.startpage.com###addtobrowser
+
+! 8/5/2017, 5:59:23 AM https://skidrowgamesreloaded.com/
+skidrowgamesreloaded.com##.deepest.widget_text.mod-color.module
+
+! 8/5/2017, 10:29:12 PM http://borncity.com/win/2016/12/08/activate-build-in-administrator-account-in-windows-i/
+borncity.com##.entry-content > div:nth-of-type(1)
+
+! 8/5/2017, 11:14:54 PM http://winfuture.de/news,98975.html
+winfuture.de##.fullclick.nointelliTXT.amazon_widget_w660:nth-of-type(5)
+
+! 8/5/2017, 11:14:58 PM http://winfuture.de/news,98975.html
+winfuture.de##.fullclick.nointelliTXT.amazon_widget_w660:nth-of-type(6)
+
+! 8/5/2017, 11:15:03 PM http://winfuture.de/news,98975.html
+winfuture.de##.fullclick.nointelliTXT.amazon_widget_w660:nth-of-type(7)
+
+! 8/5/2017, 11:15:08 PM http://winfuture.de/news,98975.html
+winfuture.de##.mt20:nth-of-type(2)
+
+! 8/6/2017, 2:31:33 AM https://www.pornhub.com/video/search?search=ashlynn+brooke
+www.pornhub.com##.r8g3080crjlq9gib4b.r8g3080crjlq9gib4w
+
+! 8/6/2017, 2:33:18 AM https://www.pornhub.com/video/search?search=ashlynn+brooke&o=mr
+www.pornhub.com##.xz6wy6yoo0siyerb.xz6wy6yoo0siyerw
+
+! 8/6/2017, 8:06:34 PM http://www.solidfiles.com/v/DkzBNBDnDmLWZ
+www.solidfiles.com##.rect.bnr-1502042778
+
+! 8/6/2017, 8:06:39 PM http://www.solidfiles.com/v/DkzBNBDnDmLWZ
+www.solidfiles.com##.top-section
+
+! 8/6/2017, 9:01:31 PM https://www.hartware.de/
+www.hartware.de##.front-news:nth-of-type(1)
+
+! 8/6/2017, 9:01:46 PM https://www.hartware.de/
+www.hartware.de##.sidebar-content > div:nth-of-type(5)
+
+! 8/6/2017, 9:01:51 PM https://www.hartware.de/
+www.hartware.de##.sidebar-content > div:nth-of-type(6)
+
+! 8/6/2017, 9:08:35 PM https://translate.google.com/
+translate.google.com###gt-promo-lr
