@@ -1,10 +1,10 @@
-A global domain database for NoScript/uBlock/umatrix powered by the community.
+A global domain database for NoScript/uBlock/uMatrix powered by the community.
 
 
 This project is original designed by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
 
 
-The goal of this project is to get an _complete_ whitelist for NoScript/uBlock/uMatrix, in fact it's created due the fact that e.g. Tor Browser temp. enable all domains, personally I don't like this, so this is the reason I created the project.
+The goal of this project is to get an _complete_ whitelist for NoScript/uBlock/uMatrix, in fact it's created due the fact that e.g. Tor Browser temp. enable all domains - personally I don't like this, so this is the reason I created the project.
 
 uBlock₀ + uBlock₀
 
@@ -13,7 +13,12 @@ These are some examples and hardened config settings.
 
 Usage
 ---------------
-Go to  and click through the warning. Use the search box to find your whitelist and blacklist. The whitelist is called `capability.policy.maonoscript.sites`. The blacklist is called `noscript.untrusted`. Right click --> 'Modify' to edit the value. You can either replace your existing values or add our values as you see fit.
+* Go to and click through the Firefox about:config warning. 
+* Use the search box to find your whitelist and blacklist. 
+* The whitelist is called `capability.policy.maonoscript.sites`. 
+* The blacklist is called `noscript.untrusted`. 
+* Right click --> 'Modify' to edit the value. 
+* You can either replace your existing values or add our values as you see fit.
 
 
 Contributing to this crowdsourced list
@@ -30,17 +35,15 @@ Contributing to this crowdsourced list
 What are the benefits?
 ---------------
 
-I think most stuff can be blocked by disabling javascript on websites, so instead to temporarily allow all sites I prefer to whitelists the 'secure' ones. In fact this would help, because all other pages are by default 'blocked'.
+I think most stuff can be blocked by disabling javascript on websites, so instead to temporarily allow all sites I prefer to whitelist the 'secure' ones. In fact this would help, because all other pages are by default blocked.
 
 
 What about the cons?
 ---------------
 
-The negative thingy is that this is more about user needs, if you never visit xyz listed page you normally no need to whitelist them, but on the other hand it's not dangerous because they are trustworthy and should never connect to your pages (except social pages for e.g. the little share buttons).
-
-Another thing is that you also could just block the entire domain via router, so this would mean this would have no affect. 
-
-All social media (except Twitter) are blocked.
+* The negative thingy is that this is more about user needs, if you never visit xyz listed page you normally not need to whitelist them, but on the other hand it's not dangerous because they are trustworthy and should never connect to your pages (except social pages for e.g. the little share buttons).
+* Another thing is that you also could just block the entire domain via router, so this would mean this would have no affect. 
+* All social media platforms except Twitter are blocked.
 
 
 Can I import NoScript settings in e.g. addons like uMatrix?
