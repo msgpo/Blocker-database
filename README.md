@@ -44,6 +44,7 @@ What about the cons?
 * The negative thingy is that this is more about user needs, if you never visit xyz listed page you normally not need to whitelist them, but on the other hand it's not dangerous because they are trustworthy and should never connect to your pages (except social pages for e.g. the little share buttons).
 * Another thing is that you also could just block the entire domain via router, so this would mean this would have no affect. 
 * All social media platforms except Twitter are blocked.
+* Static filtering requires a lot of effort because you need to check each entry manually.
 
 
 Can I import NoScript settings in e.g. addons like uMatrix?
