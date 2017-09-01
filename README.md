@@ -4,11 +4,7 @@ A global domain database for NoScript/uBlock/uMatrix powered by the community.
 This project is original designed by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
 
 
-The goal of this project is to get an _complete_ whitelist for NoScript/uBlock/uMatrix, in fact it's created due the fact that e.g. Tor Browser temp. enable all domains - personally I don't like this, so this is the reason I created the project.
-
-uBlock₀ + uBlock₀
-
-These are some examples and hardened config settings.
+The goal of this little project is to get an _complete_ whitelist for NoScript/uBlock/uMatrix & ScriptSafe, in fact it's created due the fact that e.g. Tor Browser temporarily allow all domains by default - personally I don't like this, so this is one reason I created the project another reason is to avoid syncing with a cloud.
 
 
 Usage
@@ -56,8 +52,10 @@ You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's 
 Known issue
 ---------------
 
-* #4 
-* #5
+The following issue are not directly related to this project, there addon/extension related:
+
+* [#4](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/4) 
+* [#5](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/5)
 
 
 
