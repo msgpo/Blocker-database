@@ -142,7 +142,6 @@ www.golem.de###gts-clip
 www.ghacks.net##strong:nth-of-type(2)
 www.ghacks.net##strong:nth-of-type(4)
 www.ghacks.net##strong:nth-of-type(6)
-github.com##.js-notice.px-3.py-2.mb-4.new-user-avatar-cta
 www.geeks3d.com###archives-3
 www.geeks3d.com###categories-3
 forum.xda-developers.com##.xdanews.widget
@@ -446,7 +445,6 @@ www.kuketz-blog.de###text-23
 business.f-secure.com###article-sidebar
 business.f-secure.com##.hide-992.footer-url-bottom.center.bg-footer.row
 business.f-secure.com##.hide-992.bg-footer.row:nth-of-type(1)
-github.com##.mt-4
 dropapk.com##h2
 dropapk.com###cmt_txt
 dropapk.com###comment_btn
@@ -731,3 +729,151 @@ forum-en.msi.com###pm_popup
 ||wirecomic.com^$third-party
 ||xovq5nemr.com^$third-party
 ||zbwp6ghm.com^$third-party
+||videoexpertsgroup.com^
+github.com##.flash-full.flash
+www.google.de##.widget-consent-dialog
+dailyuploads.net##p
+dailyuploads.net##.adsbygoogle:nth-of-type(2)
+dailyuploads.net##a[href^="http://trafflict.com/r"] > .adsbygoogle:nth-of-type(1)
+passport.twitch.tv##.text-content > .item:nth-of-type(1)
+www.heise.de##.adbottom
+rsload.net##.center.flex-row.fbottom
+www.golem.de###gftroba
+www.nsaneforums.com###elRegisterSocial > .ipsPad.ipsBox
+www.mindfactory.de###box_seo > .floatLeft.bordergrey.width100 > .pa10_4
+www.mindfactory.de###box_bottom
+||www.alternate.de/dynpics/306594$image
+www.alternate.de##.track_this_link.skyTeaser
+www.alternate.de###seoBottom
+www.alternate.de##.manufacturer
+geizhals.de##.gewinnspiel_box
+geizhals.de##.ghinfobox:nth-of-type(7)
+||gzhls.at/b/heise-coop.png$image
+||gzhls.at/b/guterrat-2015-11.png$image
+||gzhls.at/b/ds_fb2.png$image
+||thepiratebay.org/static/img/tpb.jpg$image
+thepiratebay.org##h1 > a[href="/blog"]
+github.com##.unsupported-browser
+about.gitlab.com##.text-center.logos-section > .container
+about.gitlab.com##.text-center.logos-section
+about.gitlab.com##.testimonials
+thehackernews.com###HTML6 > .widget-content > .sidewalaad.clear
+thehackernews.com##.widget-content > .cf.clear
+github.com##.mt-4
+dailyuploads.net##label
+thehackernews.com##.title
+thehackernews.com##.head-head.clear:nth-of-type(1)
+thehackernews.com##.head-head.clear:nth-of-type(2)
+www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-box.yt-uix-expander.related-channels-editor
+filescdn.com##.text-white.btn-rounded.btn-labeled.bg-green-400.btn
+sendit.cloud##.widget-tasks.widget:nth-of-type(2)
+downace.com##.ace-download-panel-footer.uk-padding-remove.uk-text-center.uk-margin-remove.uk-panel-box-secondary.uk-panel-box.uk-panel
+downace.com##.uk-width-1-1.uk-width-small-1-2.uk-width-medium-1-5:nth-of-type(5) > .uk-panel
+dropapk.com##li:nth-of-type(2) > a[href="https://dropapk.com/make-money.html"]
+dropapk.com##a[href="https://dropapk.com/premium.html"]
+dropapk.com###mngez-future
+s12-eu5.startpage.com###addtobrowser
+s12-eu5.startpage.com##li:nth-of-type(2) > .no-mobile.add-to-browser-hover.add-to-browser.addsettings
+support.microsoft.com##.full-width.ng-scope.bubble-below.bubble-content.message-bubble
+support.microsoft.com###skylight-entry-chrome
+4downfiles.org##center
+uptobox.com###header > div
+uptobox.com##form > p
+uptobox.com##a[href="https://uptobox.com/images/uptobox_unicorn.png"]
+uptobox.com##center > table > tbody > tr > td:nth-of-type(1)
+uptobox.com##center > table > tbody > tr > td:nth-of-type(3)
+forum.xda-developers.com###\35 994a38a7260a > .post-head-container
+forum.xda-developers.com###\35 994a38a7260a > .post-content-container > .postbit-content-moderated.postbit-content
+forum.xda-developers.com###\35 994a38a7260a > .post-content-container > .postbit-userinfo-cell
+forum.xda-developers.com###\35 994a38a7260a > .postbutton-row
+www.msfn.org##.displayGlobalMessage.ipsfocus-globalMessage.ipsMessage_success.ipsMessage
+www.msfn.org##.ipsSpacer_top.ipsPad.ipsBox > .ipsList_noSpacing.ipsList_inline
+www.hardwareluxx.de###rec2 > h3
+www.hardwareluxx.de###eha > p
+www.hardwareluxx.de###supforum
+www.hardwareluxx.de##aside:nth-of-type(3) > h3
+www.hardwareluxx.de###rec1 > h3
+www.xda-developers.com##.clearfix.tb_widget_about_author > div:nth-of-type(3)
+www.hartware.de##.postanzeige.alignleft
+www.hartware.de##.entry-inner > p:nth-of-type(5)
+||lanoc.org/images/stories/LanOC/websiteimages/supportus.png$image
+lanoc.org##.cw-social-mod-bookmark
+lanoc.org##.cw-social-mod-follow
+lanoc.org###rt-footer
+www.funkykit.com##center
+||static1.caseking.de/media/image/ribbon_instagram.png$image
+www.gskill.com##tr:nth-of-type(7) > td > table > tbody > tr:nth-of-type(3) > td
+||www.anime-ultime.net/radioV3/Radio_V3.swf$object
+||www.fosshub.com/index/donateQ$subdocument
+||i0.wp.com/cdn.edgecast.steamstatic.com/steam/apps/274520/extras/app_greenlight_banner_english.png$image
+www.tcpiputils.com###EU_Cookie_Message
+extreme.pcgameshardware.de###navbar_notice_16 > .notice_wrap
+extreme.pcgameshardware.de###navbar_notice_85 > .notice_wrap
+extreme.pcgameshardware.de###navbar_notice_16
+extreme.pcgameshardware.de###navbar_notice_85
+||www.borrowlenses.com/blog/wp-content/uploads/2017/07/Drobo-BorrowLenses-Banner.png$image
+||pics.ebaystatic.com/aw/pics/de/site.jpg$image
+||pics.ebaystatic.com/aw/pics/de/layer.png$image
+www.mindfactory.de##.bookmarks.floatLeft
+||s3-us-west-2.amazonaws.com/bww.mediagroup/veam-8-30-17-webinar-overlay-v2.2.png$image
+www.petri.com###overlay
+www.petri.com##.lean-overlay
+www.google.de##.gb_g.gb_Lc.gb_Xc.gb_Wc > .gb_fa
+www.orangefreesounds.com###text-20
+www.orangefreesounds.com###text-26 > h3
+suprafiles.org###container > div:nth-of-type(2)
+suprafiles.org##.page-buffer
+forum.xda-developers.com##.hosted_by
+wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(2) > .panel-primary.panel > .panel-body
+wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(2) > .panel-primary.panel > .panel-heading
+wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(2)
+wall.alphacoders.com##.panel-primary.panel > .panel-body.center
+wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(1) > .panel-primary.panel > .panel-heading
+wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(1) > .panel-primary.panel
+wall.alphacoders.com##.center.row:nth-of-type(2)
+wall.alphacoders.com##.panel-body.panel
+wall.alphacoders.com###list_group_share > .list-group-item:nth-of-type(3)
+wall.alphacoders.com###list_group_share > .list-group-item:nth-of-type(2)
+wall.alphacoders.com###list_group_share > .list-group-item:nth-of-type(4)
+wall.alphacoders.com###list_group_share > .list-group-item-info.list-group-item
+||static.alphacoders.com/background_alphacoders.svg$image
+wall.alphacoders.com##.feature.panel-default.panel
+wall.alphacoders.com##.event-container.well.media:nth-of-type(1)
+wall.alphacoders.com##.event-container.well.media:nth-of-type(2)
+www.herzstiftung.de###box_nlbanner
+www.softpedia.com###hp_ess_cnt_1
+www.softpedia.com###hp_ess
+www.askvg.com##p:nth-of-type(21)
+douploads.com##td:nth-of-type(4)
+drive.google.com##.a-Fa-pf-Af-k-ja-Mb
+drive.google.com##.a-Fa-pf-Af-k.a-Fa-xQS9Ed-k.lb-k
+www.ebay.de###gh-ti
+www.wagnardsoft.com##.bg2.post:nth-of-type(3)
+www.fudzilla.com###Mod122
+www.fudzilla.com###Mod171
+www.fudzilla.com###Mod123
+www.fudzilla.com###Mod152
+www.fudzilla.com###Mod155
+www.fudzilla.com###Mod177
+www11.dragonballtime.tv###sidebar
+www11.dragonballtime.tv##.ad_foot.ad
+||sandbox.katcr.co/static/uploads/340556.qsfd40frcilew28_n2houohdtxb.gif$image
+katcr.co##.myBlock:nth-of-type(1)
+katcr.co##.myBlock:nth-of-type(2) > div:nth-of-type(3)
+katcr.co##.credits
+en.pdf24.org##.mt3 > .tc.adtext
+www.deviantart.com##.oh-l-orange.oh-l
+checkshorturl.com###large-column > div:nth-of-type(2)
+checkshorturl.com###thumbnails
+checkshorturl.com###mentions
+tinyurl.com##.push
+obsproject.com###FacebookButton > a[href="https://www.facebook.com/OpenBroadcasterSoftware"]
+www.mindfactory.de###ticker > li:nth-of-type(1)
+www.deepl.com###dl_quotes
+www.solidfiles.com##.left
+||pics.ebaystatic.com/aw/pics/de/layer.png$image
+signin.ebay.de###szm_layer
+||image.macovi.de/templates/mindfactory/images/banner_artikel_zeugnis_50.jpg?ver=2$image
+||d2f8tie0ouoft.cloudfront.net$object,domain=www.twitch.tv
+@@||twitch.tv/ads/ads.js
+static.kzar.co.uk##.hideme

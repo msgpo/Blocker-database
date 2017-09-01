@@ -56,7 +56,7 @@ You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's 
 Known issue
 ---------------
 
-* uMatrix crashes on accessing the 'My Rules' panel [#2](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/4)
+* None
 
 
 
