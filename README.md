@@ -21,7 +21,7 @@ Usage
 * You can either replace your existing values or add our values as you see fit.
 
 
-Contributing to this crowdsourced list
+Contributing to this crowd-sourced list
 ---------------
 
 * Find your whitelist and blacklist as described above.
@@ -56,7 +56,8 @@ You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's 
 Known issue
 ---------------
 
-* None
+* #4 
+* #5
 
 
 
