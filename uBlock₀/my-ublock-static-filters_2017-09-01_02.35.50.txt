@@ -205,6 +205,12 @@ about.gitlab.com##.testimonials
 about.gitlab.com##.text-center.logos-section
 about.gitlab.com##.text-center.logos-section > .container
 ask.fedoraproject.org##.notify > .content-wrapper > .notification
+askvg.com##.post > p:has-text(Advertisements)
+askvg.com##.sidebar > h2:first-child
+askvg.com##.sidebar > p:has-text(Advertisements)
+askvg.com##.sidebar > p:nth-child(2)
+askvg.com##BR
+askvg.com##SCRIPT + BR + BR + BR + BLOCKQUOTE
 auth0.com##.banner-wrapper
 auth0.com##.pn-popup-container
 beta.duckduckgo.com###content_homepage > .cw--c > .js-tag-home.no-js__hide.tag-home--slide.tag-home
@@ -315,6 +321,10 @@ game.giveawayoftheday.com##.jus.slogan.col2
 gaming.youtube.com##.ytg-notification-footer.style-scope.content
 geizhals.de##.gewinnspiel_box
 geizhals.de##.ghinfobox:nth-of-type(7)
+ghacks.net###sidebar
+ghacks.net##.post > strong:nth-child(5)
+ghacks.net##body.two-col-left-1200 #main-sidebar-container #main:style(width: 100% !important)
+ghacks.net##hr
 github.com##.flash-full.flash
 github.com##.github-jobs-promotion > p
 github.com##.mt-4
@@ -477,10 +487,6 @@ www.alternate.de##.social.box
 www.alternate.de##.track_this_link.skyTeaser
 www.androidfilehost.com##body > .container:nth-of-type(2) > .row:nth-of-type(3) > .col-md-4 > p
 www.apkmirror.com###sidebar > .listWidget:nth-of-type(1)
-www.askvg.com###sidebarPage > p
-www.askvg.com##blockquote
-www.askvg.com##h2:nth-of-type(1)
-www.askvg.com##p:nth-of-type(21)
 www.avsforum.com###vspopup-container
 www.avsforum.com###vspopup-overlay
 www.bitdefender.com###static-footer
@@ -526,28 +532,6 @@ www.gamingfactors.com###wtr-progress
 www.geeks3d.com###archives-3
 www.geeks3d.com###categories-3
 www.geeks3d.com###text-440959331
-www.ghacks.net###pgloggedouttext-2 > h3
-www.ghacks.net###pgloggedouttext-4 > h3
-www.ghacks.net###pgloggedouttext-5 > h3
-www.ghacks.net###pgloggedouttext-6 > h3
-www.ghacks.net###pgloggedouttext-7 > h3
-www.ghacks.net###pgloggedouttext-8 > h3
-www.ghacks.net###sidebar
-www.ghacks.net###stackcommerce_widget-2
-www.ghacks.net###text-27 > h3
-www.ghacks.net###text-28 > h3
-www.ghacks.net###text-29 > h3
-www.ghacks.net###text-32 > h3
-www.ghacks.net###text-33 > h3
-www.ghacks.net###text-34 > h3
-www.ghacks.net###text-4
-www.ghacks.net##strong:nth-of-type(1)
-www.ghacks.net##strong:nth-of-type(2)
-www.ghacks.net##strong:nth-of-type(3)
-www.ghacks.net##strong:nth-of-type(4)
-www.ghacks.net##strong:nth-of-type(5)
-www.ghacks.net##strong:nth-of-type(6)
-www.ghacks.net##strong:nth-of-type(7)
 www.golem.de###abo-clip
 www.golem.de###gftroba
 www.golem.de###gts-clip
