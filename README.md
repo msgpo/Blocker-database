@@ -1,10 +1,10 @@
-A global domain database for NoScript/uBlock/uMatrix powered by the community.
+A global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU!
 
 
-This project is original designed by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
+This project is original created by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
 
 
-The goal of this little project is to get an _complete_ whitelist for NoScript/uBlock/uMatrix & ScriptSafe, in fact it's created due the fact that e.g. Tor Browser temporarily allow all domains by default - personally I don't like this, so this is one reason I created the project another reason is to avoid syncing with a cloud.
+The goal of this little project is to get an almost _complete_ whitelist for NoScript/uBlock/uMatrix & ScriptSafe, it's created due the fact that e.g. Tor Browser temporarily allow all domains by default - personally I don't like this, so this is one of the reasons I created the project; another reason is to avoid syncing with a Mozilla or Google cloud.
 
 
 Usage
@@ -17,9 +17,10 @@ Usage
 * You can either replace your existing values or add our values as you see fit.
 
 
-Contributing to this crowd-sourced list
+Contributing to list
 ---------------
 
+* Download and import the latest list from this repository.
 * Find your whitelist and blacklist as described above.
 * To add to whitelist, ensure no bad reputation is present for your reported page.
 * Your website must not be blocked by the [built-in safe-browsing feature](https://www.google.com/safebrowsing/static/faq.html).
@@ -31,7 +32,8 @@ Contributing to this crowd-sourced list
 What are the benefits?
 ---------------
 
-I think most stuff can be blocked by disabling javascript on websites, so instead to temporarily allow all sites I prefer to whitelist the 'secure' ones. In fact this would help, because all other pages are by default blocked.
+* I think most stuff can be blocked by disabling javascript on websites, so instead to temporarily allow all sites access to javascript I prefer to whitelist the 'secure' ones. In fact this would help, because all other pages are by default blocked.
+* A community based list is easier to maintain + there is less space for problems, the four eyes principle! 
 
 
 What about the cons?
@@ -56,6 +58,11 @@ The following issue are not directly related to this project, there addon/extens
 
 * [#4](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/4) 
 * [#5](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/5)
+
+
+Project based issue:
+
+* [#7](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/7)
 
 
 
