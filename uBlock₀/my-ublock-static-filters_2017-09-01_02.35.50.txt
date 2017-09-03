@@ -327,7 +327,6 @@ ghacks.net##body.two-col-left-1200 #main-sidebar-container #main:style(width: 10
 ghacks.net##hr
 github.com##.flash-full.flash
 github.com##.github-jobs-promotion > p
-github.com##.mt-4
 github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 github.com##.text-small.jobs-logo
 github.com##.unsupported-browser
