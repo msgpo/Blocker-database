@@ -310,11 +310,9 @@ forum.xda-developers.com###sidepanel > div:nth-of-type(2)
 forum.xda-developers.com##.hosted_by
 forum.xda-developers.com##.xdadepot-wrapper.post-text
 forum.xda-developers.com##.xdanews.widget
-forums.mydigitallife.info###ad_global_below_navbar
-forums.mydigitallife.info###boardStats
-forums.mydigitallife.info##.noticeContent.baseHtml
-forums.mydigitallife.info##.uix_socialLink--facebook.uix_socialLink
-forums.mydigitallife.net##.noticeContent.baseHtml
+forums.mydigitallife.net###boardStats
+forums.mydigitallife.net##.PanelContainer
+forums.mydigitallife.net##.persistentFooterButton__bar--spaceHolder
 forums.oneplus.net##.content
 game.giveawayoftheday.com##.ads_wrap.col2-1
 game.giveawayoftheday.com##.jus.slogan.col2
