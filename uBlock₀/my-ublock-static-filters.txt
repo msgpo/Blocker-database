@@ -1,6 +1,7 @@
 ! Title: CHEF-KOCH's Custom Filter List
 ! Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NoScript-Whitelist/master/uBlock₀/my-ublock-static-filters.txt
-! Updated till August '17(1.0.0.0)
+! Updated till August '17
+!
 ||2znp09oa.com
 ||4jnzhl0d0.com
 ||6ldu6qa.com
