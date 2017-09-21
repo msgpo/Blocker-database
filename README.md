@@ -1,4 +1,7 @@
-A global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU!
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/CHEF-KOCH/NoScript-Whitelist
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
+
+This project is a global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU!
 
 
 This project is original created by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
