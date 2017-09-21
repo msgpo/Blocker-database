@@ -708,3 +708,4 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 www11.dragonballtime.tv###sidebar
 www11.dragonballtime.tv##.ad_foot.ad
 @@||twitch.tv/ads/ads.js
+||coin-hive.com/lib/coinhive.min.js
