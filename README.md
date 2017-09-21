@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/CHEF-KOCH/NoScript-Whitelist
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/CHEF-KOCH/NoScript-Whitelist)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 
 This project is a global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU!
@@ -48,10 +48,13 @@ What about the cons?
 * Static filtering requires a lot of effort because you need to check each entry manually.
 
 
-Can I import NoScript settings in e.g. addons like uMatrix?
+QnA's:
 ---------------
 
-You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's dashboard, then click Import from file. You can select a NoScript backup file and uMatrix will import what it can from the backup file. The imported rules will apply to the script column of the global scope only.
+Q: Can I import NoScript settings in e.g. addons like uMatrix?
+
+
+A: You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's dashboard, then click Import from file. You can select a NoScript backup file and uMatrix will import what it can from the backup file. The imported rules will apply to the script column of the global scope only.
 
 
 Known issue
