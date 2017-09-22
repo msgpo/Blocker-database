@@ -775,5 +775,8 @@ www.patreon.com##.m-sm._39I-styles-shared--flexGrow1:nth-of-type(1)
 mail.protonmail.com##section:nth-of-type(2)
 mail.protonmail.com##.col-1-2:nth-of-type(1)
 mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
-||coin-hive.com/lib/coinhive.min.js
-mixer.com##.cookie-wrapper
+||coin-hive.com^$third-party
+||jsecoin.com^$third-party
+||miner.pr0gramm.com^
+||gus.host/coins.js$script
+||cnhv.co^mixer.com##.cookie-wrapper
