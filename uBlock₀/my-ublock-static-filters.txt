@@ -1,6 +1,6 @@
 ! Title: CHEF-KOCH's Custom Filter List
 ! Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NoScript-Whitelist/master/uBlock₀/my-ublock-static-filters.txt
-! Updated till August '17
+! Updated: Sept. 22 2017
 ||2znp09oa.com
 ||4jnzhl0d0.com
 ||6ldu6qa.com
@@ -109,8 +109,6 @@
 ||ovalpigs.com
 ||peacepowder.com
 ||photographpan.com
-||pics.ebaystatic.com/aw/pics/de/layer.png$image
-||pics.ebaystatic.com/aw/pics/de/site.jpg$image
 ||pietexture.com
 ||possibleboats.com
 ||practicetoothpaste.com
@@ -132,7 +130,6 @@
 ||scarcestream.com
 ||scrubsky.com
 ||scrubswim.com
-||secureir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
 ||separatesilver.com
 ||shakesea.com
 ||shakytaste.com
@@ -350,7 +347,6 @@ livesplit.org##.sidebar:nth-of-type(2)
 livesplit.org##.sidebar:nth-of-type(3)
 mikuia.tv##a[href="/supporter"] > .dashboard-stat2
 mirillis.com###wysuwane
-my.ebay.de###szm_layer
 nerdordie.com##.alert-warning.alert
 news.google.com##.epg-publisher-native-app-promo
 news.google.de##.signin-promo-container.promo-container
@@ -364,7 +360,6 @@ pastebin.com###abrpm > div
 pastebin.com###mid_footer
 pastebin.com###notice
 pastebin.com###paypal-overlay
-plus.google.com##.k7iNHb.G6GRIc.nWGHWc.Jvazdb.gLYlfd > .OFyC1e > .u5oEgd > c-wiz > .UVZlkc > .WH2D3d.eejsDc.YKZUAc > .L1NA8d > .M9kDrd[href^="https://support.google.com/plus/"]
 restream.io###jsFlash
 restream.io###jsNonEmptyChannelsList > div:nth-of-type(2)
 restream.io##.app-tips__wrap
@@ -381,7 +376,6 @@ s12-eu5.startpage.com##li:nth-of-type(2) > .no-mobile.add-to-browser-hover.add-t
 salinga.everywebhost.com###HitGlobe
 salinga.everywebhost.com###SideFrames
 sendit.cloud##.widget-tasks.widget:nth-of-type(2)
-signin.ebay.de###szm_layer
 skidrowgamesreloaded.com###innertop > .grid-h.width100.grid-box
 skidrowgamesreloaded.com##.deepest.widget_text.mod-color.module
 soundcloud.com###content > div > .l-fluid-fixed > .l-sidebar-right
@@ -508,12 +502,6 @@ www.computerbase.de##.footer1.block1
 www.computerbase.de##.footer1__box.row-13.row:nth-of-type(2)
 www.deepl.com###dl_quotes
 www.deviantart.com##.oh-l-orange.oh-l
-www.ebay.de###gh-ti
-www.ebay.de###i-faq
-www.ebay.de###i-srvy
-www.ebay.de###rtm_list2
-www.ebay.de###srvydeskolyin
-www.ebay.de##.hlp
 www.epicgames.com###social
 www.experts-exchange.com###suggestedChatConsultantsModel
 www.experts-exchange.com##.liveViewportFooterInner
@@ -708,4 +696,84 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 www11.dragonballtime.tv###sidebar
 www11.dragonballtime.tv##.ad_foot.ad
 @@||twitch.tv/ads/ads.js
+thehackernews.com##.fme_brd.MT10
+||www.dsl-forum.de/images/1und1e.png$image
+game.giveawayoftheday.com##.aa-728.top_ab
+www.youporn.com##.bbTPFYaw0B
+www.youporn.com###footerMenu_rta
+www.youporn.com##.vBoGKRN8w5M:nth-of-type(1) > .removeAdLink.callBox.ad-remove
+www.youporn.com##.rSIEs8baCv
+www.dragon-ball-super-streaming.com###main-content > center:nth-of-type(1)
+www.dragon-ball-super-streaming.com##center:nth-of-type(2)
+||bs.to/public/img/vavoo.png$image
+bs.to###teaser:nth-of-type(2) > div
+bs.to###teaser:nth-of-type(2) > header
+vivo.sx##.col-xs-12.col-sm-12.col-md-12.vivo-content-box-watch.vivo-content-box:nth-of-type(1)
+vivo.sx##.col-xs-12.col-sm-12.col-md-12.vivo-content-box-watch.vivo-content-box:nth-of-type(2) > .col-xs-12.col-sm-12.col-md-12
+vivo.sx##.fp-header
+bs.to###teaser:nth-of-type(1) > div
+bs.to###teaser:nth-of-type(1) > header
+bs.to##h2
+apkmos.com##.td_block_template_1.td-pb-border-top.td_uid_8_59adb3970cb3a_rand.td_block_widget.td_block_social_counter.td_block_wrap
+apkmos.com##.td_block_template_1.td_uid_7_59adb3970c6e8_rand.td-g-rec-id-sidebar.td-g-rec > .adsbygoogle
+pcgames-download.com##.widget_text.widget:nth-of-type(2)
+pcgames-download.com##.one-third.column-2.column > .widgets > .widget_text.widget:nth-of-type(3)
+pcgames-download.com##.widget_text.widget:nth-of-type(5)
+forums.blurbusters.com##.bbamazon-1row-search
+www.datafilehost.com##.col-md-6:nth-of-type(2)
+www.datafilehost.com##a[href="http://answersking.com"] > h4
+www.datafilehost.com##.col-xs-20.col-sm-10.col-md-10
+genuinevs.blogspot.ch###fbox-display
+genuinevs.blogspot.ch###fbox-close
+genuinevs.blogspot.ch###fbox-background
+www.tweaktown.com###content-right > div > center:nth-of-type(1)
+www.tweaktown.com###content-right > div > center:nth-of-type(2)
+www.tweaktown.com###content-right > div > center:nth-of-type(3)
+www.tweaktown.com###wrapper > .cr
+www.golem.de###iqadtile9
+dragonball-tube.com###div-gpt-ad-1407836068824-0
+dragonball-tube.com##.box > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+||onepiece-tube.com/templates/Grafiken/adb2.jpg$image
+dragonball-tube.com##.adb
+dragonball-tube.com###contenttb > table > tbody > tr:nth-of-type(1) > td
+||dragonball-tube.com/templates/caprica/images/pw.jpg$image
+dragonball-tube.com###breadcrumbs
+www.golem.de###hOdixvjnfG
+www.golem.de##.kJqklxfNL > div:nth-of-type(1)
+||www.golem.de/7527/sp_2370-916020-i_rc.jpg$image
+www.golem.de###HWGhEyuL
+www.golem.de###NCpPCaBG > div:nth-of-type(1)
+www.golem.de###screen > .g2.g > div:nth-of-type(1)
+||www.golem.de/8578/sp_2370-961617-i_rc.jpg$image
+||www.golem.de/1230/sp_2370-854695-i_rc.jpg$image
+www.golem.de##.g2.g > div:nth-of-type(5)
+www.golem.de##.bXhqcs
+www.golem.de##.iqadlinetop:nth-of-type(1) > div:nth-of-type(1)
+www.golem.de##.iqadlinetop:nth-of-type(1)
+www.vb-audio.com##center:nth-of-type(5) > table > tbody > tr > td > center:nth-of-type(2)
+www.vb-audio.com##center:nth-of-type(5) > table > tbody > tr > td > center:nth-of-type(1)
+||dropapk.com/images/mngez-minspeed.swf$object
+||dropapk.com/images/mngez-maxspeed.swf$object
+rgho.st###fixblock > .hidden-xs.text-center.alert-warning.alert
+rgho.st##.hidden-xs.m-b-0.text-center.alert-warning.alert
+||restream.io/img/promo/trash-meme/logo.gif$image
+www.sendspace.com##.tac.text
+www.hardwareluxx.de###navbar_notice_11
+hralinks.info###wrap > h1
+www.hdtshare.com##center:nth-of-type(3)
+onkyo4k.com##.notice-row
+sceper.ws##body > div:nth-of-type(8)
+forum-andr.net##.ipsClearfix.cbAnn
+||restream.io/img/promo/trash-meme/logo.gif$image
+||dropapk.com/images/mngez-minspeed.swf$object
+||dropapk.com/images/mngez-maxspeed.swf$object
+||forum.xda-cdn.com/images/oneplus-badge-student-1.png$image
+||www.bleachbit.org/images/cloth_or_something3.jpg$image
+||www.bleachbit.org/images/fb16x16.png$image
+www.patreon.com##.gymQcC.s8ausdp-3
+www.patreon.com##.m-sm._39I-styles-shared--flexGrow1:nth-of-type(1)
+mail.protonmail.com##section:nth-of-type(2)
+mail.protonmail.com##.col-1-2:nth-of-type(1)
+mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 ||coin-hive.com/lib/coinhive.min.js
+mixer.com##.cookie-wrapper
