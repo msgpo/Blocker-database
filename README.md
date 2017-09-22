@@ -1,10 +1,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/CHEF-KOCH/NoScript-Whitelist)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 
-This project is a global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU!
-
-
-This project is original created by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
+This project is a global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU! It's original created by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
 
 
 The goal of this little project is to get an almost _complete_ whitelist for NoScript/uBlock/uMatrix & ScriptSafe, it's created due the fact that e.g. Tor Browser temporarily allow all domains by default - personally I don't like this, so this is one of the reasons I created the project; another reason is to avoid syncing with a Mozilla or Google cloud.
@@ -20,7 +17,7 @@ Usage
 * You can either replace your existing values or add our values as you see fit.
 
 
-Contributing to list
+Contributing to the list
 ---------------
 
 * Download and import the latest list from this repository.
@@ -48,7 +45,7 @@ What about the cons?
 * Static filtering requires a lot of effort because you need to check each entry manually.
 
 
-QnA's:
+QnA's
 ---------------
 
 Q: Can I import NoScript settings in e.g. addons like uMatrix?
