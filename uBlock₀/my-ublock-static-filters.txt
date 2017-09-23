@@ -349,8 +349,6 @@ livesplit.org##.sidebar:nth-of-type(3)
 mikuia.tv##a[href="/supporter"] > .dashboard-stat2
 mirillis.com###wysuwane
 nerdordie.com##.alert-warning.alert
-news.google.com##.epg-publisher-native-app-promo
-news.google.de##.signin-promo-container.promo-container
 obsproject.com###FacebookButton > a[href="https://www.facebook.com/OpenBroadcasterSoftware"]
 opengapps.org###donatebox
 opengapps.org###extrabox
@@ -528,13 +526,6 @@ www.golem.de###gts-clip
 www.golem.de###screen > .g-ie6.g4.g > div:nth-of-type(2)
 www.golem.de###screen > .g2.g:nth-of-type(4) > aside > ol > .text1:nth-of-type(4)
 www.golem.de##a[href="https://account.golem.de/login"]
-www.google.ch##.gb_g.gb_Nc.gb_Lc.gb_Mc
-www.google.ch##.vk_c._Udi
-www.google.ch##.widget-consent-dialog
-www.google.de##.gb_g.gb_Lc.gb_Xc.gb_Wc > .gb_fa
-www.google.de##.gb_g.gb_Lc.gb_Xc.gb_Wc > .gb_ha
-www.google.de##.vk_c._Udi
-www.google.de##.widget-consent-dialog
 www.gskill.com##tr:nth-of-type(7) > td > table > tbody > tr:nth-of-type(3) > td
 www.gskill.us###notices > .tborder > tbody > tr > .alt1
 www.guru3d.com##.content3 > div:nth-of-type(2)
@@ -1273,3 +1264,29 @@ hastlegames.com###pageWrapper:style(display: block !important)
 watch8x.com##script:inject(noeval.js)
 ||fieldpprofile.com^
 ||fieldpprofile.com^$popup
+||01net.com/telecharger/$document
+chip.de##[href^="javascript:DownloadStartInit"]
+||download.cnet.com^$document
+mobile.twitter.com##._1_KafmK5:has(svg.YunaQoc2)
+mobile.twitter.com##main section ._1_KafmK5--src-app-containers-RichTimeline-cell:has(:scope > div > div > div > div > .YunaQoc2--src-app-components-PromotedIndicator-icon)
+speedtest.net##script:inject(abort-on-property-read.js, _sp_)
+cwtv.com##script:inject(abort-on-property-write.js, wallConfig)
+||myadcash.com/video_landing/js/*.js$script,redirect=noopjs,domain=multiup.eu|multiup.org
+howtogeek.com##.thecontent > div:has(a[href^="http://www.jdoqocy.com/click-"])
+||adition.com^$important,domain=spiegel.de
+quora.com##.upper_content:has(.promoted_link)
+eurogamer.net,rockpapershotgun.com,vg247.com##script:inject(abort-on-property-write.js, yafaIt)
+! https://adblockplus.org/forum/viewtopic.php?f=1&t=45634
+||1rx.s3.amazonaws.com/advert.js$script,redirect=noopjs,domain=allmusic.com
+||cdn.complexmedianetwork.com/js/cmnUNT.js$important,script,redirect=noopjs,domain=allmusic.com
+||allmedia-d.openx.net/w/1.0/jstag?nc=22732481-SideReel$script,redirect=noopjs,domain=allmusic.com
+||asset.pagefair.net/ads.min.js$script,important,redirect=noopjs,domain=allmusic.com
+||asset.pagefair.com/adimages/adsense.js$script,redirect=noopjs,domain=allmusic.com
+allmusic.com#@#.advertising
+allmusic.com#@#.medium-rectangle
+allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
+! To override https://github.com/easylist/easylist/commit/af5062ec57ea0c2fd43306c6bdc961bcc8e4e546 
+||amazon-adsystem.com/aax2/amzn_ads.js$script,important,domain=allmusic.com
+! To override https://github.com/easylist/easylist/commit/04d6f806e3e8b6059481c0c6452fa32bdb3cbce2
+||google-analytics.com/analytics.js$script,important,domain=allmusic.com
+||scorecardresearch.com/beacon.js$script,important,domain=allmusic.com
