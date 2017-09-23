@@ -780,3 +780,10 @@ mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 ||miner.pr0gramm.com^
 ||gus.host/coins.js$script
 ||cnhv.co^mixer.com##.cookie-wrapper
+||www.kharasach.com
+||www.nicheextensions.com
+||www.greysanatomy.com.br
+||www.iseeitnow.xyz
+||www.uasweekly.com
+||www.howdoyouplayit.com
+||www.ihavenet.com
