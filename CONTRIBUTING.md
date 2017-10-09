@@ -1,12 +1,13 @@
 ### Before you submit
 
-* Make sure your issue [hasn't already been fixed/mentioned in a recent release/issue ticket.
+* Make sure your issue [hasn't already been fixed/mentioned] in a recent release/issue ticket.
 * Verify that the issue does **not** occur with uBlock/uMatrix/ScriptSafe/NoScript disabled.
 * **Verify that the issue is not related to a 3rd-party filter lists.**
     - Issues with 3rd-party filter lists are the responsibility of their respective maintainers.
 * Verify that the issue is not caused by another extension.
 * Do not submit issues which can be reproduced **only** on Chrome Canary or Firefox Nightly: these are not stable browser versions and in all likelihood, whatever issue is not within this project.
     - Report **only** if you can reproduce in an official stable release, or a beta release.
+* Do not submit a ticket without any necessary information like 'why', 'how',...
 
 
 #### Filter lists
