@@ -9,30 +9,16 @@
 /?placement=*&redirect$popunder
 ||01net.com/telecharger/$document
 ||0mme.com^$script,domain=comicbook.com|popculture.com
-||0mme.com^$script,domain=comicbook.com|popculture.com
-||0mme.com^$script,domain=comicbook.com|popculture.com
 ||104.197.199.227^
-||104.197.199.227^$popup
 ||104.198.198.188^
-||104.198.198.188^$popup
-||1emn.com^$script,domain=hotair.com|moviepilot.com
-||1emn.com^$script,domain=hotair.com|moviepilot.com
 ||1emn.com^$script,domain=hotair.com|moviepilot.com
 ||1enm.com^$script,domain=champions.co|parkers.co.uk
-||1enm.com^$script,domain=champions.co|parkers.co.uk
-||1enm.com^$script,domain=champions.co|parkers.co.uk
 ||1rx.s3.amazonaws.com/advert.js$script,redirect=noopjs,domain=allmusic.com
-||1rx.s3.amazonaws.com/advert.js$script,redirect=noopjs,domain=allmusic.com
-||1rx.s3.amazonaws.com/advert.js$script,redirect=noopjs,domain=allmusic.com
-||2enm.com^$domain=androidpolice.com|beliefnet.com
-||2enm.com^$domain=androidpolice.com|beliefnet.com
 ||2enm.com^$domain=androidpolice.com|beliefnet.com
 ||2znp09oa.com
 ||4jnzhl0d0.com
 ||6ldu6qa.com
 ||82o9v830.com
-||8d1f.com^$script,domain=tvtropes.org
-||8d1f.com^$script,domain=tvtropes.org
 ||8d1f.com^$script,domain=tvtropes.org
 ||abandonedclover.com
 ||abruptroad.com
@@ -40,7 +26,6 @@
 ||adbutler-meson.com^$important,script,domain=uploaded.net
 ||adition.com^$important,domain=spiegel.de
 ||adnety.com^
-||adnety.com^$popup
 ||adnotbad.com^
 ||adnxs.com^$script,important,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||adserv.info^
@@ -49,10 +34,6 @@
 ||adternal.com/*/ad-loading.*$image,redirect=3x2-transparent.png
 ||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=0489c402f5/cloudflare.min.js$script,domain=tugaflix.net
 ||ak0gsh40.com
-||allmedia-d.openx.net/w/1.0/jstag?nc=22732481-SideReel$script,redirect=noopjs,domain=allmusic.com
-||allmedia-d.openx.net/w/1.0/jstag?nc=22732481-SideReel$script,redirect=noopjs,domain=allmusic.com
-||allmedia-d.openx.net/w/1.0/jstag?nc=22732481-SideReel$script,redirect=noopjs,domain=allmusic.com
-||amazon-adsystem.com/aax2/amzn_ads.js$script,important,domain=allmusic.com
 ||amazon-adsystem.com^$script,redirect=noopjs,domain=hackintosh.computer|hackintosh.zone
 ||ambitiousagreement.com
 ||andreas-unterberger.at/includes/js/helperFunctions.js$script,first-party
@@ -61,10 +42,6 @@
 ||aolcdn.com/ads/adswrappermsni.js$script,domain=msn.com,important
 ||argyresthia.com
 ||asset.pagefair.com/adimages/adsense.js$script,redirect=noopjs,domain=allmusic.com
-||asset.pagefair.com/adimages/adsense.js$script,redirect=noopjs,domain=allmusic.com
-||asset.pagefair.com/adimages/adsense.js$script,redirect=noopjs,domain=allmusic.com
-||asset.pagefair.net/ads.min.js$script,important,redirect=noopjs,domain=allmusic.com
-||asset.pagefair.net/ads.min.js$script,important,redirect=noopjs,domain=allmusic.com
 ||asset.pagefair.net/ads.min.js$script,important,redirect=noopjs,domain=allmusic.com
 ||assets-cdn.github.com/images/modules/site/site-signup-prompt.png$image
 ||awzbijw.com
@@ -83,8 +60,6 @@
 ||calmfoot.com
 ||carambo.la^$third-party
 ||cdn.complexmedianetwork.com/js/cmnUNT.js$important,script,redirect=noopjs,domain=allmusic.com
-||cdn.complexmedianetwork.com/js/cmnUNT.js$important,script,redirect=noopjs,domain=allmusic.com
-||cdn.complexmedianetwork.com/js/cmnUNT.js$important,script,redirect=noopjs,domain=allmusic.com
 ||cdn.mediafire.com/images/backgrounds/download/dl_promo_logo.png$image
 ||cdn.microify.com/static/image/ad_top*.png$image,first-party,redirect=1x1-transparent.gif
 ||cdn.pintient.com/static/image/ad_top*.png$image,first-party,redirect=1x1-transparent.gif
@@ -94,7 +69,6 @@
 ||chinchickens.com
 ||christianpost.com/js/plugins/sticky/sticky.js
 ||clicknety.com^
-||clicknety.com^$popup
 ||cnhv.co^mixer.com##.cookie-wrapper
 ||coin-hive.com^$third-party
 ||comfortablecheese.com
@@ -110,7 +84,6 @@
 ||critictruck.com
 ||crownclam.com
 ||ctnet2.in^
-||ctnet2.in^
 ||curtaincows.com
 ||cutecushion.com
 ||d.0emm.com^$third-party
@@ -120,13 +93,11 @@
 ||d.0mme.com^$third-party
 ||d.1emn.com^$third-party
 ||d.1enm.com^$third-party
-||d.2enm.com^$third-party
 ||d.3enm.com^$third-party
 ||d.4666.ch^$third-party
 ||d.8d1f.com^$third-party
 ||d.9emn.com^$third-party
 ||d.e0mn.com^$third-party
-||d.em0n.com^$third-party
 ||d.emn0.com^$third-party
 ||d.m80fg.com^$third-party
 ||d.mdf91.com^$third-party
@@ -134,7 +105,6 @@
 ||d.mpk01.com^$third-party
 ||d.ndf81.com^$third-party
 ||d.nfd81.com^$third-party
-||d.nn0e.com^$third-party
 ||d.rpts.org^$third-party
 ||d1447tq2m68ekg.cloudfront.net/advertisement.js$script,redirect=noopjs,domain=leparisien.fr
 ||d1zatounuylvwg.cloudfront.net/abw.js$script,third-party
@@ -148,33 +118,23 @@
 ||dk4ywix.com
 ||docksalmon.com
 ||doubleclick.net^$important,domain=aetv.com|history.com|mylifetime.com
-||doubleclick.net^$script,redirect=noopjs,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com
-||doubleclick.net^$subdocument,redirect=noopframe,domain=hackintosh.computer|hackintosh.zone
 ||doubtfulrainstorm.com
 ||download.cnet.com^$document
 ||download.mokeedev.com/js/jquery-common.js.*$first-party,script,redirect=fuckadblock.js-3.2.0
 ||dragonball-tube.com/templates/caprica/images/pw.jpg$image
 ||dragzebra.com
 ||dropapk.com/images/mngez-maxspeed.swf$object
-||dropapk.com/images/mngez-maxspeed.swf$object
-||dropapk.com/images/mngez-minspeed.swf$object
-||dropapk.com/images/mngez-minspeed.swf$object
 ||dropapk.com/images/mngez-minspeed.swf$object
 ||dubshub.com^$script,redirect=noopjs,domain=fastserver.me
-||e0mn.com^$script,domain=patheos.com
-||e0mn.com^$script,domain=patheos.com
 ||e0mn.com^$script,domain=patheos.com
 ||edgeno.de^$script,third-party,domain=~edgemesh.com
 ||elasticchange.com
 ||elephantqueue.com
 ||em0n.com^$domain=businessinsider.com|grubstreet.com|nowloading.co|twitchy.com
-||em0n.com^$domain=businessinsider.com|grubstreet.com|nowloading.co|twitchy.com
-||em0n.com^$domain=businessinsider.com|grubstreet.com|nowloading.co|twitchy.com
 ||eurotransport.de/*/antiAdBlock.js$script,first-party,redirect=antiAdBlock.js
 ||exclusivebrass.com
 ||exoclick.com/ad_track.js$important,script,domain=uploaded.net
 ||fieldpprofile.com^
-||fieldpprofile.com^$popup
 ||file-upload.net^$subdocument
 ||flavordecision.com
 ||flexytalk.net^
@@ -196,11 +156,8 @@
 ||go.oclasrv.com/apu.php$script,redirect=noopjs
 ||go.onclasrv.com/apu.php$script,redirect=noopjs
 ||godlessnightsfilm.co.uk/scripts/ad-gallery/$important,third-party
-||google-analytics.com/analytics.js$script,important,domain=allmusic.com
 ||google-analytics.com^$important
 ||googlesyndication.com^$important,domain=short.am|clubedohardware.com.br
-||googlesyndication.com^$script,important,redirect=noopjs,domain=hackintosh.computer|hackintosh.zone
-||googlesyndication.com^$script,redirect=noopjs,domain=fastserver.me
 ||gorgeousground.com
 ||graphiq.com/sites/all/modules/custom/ads/*$script,important,domain=credio.com|findthecompany.com|healthgrove.com|insidegov.com|mooseroots.com|petbreeds.com|softwareinsider.com|startclass.com
 ||greetzebra.com
@@ -232,10 +189,7 @@
 ||jyhfuqoh.info^
 ||karisimbi.net
 ||kingofdown.com/img/180upload.png$image,redirect=2x2-transparent.png
-||kingofdown.com/img/180upload.png$image,redirect=2x2-transparent.png
 ||koinser.in^
-||koinser.in^
-||lacerta.space^
 ||lacerta.space^
 ||lanoc.org/images/stories/LanOC/websiteimages/supportus.png$image
 ||latimes.com^$generichide,important
@@ -253,41 +207,27 @@
 ||market-buster.com^$popup
 ||matchcows.com
 ||mdf91.com^$script,domain=townhall.com
-||mdf91.com^$script,domain=townhall.com
-||mdf91.com^$script,domain=townhall.com
 ||messagenovice.com
 ||mh.signetter.com/m41983
 ||miner.pr0gramm.com^
 ||mixedreading.com
-||mn0e.com^$script,domain=wwg.com
-||mn0e.com^$script,domain=wwg.com
 ||mn0e.com^$script,domain=wwg.com
 ||mowfruit.com
 ||msn.com/advertisement.ad.js$script,first-party,important
 ||myadcash.com/video_landing/js/*.js$script,redirect=noopjs,domain=multiup.eu|multiup.org
 ||nationalpost.com^$generichide,important
 ||nn0e.com^$domain=eurogamer.net
-||nn0e.com^$domain=eurogamer.net
-||nn0e.com^$domain=eurogamer.net
 ||nowlivebot.com/public/images/TranslatorAd.png$image
 ||ntv.io^$script,important,domain=latimes.com
 ||onclkds.com/apu.php$script,redirect=noopjs
 ||onepiece-tube.com/templates/Grafiken/adb2.jpg$image
 ||opencarry.org/wp-content/uploads/*468x103$image
-||opencarry.org/wp-content/uploads/*468x103$image
-||opencarry.org/wp-content/uploads/*468x165$image
 ||opencarry.org/wp-content/uploads/*468x165$image
 ||opengapps.org/images/se.bota.png
 ||opengapps.org/images/se.png
 ||openx.net^$script,important,domain=latimes.com
 ||ov2ochu.bid^
 ||ovalpigs.com
-||pagead2.googlesyndication.com^$script,important,domain=360haven.com
-||pagead2.googlesyndication.com^$script,important,domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de
-||pagead2.googlesyndication.com^$script,important,domain=latimes.com
-||pagead2.googlesyndication.com^$script,redirect=noopjs,domain=download.mokeedev.com
-||pagead2.googlesyndication.com^$script,redirect=noopjs,domain=kingofdown.com|kingofshrink.com
-||pagead2.googlesyndication.com^$script,redirect=noopjs,domain=kingofdown.com|kingofshrink.com
 ||pcmag.com^$csp=default-src http://*.pcmag.com 'unsafe-inline' 'unsafe-eval' data: blob: bootstrapcdn.com *.bootstrapcdn.com disqus.com *.disqus.com disquscdn.com *.disquscdn.com facebook.com *.facebook.com googleapis.com *.googleapis.com gstatic.com *.gstatic.com ign.com *.ign.com pinterest.com *.pinterest.com reddit.com *.reddit.com truste.com *.truste.com youtube.com *.youtube.com youtube-nocookie.com *.youtube-nocookie.com zdbb.net *.zdbb.net ziffdavisinternet.com *.ziffdavisinternet.com ziffstatic.com *.ziffstatic.com
 ||peacepowder.com
 ||photographpan.com
@@ -312,9 +252,7 @@
 ||resolutekey.com
 ||restream.io/img/install_flash.png$image
 ||restream.io/img/promo/trash-meme/logo.gif$image
-||restream.io/img/promo/trash-meme/logo.gif$image
 ||roughted.com^
-||roughted.com^$inline-script
 ||rsload.net/images5/premssf.png$image
 ||rubiconproject.com^$script,important,domain=latimes.com
 ||rulerabbit.com
@@ -331,7 +269,6 @@
 ||scrubswim.com
 ||separatesilver.com
 ||serverads.net^
-||seyfert.space^
 ||seyfert.space^
 ||shakesea.com
 ||shakytaste.com
@@ -381,7 +318,6 @@
 ||tradeadsexchange.com^
 ||traffichunt.com^$document,popup
 ||trafficjunky.net^$third-party,important
-||trafficjunky.net^$third-party,important
 ||trafficstars.com^$document
 ||trendtext.eu^
 ||trhnt.com^$document,popup
@@ -404,13 +340,11 @@
 ||w.0mme.com^$third-party
 ||w.1emn.com^$third-party
 ||w.1enm.com^$third-party
-||w.2enm.com^$third-party
 ||w.3enm.com^$third-party
 ||w.4666.ch^$third-party
 ||w.8d1f.com^$third-party
 ||w.9emn.com^$third-party
 ||w.e0mn.com^$third-party
-||w.em0n.com^$third-party
 ||w.emn0.com^$third-party
 ||w.m80fg.com^$third-party
 ||w.mdf91.com^$third-party
@@ -418,7 +352,6 @@
 ||w.mpk01.com^$third-party
 ||w.ndf81.com^$third-party
 ||w.nfd81.com^$third-party
-||w.nn0e.com^$third-party
 ||w.rpts.org^$third-party
 ||wateryvan.com
 ||windowscentral.com/sites/wpcentral.com/files/advagg_js/$script,badfilter
@@ -462,8 +395,6 @@
 ||xovq5nemr.com
 ||xxlargepop.com/apu.php$script,redirect=noopjs
 ||xxxmyself.com^$important
-||xxxmyself.com^$important
-||xxxnavy.com^$important
 ||xxxnavy.com^$important
 ||z.moatads.com^$script,redirect=noopjs,domain=pga.com
 ||zbwp6ghm.com
@@ -495,10 +426,6 @@ allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com#@#.advertising
-allmusic.com#@#.advertising
-allmusic.com#@#.advertising
-allmusic.com#@#.medium-rectangle
-allmusic.com#@#.medium-rectangle
 allmusic.com#@#.medium-rectangle
 androidpolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,grubstreet.com,hotair.com,moviepilot.com,nowloading.co,parkers.co.uk,patheos.com,popculture.com,townhall.com,tvtropes.org,twitchy.com,wwg.com##script:inject(abort-on-property-read.js, stop)
 animes-mangas-ddl.com,best-movies.info,bnonews.com,crazymeds.us,d-h.st,hulkusc.com,ip-address.org,megapanda.net,nplay.com,playlivenewz.com,sadeempc.com,upload.so,uploadshub.com,userscdn.com,yourvideohost.com##script:inject(bab-defuser.js)
@@ -690,7 +617,6 @@ google.*###center_col > #\5f Emc
 google.*###center_col > #main > .dfrd > .mnr-c > .c._oc._zs
 google.*###center_col > #res > #topstuff + #search > div > #ires > #rso > #flun
 google.*###center_col > #resultStats + #tads
-google.*###center_col > #resultStats + #tads + #res + #tads
 google.*###center_col > #resultStats + div + #res + #tads
 google.*###center_col > #resultStats + div[style="border:1px solid #dedede;margin-bottom:11px;padding:5px 7px 5px 6px"]
 google.*###center_col > #taw > #tvcap > .rscontainer
@@ -701,7 +627,6 @@ google.*###main_col > #center_col div[style="font-size:14px;margin:0 4px;padding
 google.*###mbEnd[cellspacing="0"][cellpadding="0"]
 google.*###mclip_container:last-child
 google.*###mn #center_col > div > h2.spon:first-child
-google.*###mn #center_col > div > h2.spon:first-child + ol:last-child
 google.*###mn div[style="position:relative"] > #center_col > ._Ak
 google.*###mn div[style="position:relative"] > #center_col > div > ._dPg
 google.*###resultspanel > #topads
@@ -1300,8 +1225,6 @@ zippyshare.com##script:inject(abort-current-inline-script.js, String.fromCharCod
 @@||7sim.net^$generichide
 @@||9anime.to^$generichide
 @@||al.ly^$generichide
-@@||al.ly^$generichide
-@@||ally.sh^$generichide
 @@||ally.sh^$generichide
 @@||atresplayer.com^$generichide
 @@||behindwoods.com^$generichide
@@ -1332,10 +1255,6 @@ zippyshare.com##script:inject(abort-current-inline-script.js, String.fromCharCod
 @@||imleagues.com^$generichide
 @@||insidegov.com/ad$xmlhttprequest,first-party
 @@||kingofdown.com^$generichide
-@@||kingofdown.com^$generichide
-@@||kingofshrink.com/img/skip.png$image,first-party
-@@||kingofshrink.com/img/skip.png$image,first-party
-@@||kingofshrink.com^$generichide
 @@||kingofshrink.com^$generichide
 @@||kisscartoon.*^$script,first-party
 @@||leech.ae^$generichide
@@ -1356,7 +1275,6 @@ zippyshare.com##script:inject(abort-current-inline-script.js, String.fromCharCod
 @@||pro.hit.gemius.pl/gplayer.js$script,domain=nova.cz
 @@||randaris-anime.net^$generichide
 @@||skystreaming.net^$generichide
-@@||softonic.com/shared/abp_detection/$script,first-party
 @@||softonic.com^$generichide
 @@||softwareinsider.com/ad$xmlhttprequest,first-party
 @@||startclass.com/ad$xmlhttprequest,first-party
