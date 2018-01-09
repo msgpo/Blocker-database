@@ -1,6 +1,6 @@
 ! Title: CHEF-KOCH's Custom Filter List
 ! Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NoScript-Whitelist/master/uBlock₀/my-ublock-static-filters.txt
-! Updated: Jan. 6 2018
+! Updated: Jan. 9 2018
 *$websocket,domain=1337x.to|datpiff.com|freewarefiles.com|jpost.com|kinotochka.net|tetrisfriends.com|thecountrycaller.com|videowood.tv
 *$websocket,domain=linkshrink.net
 */blockadblock.$script,redirect=fuckadblock.js-3.2.0
@@ -26,14 +26,6 @@
 ||adbutler-meson.com^$important,script,domain=uploaded.net
 ||adition.com^$important,domain=spiegel.de
 ||adnety.com^
-||adnotbad.com^
-||adnxs.com^$script,important,domain=metal-hammer.de|musikexpress.de|rollingstone.de
-||adserv.info^
-||adserver.adtech.de^$xmlhttprequest,redirect=nooptext,domain=nova.cz
-||adswithsalt.com/*/ad-loading.pic$image,redirect=3x2-transparent.png
-||adternal.com/*/ad-loading.*$image,redirect=3x2-transparent.png
-||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=0489c402f5/cloudflare.min.js$script,domain=tugaflix.net
-||ak0gsh40.com
 ||amazon-adsystem.com^$script,redirect=noopjs,domain=hackintosh.computer|hackintosh.zone
 ||ambitiousagreement.com
 ||andreas-unterberger.at/includes/js/helperFunctions.js$script,first-party
@@ -48,70 +40,9 @@
 ||balloontexture.com
 ||baskettexture.com
 ||bawdybeast.com
-||beamincrease.com
-||beamkite.com
-||boilingbeetle.com
-||boredcrown.com
-||branchroughlend.info^$popup
-||brassrule.com
-||broadboundary.com
-||broadcastbed.com
-||bs.to/public/img/vavoo.png$image
-||calmfoot.com
-||carambo.la^$third-party
-||cdn.complexmedianetwork.com/js/cmnUNT.js$important,script,redirect=noopjs,domain=allmusic.com
-||cdn.mediafire.com/images/backgrounds/download/dl_promo_logo.png$image
-||cdn.microify.com/static/image/ad_top*.png$image,first-party,redirect=1x1-transparent.gif
-||cdn.pintient.com/static/image/ad_top*.png$image,first-party,redirect=1x1-transparent.gif
-||chart.av-comparatives.org/scripts/css/images/report.png$image
-||cherrythread.com
-||chiefcurrent.com
-||chinchickens.com
-||christianpost.com/js/plugins/sticky/sticky.js
-||clicknety.com^
-||cnhv.co^mixer.com##.cookie-wrapper
-||coin-hive.com^$third-party
-||comfortablecheese.com
-||commandwalk.com
-||concernrain.com
-||consciouscabbage.com
-||copperchickens.com
-||copycarpenter.com
-||copyrightaccesscontrols.com
-||cqfnvznw.info^
-||crackberry.com/sites/crackberry.com/files/advagg_js/$script,badfilter
-||crawlclocks.com
-||critictruck.com
-||crownclam.com
 ||ctnet2.in^
 ||curtaincows.com
 ||cutecushion.com
-||d.0emm.com^$third-party
-||d.0emn.com^$third-party
-||d.0enm.com^$third-party
-||d.0fmm.com^$third-party
-||d.0mme.com^$third-party
-||d.1emn.com^$third-party
-||d.1enm.com^$third-party
-||d.3enm.com^$third-party
-||d.4666.ch^$third-party
-||d.8d1f.com^$third-party
-||d.9emn.com^$third-party
-||d.e0mn.com^$third-party
-||d.emn0.com^$third-party
-||d.m80fg.com^$third-party
-||d.mdf91.com^$third-party
-||d.mn0e.com^$third-party
-||d.mpk01.com^$third-party
-||d.ndf81.com^$third-party
-||d.nfd81.com^$third-party
-||d.rpts.org^$third-party
-||d1447tq2m68ekg.cloudfront.net/advertisement.js$script,redirect=noopjs,domain=leparisien.fr
-||d1zatounuylvwg.cloudfront.net/abw.js$script,third-party
-||d2f8tie0ouoft.cloudfront.net$object,domain=www.twitch.tv
-||dailymotion.com/ac/video/$image,first-party,redirect=2x2-transparent.png
-||data.*.info^$document,popunder,popup
-||de/*/ad_bomb/*$image,redirect=2x2-transparent.png
 ||decisiveducks.com
 ||delightdriving.com
 ||differentdesk.com
@@ -139,12 +70,6 @@
 ||flavordecision.com
 ||flexytalk.net^
 ||floodprincipal.com
-||forum.xda-cdn.com/images/oneplus-badge-4.jpg$image
-||forum.xda-cdn.com/images/oneplus-badge-5.jpg$image
-||forum.xda-cdn.com/images/oneplus-badge-6.jpg$image
-||forum.xda-cdn.com/images/oneplus-badge-8.jpg$image
-||forum.xda-cdn.com/images/oneplus-badge-9.jpg$image
-||forum.xda-cdn.com/images/oneplus-badge-student-1.png$image
 ||fullpremiums.com/templates/plugmod/images/a.png
 ||functionalclam.com
 ||futuristicfairies.com
@@ -168,10 +93,6 @@
 ||gzhls.at/b/ds_fb2.png$image
 ||gzhls.at/b/guterrat-2015-11.png$image
 ||gzhls.at/b/heise-coop.png$image
-||h78xb.pw
-||hackintosh.zone/cdn-cgi/apps/head/*$xmlhttprequest,first-party
-||hfc195b.com
-||hilariouszinc.com
 ||http://mms.bournemouthecho.co.uk^$script
 ||i.ytimg.com/an/CI6C8hD-hTZi2JEmS7zvQw/featured_channel.jpg?v=56988f12
 ||i0.wp.com/cdn.edgecast.steamstatic.com/steam/apps/274520/extras/app_greenlight_banner_english.png$image
@@ -228,8 +149,6 @@
 ||openx.net^$script,important,domain=latimes.com
 ||ov2ochu.bid^
 ||ovalpigs.com
-||pcmag.com^$csp=default-src http://*.pcmag.com 'unsafe-inline' 'unsafe-eval' data: blob: bootstrapcdn.com *.bootstrapcdn.com disqus.com *.disqus.com disquscdn.com *.disquscdn.com facebook.com *.facebook.com googleapis.com *.googleapis.com gstatic.com *.gstatic.com ign.com *.ign.com pinterest.com *.pinterest.com reddit.com *.reddit.com truste.com *.truste.com youtube.com *.youtube.com youtube-nocookie.com *.youtube-nocookie.com zdbb.net *.zdbb.net ziffdavisinternet.com *.ziffdavisinternet.com ziffstatic.com *.ziffstatic.com
-||peacepowder.com
 ||photographpan.com
 ||pietexture.com
 ||plufdsa.com^
@@ -266,94 +185,6 @@
 ||scarcestream.com
 ||scorecardresearch.com/beacon.js$script,important,domain=allmusic.com
 ||scrubsky.com
-||scrubswim.com
-||separatesilver.com
-||serverads.net^
-||seyfert.space^
-||shakesea.com
-||shakytaste.com
-||shallowschool.com
-||shelterstraw.com
-||shiveringsail.com
-||shockingswing.com
-||simplisticnose.com
-||sinceresofa.com
-||slopeaota.com^$document,popup
-||smartadserver.com^$script,important,domain=metal-hammer.de|musikexpress.de|rollingstone.de|welt.de
-||snakesort.com
-||sneaklevel.com
-||sneakystamp.com
-||spaceshipad.com^
-||spectacularsnail.com
-||spillvacation.com
-||sport1.de*/my_ad_integration.js$script,redirect=noopjs,domain=sport1.de
-||squeamishscarecrow.com
-||st.deviantart.net/misc/updatebrowser_ylw_bg.png$image
-||static.alphacoders.com/background_alphacoders.svg$image
-||static1.caseking.de/media/image/ribbon_instagram.png$image
-||station-drivers.com/templates/allrounder-j1.6/images/modules/module-rt.png$image
-||station-drivers.com/templates/allrounder-j1.6/images/shadow-l.png$image
-||station-drivers.com/templates/allrounder-j1.6/images/shadow-r.png$image
-||storesurprise.com
-||stormyachiever.com
-||stormyshock.com
-||stormysponge.com
-||straightnest.com
-||strivesidewalk.com
-||structuresofa.com
-||succeedscene.com
-||sun.torrentfunk.com^$subdocument
-||superficialsink.com
-||svonm.com/hd-main.js$script,redirect=hd-main.js,domain=chip.de|cinema.de|cdnapi.kaltura.com
-||takethatad.com^
-||terribleturkey.com
-||thepiratebay.org/static/*/exo_na$first-party,subdocument
-||thepiratebay.org/static/img/tpb.jpg$image
-||thevideo.me/assets/g=adb
-||thirdrespect.com
-||throattrees.com
-||tidytrail.com
-||tisoomitech.com/*/ad-image.png$image,redirect=2x2-transparent.png
-||tracedesire.com
-||tradeadsexchange.com^
-||traffichunt.com^$document,popup
-||trafficjunky.net^$third-party,important
-||trafficstars.com^$document
-||trendtext.eu^
-||trhnt.com^$document,popup
-||trhunt.com^$document,popup
-||trickycelery.com
-||tritetongue.com
-||truckstomatoes.com
-||tugaflix.net/tema/marsbet_3.gif
-||unknowntray.com
-||unusualtitle.com
-||username1.link^$important
-||videoexpertsgroup.com^
-||videotoolbox.com^$csp=script-src 'self' * 'unsafe-inline'
-||vidgg.to/video/$inline-script
-||voicevegetable.com
-||w.0emm.com^$third-party
-||w.0emn.com^$third-party
-||w.0enm.com^$third-party
-||w.0fmm.com^$third-party
-||w.0mme.com^$third-party
-||w.1emn.com^$third-party
-||w.1enm.com^$third-party
-||w.3enm.com^$third-party
-||w.4666.ch^$third-party
-||w.8d1f.com^$third-party
-||w.9emn.com^$third-party
-||w.e0mn.com^$third-party
-||w.emn0.com^$third-party
-||w.m80fg.com^$third-party
-||w.mdf91.com^$third-party
-||w.mn0e.com^$third-party
-||w.mpk01.com^$third-party
-||w.ndf81.com^$third-party
-||w.nfd81.com^$third-party
-||w.rpts.org^$third-party
-||wateryvan.com
 ||windowscentral.com/sites/wpcentral.com/files/advagg_js/$script,badfilter
 ||wirecomic.com
 ||wp.com/*/adsbygoogle.js$script,important,domain=9to5mac.com
@@ -427,7 +258,7 @@ allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com#@#.advertising
 allmusic.com#@#.medium-rectangle
-androidpolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,grubstreet.com,hotair.com,moviepilot.com,nowloading.co,parkers.co.uk,patheos.com,popculture.com,townhall.com,tvtropes.org,twitchy.com,wwg.com##script:inject(abort-on-property-read.js, stop)
+anupolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,grubstreet.com,hotair.com,moviepilot.com,nowloading.co,parkers.co.uk,patheos.com,popculture.com,townhall.com,tvtropes.org,twitchy.com,wwg.com##script:inject(abort-on-property-read.js, stop)
 animes-mangas-ddl.com,best-movies.info,bnonews.com,crazymeds.us,d-h.st,hulkusc.com,ip-address.org,megapanda.net,nplay.com,playlivenewz.com,sadeempc.com,upload.so,uploadshub.com,userscdn.com,yourvideohost.com##script:inject(bab-defuser.js)
 apkmos.com##.td_block_template_1.td-pb-border-top.td_uid_8_59adb3970cb3a_rand.td_block_widget.td_block_social_counter.td_block_wrap
 apkmos.com##.td_block_template_1.td_uid_7_59adb3970c6e8_rand.td-g-rec-id-sidebar.td-g-rec > .adsbygoogle
@@ -690,165 +521,6 @@ hltv.org##body:style(background: #e5e7ea !important;)
 howtogeek.com##.thecontent > div:has(a[href^="http://www.jdoqocy.com/click-"])
 hralinks.info###wrap > h1
 http*://www.*.bid/*.js^$script,third-party
-imore.com##script:inject(imore-sanitizer.js)
-imouto.my###text-11
-imouto.my###text-12
-jav4.me##script:contains(adblock.htm)
-jeu.info###page [class^="banniere-"]
-jeux-porno.net##script:contains(/^\s*?var\s+?uniqueParam\s*?=/)
-katcr.co##.credits
-katcr.co##.myBlock:nth-of-type(1)
-katcr.co##.myBlock:nth-of-type(2) > div:nth-of-type(3)
-kbb.com##script:inject(abort-on-property-read.js, KBB.DetectBlockerExtensions)
-kino-dom.org##script:contains(my_abadiv)
-kissanime.*##script:inject(kissanime-defuser.js)
-kisscartoon.*##script:inject(noeval.js)
-knowyourmeme.com##script:inject(abort-on-property-write.js, upManager)
-korrespondent.net,nnm-club.name,nnmclub.to##script:inject(abort-current-inline-script.js, MutationObserver, 676574456c656d656e747342795461674e616d65)
-lanoc.org###rt-footer
-lanoc.org##.cw-social-mod-bookmark
-lanoc.org##.cw-social-mod-follow
-layer13.net##script:contains(adBlockDetected)
-linkshrink.net##script:inject(noeval.js)
-linternaute.com##script:contains(/^\s*var\s+Asl=/)
-livenewschat.eu##ins[id^="aswift_"]
-livenewschat.eu##script:inject(bab-defuser.js)
-livesplit.org##.sidebar:nth-of-type(2)
-livesplit.org##.sidebar:nth-of-type(3)
-m.aajtak.in##body > #adbocker_alt.adblocker-page
-m.aajtak.in##body > .pubTime:style(display: block !important)
-m.aajtak.in##body > .secArticleImage:style(display: block !important)
-m.aajtak.in##body > .secArticleTitle:style(display: block !important)
-m.aajtak.in##body > .storyBody:style(display: block !important)
-mail.protonmail.com##.col-1-2:nth-of-type(1)
-mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
-mail.protonmail.com##section:nth-of-type(2)
-math-aids.com##script:inject(abort-on-property-write.js, __drizzleSettings)
-mikuia.tv##a[href="/supporter"] > .dashboard-stat2
-mind42.com###content.sidebar2:style(margin-right: 0 !important;)
-mind42.com###sidebar
-mirillis.com###wysuwane
-mirrorace.com##.uk-text-center.uk-margin-bottom.uk-width-1-1:nth-of-type(2)
-mixer.com##.cookie-wrapper
-mobile.twitter.com##._1_KafmK5:has(svg.YunaQoc2)
-mobile.twitter.com##main section ._1_KafmK5--src-app-containers-RichTimeline-cell:has(:scope > div > div > div > div > .YunaQoc2--src-app-components-PromotedIndicator-icon)
-monova.org##script:inject(abort-on-property-read.js, adblock)
-monova.org#@#script + [class] > [class]:first-child
-mumbaimirror.indiatimes.com###blcontent
-mumbaimirror.indiatimes.com###blwrapper
-mumbaimirror.indiatimes.com###container:style(opacity: 1 !important;)
-mumbaimirror.indiatimes.com##body:style(overflow: auto !important;)
-navigaweb.net##script:inject(alert-buster.js)
-nerdordie.com##.alert-warning.alert
-newser.com##script:inject(abort-on-property-read.js, checkAds)
-newser.com##script:inject(abort-on-property-read.js, oio)
-obsproject.com###FacebookButton > a[href="https://www.facebook.com/OpenBroadcasterSoftware"]
-oload.tv,openload.co,streamango.com##script:inject(openload.co.js)
-onkyo4k.com##.notice-row
-opencarry.org##[id^=ad_global]
-opencarry.org##[id^=ad_global]
-opengapps.org###donatebox
-opengapps.org###extrabox
-opengapps.org##.footer-container
-opengapps.org##.has-scrolling-header.mdl-layout__container > .is-upgraded.has-tabs.is-small-screen.has-drawer.mdl-layout--overlay-drawer-button.mdl-layout--fixed-tabs.mdl-layout--fixed-header.mdl-js-layout.mdl-layout > .mdl-layout__header--scroll.mdl-layout__header > .mdl-layout__drawer-button
-openload.*##script:contains(/^\s*window\.popAdsLoaded=/)
-openload.co#@##videooverlay
-openload.co#@#.vjs-poster
-passport.twitch.tv##.text-content > .item:nth-of-type(1)
-pastebin.com###abrpm > div
-pastebin.com###mid_footer
-pastebin.com###notice
-pastebin.com###paypal-overlay
-pcgames-download.com##.one-third.column-2.column > .widgets > .widget_text.widget:nth-of-type(3)
-pcgames-download.com##.widget_text.widget:nth-of-type(2)
-pcgames-download.com##.widget_text.widget:nth-of-type(5)
-plus.google.com##.k7iNHb.G6GRIc.nWGHWc.Jvazdb.gLYlfd > .OFyC1e > .u5oEgd > c-wiz > .UVZlkc > .WH2D3d.eejsDc.YKZUAc > .L1NA8d > .M9kDrd[href^="https://support.google.com/plus/"]
-pornfun.com##script:contains(canRunAds)
-pornhub.com##div video[id]:first-child > source[src^="data:"]:xpath(../../..)
-pornhub.com##script:inject(abort-on-property-write.js, isAdblockOn)
-quora.com##.upper_content:has(.promoted_link)
-rapidvideo.com##script:inject(abort-on-property-write.js, executed)
-rapidvideo.com##script:inject(noeval.js)
-rapidvideo.com##script:inject(popads.net.js)
-rarbg.to##script:inject(abort-on-property-read.js, _wm3)
-restream.io###jsFlash
-restream.io###jsNonEmptyChannelsList > div:nth-of-type(2)
-restream.io##.app-tips__wrap
-rgho.st###fixblock > .hidden-xs.text-center.alert-warning.alert
-rgho.st##.hidden-xs.m-b-0.text-center.alert-warning.alert
-rsload.net##.center.flex-row.fbottom
-rsload.net##.clearfix.video-box.full-text.short-text > div:nth-of-type(5)
-rsload.net##.side-box:nth-of-type(2) > .icon-l.side-bt
-rsload.net##.side-box:nth-of-type(2) > .side-bc
-rsload.net##.side-box:nth-of-type(5) > .icon-l.side-bt
-rsload.net##.side-box:nth-of-type(5) > .side-bc
-rsload.net##.speedbar
-rsload.net##center:nth-of-type(1)
-rtl.fr##script:inject(rtlfr-defuser.js)
-s12-eu5.startpage.com###addtobrowser
-s12-eu5.startpage.com##li:nth-of-type(2) > .no-mobile.add-to-browser-hover.add-to-browser.addsettings
-salefiles.com##script:inject(abort-on-property-read.js, adblock)
-salefiles.com##script:inject(abort-on-property-write.js, Fingerprint2)
-salefiles.com##script:inject(noeval.js)
-salinga.everywebhost.com###HitGlobe
-salinga.everywebhost.com###SideFrames
-sceper.ws##body > div:nth-of-type(8)
-sembilhete.tv##script:inject(fuckadblock.js-3.2.0)
-sendit.cloud##.widget-tasks.widget:nth-of-type(2)
-serienstream.to##script:inject(abort-current-inline-script.js, document.readyState, /(?:\\x[0-9a-f]{2}){20}/)
-shink.in##[id*=ScriptRoot]
-shink.in##a[href*="adk2x"]
-shink.in##script:inject(abort-on-property-read.js, RunAds)
-shink.in##script:inject(abort-on-property-read.js, blockAdBlock)
-shink.in##script:inject(abort-on-property-read.js, jsPopunder)
-shink.in##script:inject(abort-on-property-write.js, Fingerprint2)
-shink.in##script:inject(abort-on-property-write.js, _pop)
-skidrowgamesreloaded.com###innertop > .grid-h.width100.grid-box
-skidrowgamesreloaded.com##.deepest.widget_text.mod-color.module
-skystreaming.net###fanback + style + div[id]
-skystreaming.net##script:contains(abisuq)
-softonic.com###show_banner_leaderboard
-softonic.com###show_banner_medium_rectangle
-softonic.com##script:inject(fuckadblock.js-3.2.0)
-soundcloud.com###content > div > .l-fluid-fixed > .l-sidebar-right
-soundcloud.com###content > div > .l-fluid-fixed > .l-sidebar-right > .l-fixed.sc-browsers-enable-gpu.sc-clearfix.streamSidebar > .dashbox > .dashbox__wrapper > .sc-background-light.dashbox__box[href^="/upload"]
-soundcloud.com###content > div > .l-fluid-fixed > .l-sidebar-right > .l-fixed.sc-browsers-enable-gpu.sc-clearfix.streamSidebar > .mobileApps.g-all-transitions-200-linear.sidebarModule > .sc-border-light-bottom.sc-type-light.sc-clearfix.sidebarHeader
-soundcloud.com###content > div > .l-fluid-fixed > .l-sidebar-right > .l-fixed.sc-browsers-enable-gpu.sc-clearfix.streamSidebar > .mobileApps.g-all-transitions-200-linear.sidebarModule > .sidebarContent
-soundcloud.com###content > div > .l-listen-wrapper > .l-about-main > .l-about-rows > .l-listen__mainContent.l-about-row > .l-about-right > .listenDetails > .listenDetails__login > .listenLogin
-soundcloud.com###content > div > .l-listen-wrapper > .l-about-main > .l-about-rows > .l-listen__mainContent.l-about-row > .l-about-right > .listenDetails > .listenDetails__login > .listenLogin > .sc-media > .sc-font-light.sc-media-content
-soundcloud.com###content > div > .l-listen-wrapper > .l-sidebar-right > .listenNetworkSidebar > .mobileApps.g-all-transitions-200-linear.sidebarModule > .sc-border-light-bottom.sc-type-light.sc-clearfix.sidebarHeader
-soundcloud.com###content > div > .l-listen-wrapper > .l-sidebar-right > .listenNetworkSidebar > .mobileApps.g-all-transitions-200-linear.sidebarModule > .sc-border-light-bottom.sc-type-light.sc-clearfix.sidebarHeader
-soundcloud.com###content > div > .l-listen-wrapper > .l-sidebar-right > .listenNetworkSidebar > .mobileApps.g-all-transitions-200-linear.sidebarModule > .sidebarContent
-soundcloud.com###content > div > .l-listen-wrapper > .l-sidebar-right > .listenNetworkSidebar > .mobileApps.g-all-transitions-200-linear.sidebarModule > .sidebarContent > .m-sidebar.sc-clearfix.mobileAppsButtons
-speedtest.net##script:inject(abort-on-property-read.js, _sp_)
-spiegel.de#@#.wrapad
-stadt-bremerhaven.de##.complete > table > tbody > tr:nth-of-type(2) > td > .wrapper > .main > .sidebar > center:nth-of-type(1)
-static.kzar.co.uk##.hideme
-station-drivers.com###afterhead6
-station-drivers.com###afterhead6 > .module-outer > .module
-station-drivers.com###rightcol > .module-outer:nth-of-type(1) > .module > div > div
-station-drivers.com###rightcol > .module-outer:nth-of-type(1) > .module > div > div > .lvround-inner
-station-drivers.com###rightcol > .module-outer:nth-of-type(1) > .shadow-left
-station-drivers.com###rightcol > .module-outer:nth-of-type(1) > .shadow-right
-station-drivers.com##.module-outer:nth-of-type(7) > .module > div > div > .lvround-inner
-station-drivers.com##.module-outer:nth-of-type(7) > .shadow-right
-streamcloud.eu###ej4udklxae4ivbo6r > a[href^="http://engine.4dsply.com/clicktag.engine"]
-streamcloud.eu###footer
-streamcloud.eu###nimbrkf7x60fpyzaor
-streamcloud.eu###xz4k9a1o0t4wzmpldi
-streamlive.to###WarningCodecBanner
-streamlive.to##script:inject(abort-current-inline-script.js, parseInt, charAt)
-streamlive.to##script:inject(nowebrtc.js)
-support.google.com##.shaded.sub-article-container
-support.microsoft.com###skylight-entry-chrome
-support.microsoft.com##.full-width.ng-scope.bubble-below.bubble-content.message-bubble
-support.ubi.com##.message--cookie--show.message--cookie.message > .content-wrapper
-suprafiles.org###container > div:nth-of-type(2)
-suprafiles.org##.page-buffer
-tampermonkey.net##.ad-changelog-block
-tampermonkey.net##td:nth-of-type(2) > .noborder > tbody > tr > td
-techtimes.com##.sec-title2:has-text(From Our Sponsor)
-thegamerz.deviantart.com###update-browser-banner
 thehackernews.com###HTML6 > .widget-content > .sidewalaad.clear
 thehackernews.com###firebox[href="#"] > div
 thehackernews.com###ouibounce-modal > .modal
@@ -886,61 +558,6 @@ twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > .flex
 twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > .flex-module
 twitter.com##.roaming-module.module.Footer > .flex-module
 twitter.com##.roaming-module.module.Footer > .flex-module:nth-of-type(1)
-uploaded.net###fakeContentBoxContainer
-uploaded.net###pico-1
-uploaded.net##.pico-overlay
-uploaded.net##script:inject(fuckadblock.js-3.2.0)
-uploadocean.com##.make_money > a[href="https://uploadocean.com/make_money.html"]
-uploadocean.com##h2 > div
-uptobox.com###header > div
-uptobox.com##a[href="https://uptobox.com/images/uptobox_unicorn.png"]
-uptobox.com##center > table > tbody > tr > td:nth-of-type(1)
-uptobox.com##center > table > tbody > tr > td:nth-of-type(3)
-uptobox.com##form > p
-urlcloud.us##script:inject(bab-defuser.js)
-userscloud.com##center:nth-of-type(1)
-userscloud.com##script:inject(abort-on-property-write.js, Fingerprint2)
-userscloud.com##script:inject(abort-on-property-write.js, open)
-vaughnlive.tv##.abvsDynamic
-vb-audio.pagesperso-orange.fr###Documentation > center:nth-of-type(1) > table > tbody > tr > td
-vb-audio.pagesperso-orange.fr##center:nth-of-type(14) > table > tbody > tr > td:nth-of-type(3)
-vb-audio.pagesperso-orange.fr##center:nth-of-type(15) > table > tbody > tr > td:nth-of-type(1)
-vb-audio.pagesperso-orange.fr##center:nth-of-type(15) > table > tbody > tr > td:nth-of-type(3)
-vb-audio.pagesperso-orange.fr##center:nth-of-type(16) > table > tbody > tr > td
-vb-audio.pagesperso-orange.fr##td:nth-of-type(3) > center
-vg.no##script:contains(/^\s*?window\.__AB__/)
-vidnow.to##script:inject(abort-on-property-read.js, BetterJsPop)
-vidup.me##script:inject(abort-on-property-read.js, adsShowPopup)
-vivo.sx###alert-throttle
-vivo.sx##.col-xs-12.col-sm-12.col-md-12.vivo-content-box-watch.vivo-content-box:nth-of-type(1)
-vivo.sx##.col-xs-12.col-sm-12.col-md-12.vivo-content-box-watch.vivo-content-box:nth-of-type(2) > .col-xs-12.col-sm-12.col-md-12
-vivo.sx##.fp-header
-vivo.sx##.vivo-website-wrapper > .regular_footer
-vivo.sx##.vivo-website-wrapper > .regular_header_wrapper > .regular_header.container > .col-xs-4.col-sm-4.col-md-10 > .main_navigation
-vivo.sx##.vivo-website-wrapper > .vivo-content.app_overview > .vivo-content-box-wrapper.container > .col-xs-12.col-sm-12.col-md-12.vivo-content-box-watch.vivo-content-box > .watch-footer
-voetbalzone.nl##script:contains(/^\s*?var\s+?init_ads/)
-vshare.eu##script:inject(abort-on-property-read.js, BetterJsPop)
-wall.alphacoders.com###list_group_share > .list-group-item-info.list-group-item
-wall.alphacoders.com###list_group_share > .list-group-item:nth-of-type(2)
-wall.alphacoders.com###list_group_share > .list-group-item:nth-of-type(3)
-wall.alphacoders.com###list_group_share > .list-group-item:nth-of-type(4)
-wall.alphacoders.com##.center.row:nth-of-type(2)
-wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(1) > .panel-primary.panel
-wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(1) > .panel-primary.panel > .panel-heading
-wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(2)
-wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(2) > .panel-primary.panel > .panel-body
-wall.alphacoders.com##.col-md-12.col-sm-6.col-xs-12:nth-of-type(2) > .panel-primary.panel > .panel-heading
-wall.alphacoders.com##.event-container.well.media:nth-of-type(1)
-wall.alphacoders.com##.event-container.well.media:nth-of-type(2)
-wall.alphacoders.com##.feature.panel-default.panel
-wall.alphacoders.com##.panel-body.panel
-wall.alphacoders.com##.panel-primary.panel > .panel-body.center
-washingtonpost.com###bottom-furniture
-washingtonpost.com##html:style(height: initial !important; overflow: auto !important;)
-washingtonpost.com##script:inject(wpredirect-defuser.js)
-watch8x.com##script:inject(noeval.js)
-watchcartoonsonline.eu##[id*="ScriptRoot"]
-watchcartoonsonline.eu##header
 watchcartoonsonline.eu##script:inject(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
 watchcartoonsonline.eu##script:inject(abort-current-inline-script.js, parseInt, 676574456c656d656e747342795461674e616d65)
 wetteronline.de###woCsiAdContent
@@ -995,12 +612,6 @@ www.experts-exchange.com##.liveViewportFooterInner
 www.expreview.com##center
 www.firmwarehq.com##.message
 www.fosshub.com##.row:nth-of-type(3) > .col-md-12.top-banner
-www.fudzilla.com###Mod122
-www.fudzilla.com###Mod123
-www.fudzilla.com###Mod152
-www.fudzilla.com###Mod155
-www.fudzilla.com###Mod171
-www.fudzilla.com###Mod177
 www.funkykit.com##center
 www.gamerconfig.eu###fb_popup
 www.gamingfactors.com###wtr-progress
@@ -1084,15 +695,6 @@ www.orlygift.com###exit-intent-guest
 www.orlygift.com###exit-intent-guest > .ng-invalid-required.ng-invalid.ng-valid-email.ng-pristine
 www.patreon.com##.gymQcC.s8ausdp-3
 www.patreon.com##.m-sm._39I-styles-shared--flexGrow1:nth-of-type(1)
-www.pcgameshardware.de###articleTextBody > .textContainer > .html5player.video_container_68313.importantArticleModule.cbox_embedded > .GamesTv24WideWrapper > table > tbody > tr > td
-www.pcgameshardware.de###articleTextBody > .textContainer > .html5player.video_container_68313.importantArticleModule.cbox_embedded > .GamesTv24WideWrapper > table > tbody > tr > td:nth-of-type(1)
-www.pcgameshardware.de###articleTextBody > .textContainer > .html5player.video_container_68313.importantArticleModule.cbox_embedded > .GamesTv24WideWrapper > table > tbody > tr > td:nth-of-type(1) > p
-www.pcgameshardware.de###articleTextBody > .textContainer > .html5player.video_container_68358.importantArticleModule.cbox_embedded > .GamesTv24NarrowWrapper > p
-www.pcgameshardware.de###articleTextBody > .textContainer > .html5player.video_container_68358.importantArticleModule.cbox_embedded > .GamesTv24NarrowWrapper > ul
-www.pcgameshardware.de###articleTextBody > .textContainer > .importantArticleModule.tagAndSocialFrame
-www.pcgameshardware.de##.pageFrame > .mainFrame > .limitBox > .contentFrame > .contentwrapper > .articleUpperPart.row > .right.column > .relatedColorC.module:nth-of-type(5) > .stellenmarktModule
-www.pcgameshardware.de##.pageFrame > .mainFrame > .limitBox > .contentFrame > .footer2.rowAlt > .full.column > .disrupter.module > .editions
-www.pcgameshardware.de##.pageFrame > .mainFrame > .limitBox > .contentFrame > .footer2.rowAlt > .full.column > .disrupter.module > .editions > .companyProducts > .tabsContents > .fT.selected.printAboTabContent.tabContent
 www.petri.com###overlay
 www.petri.com##.lean-overlay
 www.pornhub.com##.r8g3080crjlq9gib4b.r8g3080crjlq9gib4w
@@ -1102,15 +704,6 @@ www.pornhub.com##iframe[src="about:blank"]
 www.prad.de###p-rechts-werbung
 www.prad.de###social-network
 www.rtl.fr###modal-warning
-www.sendspace.com##.tac.text
-www.softpedia.com###hp_ess
-www.softpedia.com###hp_ess_cnt_1
-www.solidfiles.com##.box:nth-of-type(2)
-www.solidfiles.com##.box:nth-of-type(2) > .box-content
-www.solidfiles.com##.left
-www.solidfiles.com##.premium-promo.box
-www.solidfiles.com##.rect.bnr-1502042778
-www.solidfiles.com##.top-section
 www.speedrun.com##.centered.curse-01.panel
 www.speedrun.com##.centered.curse-01.panel > .panel-heading
 www.speedrun.com##.centered.curse-02.panel
@@ -1150,8 +743,6 @@ www.tweaktown.com###content-right > div > center:nth-of-type(1)
 www.tweaktown.com###content-right > div > center:nth-of-type(2)
 www.tweaktown.com###content-right > div > center:nth-of-type(3)
 www.tweaktown.com###wrapper > .cr
-www.twitch.tv###ember1293
-www.twitch.tv###ember1883
 www.twitch.tv##.header-announcement__bar.flex--verticalCenter.flex
 www.twitch.tv##.noty_message
 www.twitch.tv##.prime-crown__new-offer-count.pill--red.pill.flex--verticalCenter.flex--horizontalCenter.flex
@@ -1224,63 +815,6 @@ zippyshare.com##script:inject(abort-current-inline-script.js, String.fromCharCod
 @@||4j.com^$generichide
 @@||7sim.net^$generichide
 @@||9anime.to^$generichide
-@@||al.ly^$generichide
-@@||ally.sh^$generichide
-@@||atresplayer.com^$generichide
-@@||behindwoods.com^$generichide
-@@||cbs.com^$generichide
-@@||cdn.hackintosh.zone^$first-party,script,stylesheet
-@@||citytv.com^$generichide
-@@||clik.pw^$generichide
-@@||comicallyincorrect.com^$generichide
-@@||f1g.fr/*/adsense.js$script
-@@||ff14angler.com^$generichide
-@@||findthecompany.com/ad$xmlhttprequest,first-party
-@@||flooxer.com^$generichide
-@@||fmovies.is^$generichide
-@@||foilpolyth.com^$domain=tf1.fr
-@@||freedomoutpost.com^$generichide
-@@||fullpremiums.com/adblock.js$script,first-party
-@@||gala.de^$generichide
-@@||galaxant.com^$image,domain=viralnova.com
-@@||gamestar.de^$generichide
-@@||getrelax.club^$generichide
-@@||globalbesthosting.com^$generichide
-@@||google-analytics.com^$domain=avianca.com|jackbox.tv|newegg.com|bikstok.sonymusicshop.dk
-@@||greenocktelegraph.co.uk^$generichide
-@@||hackintosh.computer^$first-party,script,stylesheet
-@@||healthgrove.com/ad$xmlhttprequest,first-party
-@@||hells-hack.com^$generichide
-@@||hulu.com^$generichide
-@@||imleagues.com^$generichide
-@@||insidegov.com/ad$xmlhttprequest,first-party
-@@||kingofdown.com^$generichide
-@@||kingofshrink.com^$generichide
-@@||kisscartoon.*^$script,first-party
-@@||leech.ae^$generichide
-@@||libertyunyielding.com^$generichide
-@@||linkneverdie.com^$generichide
-@@||linksh.top^$generichide
-@@||lmss.vn^$generichide
-@@||lolalytics.com^$generichide
-@@||louccrossc.com^$domain=tf1.fr
-@@||main-echo.de^$generichide
-@@||mitele.es^$generichide
-@@||mooseroots.com/ad$xmlhttprequest,first-party
-@@||mycinema.pro^$generichide
-@@||ncaa.com^$generichide
-@@||opencarry.org^$generichide
-@@||petbreeds.com/ad$xmlhttprequest,first-party
-@@||pga.com^$generichide
-@@||pro.hit.gemius.pl/gplayer.js$script,domain=nova.cz
-@@||randaris-anime.net^$generichide
-@@||skystreaming.net^$generichide
-@@||softonic.com^$generichide
-@@||softwareinsider.com/ad$xmlhttprequest,first-party
-@@||startclass.com/ad$xmlhttprequest,first-party
-@@||static.cz.prg.cmestatic.com/static/shared/app/videojs/plugins/*$script,domain=nova.cz
-@@||static.lexpress.fr/*/ads.$script,stylesheet
-@@||stream.nbcsports.com^$generichide
 @@||streamlive.to^$generichide
 @@||streamplay.gdn^$generichide
 @@||thevideo.me/js/jspc.js$script,first-party
