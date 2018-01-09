@@ -827,3 +827,28 @@ zippyshare.com##script:inject(abort-current-inline-script.js, String.fromCharCod
 @@||viz.com^$generichide
 @@||wpengine.netdna-cdn.com^$image,domain=100percentfedup.com|clashdaily.com|constitution.com|eaglerising.com|freedomdaily.com|freedomoutpost.com|hispolitica.com
 @@||yiv.com^$generichide
+apps.evozi.com##.row:nth-of-type(5) > .col-lg-6:nth-of-type(1)
+apps.evozi.com##.well
+obsproject.com##a[href="/donate"]
+obsproject.com##a[href="https://obsproject.com/chat"]
+obsproject.com##a[href="https://twitter.com/OBSProject"]
+www.mydealz.de##.js-sticky.zIndex--fixed.forceLayer.aGrid > .hide--toW3.partnerBar
+www.teamos-hkrg.com##.wn_title
+www.teamos-hkrg.com##.wn_description
+www.sparkasse-giessen.de##.section.cbox-large.cbox:nth-of-type(5)
+medium.com##.js-promo.promo-stream_visitor_C.u-padding40.u-relative.u-maxWidth1000.container
+www.multiup.org##.progress-info.progress > .bar
+www.multiup.org##.span5
+www.dedoimedo.com##.leftcolumn > .googleaddiv_hp
+||uploadburst.com/images/logo.png$image
+||static.the-watch-series.to/uploads/members/*.png
+uploadburst.com##td:nth-of-type(4)
+www.googlewatchblog.de###cookie-law-info-bar
+www.geboren.am/>###cookiebox>p
+www.brandwatch.com ##.c-cookie-notify__box
+www.filesuffix.com###cookie
+www.jung.de ###language-redirection-layer>.wrapper
+digitalguardian.com##.component.navbar-fixed-bottom.navbar
+||www.luckypatchers.com/wp-content/uploads/2016/03/Tubemate-top-apps-e1514692129968.jpg$image
+||www.luckypatchers.com/wp-content/uploads/2016/10/video.jpg$image
+www.luckypatchers.com##.widgettitle
