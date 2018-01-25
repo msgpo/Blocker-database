@@ -1,12 +1,6 @@
-! Title: CHEF-KOCH's Custom Filter List
+﻿! Title: CHEF-KOCH's Custom Filter List
 ! Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NoScript-Whitelist/master/uBlock₀/my-ublock-static-filters.txt
-! Updated: Jan. 9 2018
-*$websocket,domain=1337x.to|datpiff.com|freewarefiles.com|jpost.com|kinotochka.net|tetrisfriends.com|thecountrycaller.com|videowood.tv
-*$websocket,domain=linkshrink.net
-*/blockadblock.$script,redirect=fuckadblock.js-3.2.0
-*/fuckadblock-$script,redirect=fuckadblock.js-3.2.0
-*/fuckadblock.$script,redirect=fuckadblock.js-3.2.0
-/?placement=*&redirect$popunder
+! Updated: Jan. 25 2018
 ||01net.com/telecharger/$document
 ||0mme.com^$script,domain=comicbook.com|popculture.com
 ||104.197.199.227^
@@ -26,8 +20,6 @@
 ||adbutler-meson.com^$important,script,domain=uploaded.net
 ||adition.com^$important,domain=spiegel.de
 ||adnety.com^
-||amazon-adsystem.com^$script,redirect=noopjs,domain=hackintosh.computer|hackintosh.zone
-||ambitiousagreement.com
 ||andreas-unterberger.at/includes/js/helperFunctions.js$script,first-party
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
 ||anxiousapples.com
@@ -63,7 +55,7 @@
 ||elephantqueue.com
 ||em0n.com^$domain=businessinsider.com|grubstreet.com|nowloading.co|twitchy.com
 ||eurotransport.de/*/antiAdBlock.js$script,first-party,redirect=antiAdBlock.js
-||exclusivebrass.com
+||exclusivebrass.com^
 ||exoclick.com/ad_track.js$important,script,domain=uploaded.net
 ||fieldpprofile.com^
 ||file-upload.net^$subdocument
@@ -94,13 +86,6 @@
 ||gzhls.at/b/guterrat-2015-11.png$image
 ||gzhls.at/b/heise-coop.png$image
 ||http://mms.bournemouthecho.co.uk^$script
-||i.ytimg.com/an/CI6C8hD-hTZi2JEmS7zvQw/featured_channel.jpg?v=56988f12
-||i0.wp.com/cdn.edgecast.steamstatic.com/steam/apps/274520/extras/app_greenlight_banner_english.png$image
-||i1.wp.com/growonyoutube.com/wp-content/uploads/2017/06/pop-up-background-3.png?fit=1280%2C720$image
-||illustriousoatmeal.com
-||image.macovi.de/templates/mindfactory/images/banner_artikel_zeugnis_50.jpg?ver=2$image
-||images.druckerzubehoer.de/shop/images/system_images/nav_social-media.png$image
-||imore.com/sites/imore.com/files/advagg_js/$script,badfilter
 ||incrediblesugar.com
 ||ivykiosk.com
 ||j93557g.com
@@ -360,6 +345,8 @@ dailyuploads.net##p
 ddlvalley.cool,zippyshare.com##script:inject(noeval.js)
 developer.android.com##.dac-footer-reachout.col-1of2
 deviantart.com##.dp-ad-chrome.dp-ad-visible
+douploads.com##center
+douploads.com##td:nth-of-type(4)
 downace.com##.ace-download-panel-footer.uk-padding-remove.uk-text-center.uk-margin-remove.uk-panel-box-secondary.uk-panel-box.uk-panel
 downace.com##.uk-hidden-small.ace-overflow-hidden.uk-padding-remove.uk-text-center.uk-margin-small-top.uk-margin-small-bottom.uk-panel-box-secondary.uk-panel-box.uk-panel
 downace.com##.uk-width-1-1.uk-width-small-1-2.uk-width-medium-1-5:nth-of-type(5) > .uk-panel
@@ -838,8 +825,6 @@ medium.com##.js-promo.promo-stream_visitor_C.u-padding40.u-relative.u-maxWidth10
 www.multiup.org##.progress-info.progress > .bar
 www.multiup.org##.span5
 www.dedoimedo.com##.leftcolumn > .googleaddiv_hp
-||uploadburst.com/images/logo.png$image
-||static.the-watch-series.to/uploads/members/*.png
 uploadburst.com##td:nth-of-type(4)
 www.googlewatchblog.de###cookie-law-info-bar
 www.geboren.am/>###cookiebox>p
@@ -847,6 +832,7 @@ www.brandwatch.com ##.c-cookie-notify__box
 www.filesuffix.com###cookie
 www.jung.de ###language-redirection-layer>.wrapper
 digitalguardian.com##.component.navbar-fixed-bottom.navbar
-||www.luckypatchers.com/wp-content/uploads/2016/03/Tubemate-top-apps-e1514692129968.jpg$image
-||www.luckypatchers.com/wp-content/uploads/2016/10/video.jpg$image
 www.luckypatchers.com##.widgettitle
+uploadburst.com##h2:nth-of-type(2)
+uploadburst.com##h2:nth-of-type(1)
+www.station-drivers.com###headermodule2
