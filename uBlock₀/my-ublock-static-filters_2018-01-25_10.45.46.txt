@@ -243,12 +243,6 @@ allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com#@#.advertising
 allmusic.com#@#.medium-rectangle
-anupolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,grubstreet.com,hotair.com,moviepilot.com,nowloading.co,parkers.co.uk,patheos.com,popculture.com,townhall.com,tvtropes.org,twitchy.com,wwg.com##script:inject(abort-on-property-read.js, stop)
-animes-mangas-ddl.com,best-movies.info,bnonews.com,crazymeds.us,d-h.st,hulkusc.com,ip-address.org,megapanda.net,nplay.com,playlivenewz.com,sadeempc.com,upload.so,uploadshub.com,userscdn.com,yourvideohost.com##script:inject(bab-defuser.js)
-apkmos.com##.td_block_template_1.td-pb-border-top.td_uid_8_59adb3970cb3a_rand.td_block_widget.td_block_social_counter.td_block_wrap
-apkmos.com##.td_block_template_1.td_uid_7_59adb3970c6e8_rand.td-g-rec-id-sidebar.td-g-rec > .adsbygoogle
-armorgames.com,mmohuts.com,newgrounds.com,onrpg.com,silvergames.com##a[href*="mmo123.co/egame?"]
-arstechnica.com##script:contains(ars.READY.push)
 ask.fedoraproject.org##.notify > .content-wrapper > .notification
 askvg.com##.sidebar > h2:first-child
 askvg.com##.sidebar > p:has-text(Advertisements)
@@ -306,36 +300,6 @@ checkshorturl.com###large-column > div:nth-of-type(2)
 checkshorturl.com###mentions
 checkshorturl.com###thumbnails
 chip.de##[href^="javascript:DownloadStartInit"]
-chromium.woolyss.com###ios
-chromium.woolyss.com###ios > .news
-chromium.woolyss.com###mac
-chromium.woolyss.com###mac > .news
-chromium.woolyss.com###mac > h2
-chromium.woolyss.com###mac-32-bit
-chromium.woolyss.com###mac-64-bit-dev-marmaduke
-chromium.woolyss.com###mac-64-bit-freesmug
-chromium.woolyss.com###mac-64-bit-official
-chromium.woolyss.com###share-this-page
-chromium.woolyss.com###welcome
-chromium.woolyss.com###windows > .news
-chromium.woolyss.com###windows > small:nth-of-type(1)
-chromium.woolyss.com###windows > small:nth-of-type(1)
-chromium.woolyss.com###windows-32-bit
-chromium.woolyss.com###windows-32-bit
-chromium.woolyss.com###windows-32-bit-aluisioasg
-chromium.woolyss.com###windows-32-bit-aluisioasg
-chromium.woolyss.com###windows-32-bit-chocolatey
-chromium.woolyss.com###windows-32-bit-chocolatey
-chromium.woolyss.com###windows-32-bit-dev-nik
-chromium.woolyss.com###windows-32-bit-dev-nik
-chromium.woolyss.com###windows-32-bit-dev-robrich
-chromium.woolyss.com###windows-32-bit-dev-robrich
-chromium.woolyss.com###windows-32-bit-official
-chromium.woolyss.com###windows-32-bit-official
-chromium.woolyss.com###windows-32-bit-stable-nik
-chromium.woolyss.com###windows-32-bit-stable-nik
-chromium.woolyss.com###windows-32-bit-winpenpack
-chromium.woolyss.com###windows-32-bit-winpenpack
 commentcamarche.net,foot01.com,journaldunet.com,metronews.fr##script:contains(/[Ll]igatus/)
 cwtv.com##script:inject(abort-on-property-write.js, wallConfig)
 dailyuploads.net##.adsbygoogle:nth-of-type(2)
@@ -836,3 +800,5 @@ www.luckypatchers.com##.widgettitle
 uploadburst.com##h2:nth-of-type(2)
 uploadburst.com##h2:nth-of-type(1)
 www.station-drivers.com###headermodule2
+userscloud.com##.innerTB > center
+www.reddit.com##.listingsignupbar.infobar
