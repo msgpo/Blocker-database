@@ -1,6 +1,6 @@
-﻿! Title: CHEF-KOCH's Custom Filter List
+! Title: CHEF-KOCH's Custom Filter List
 ! Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NoScript-Whitelist/master/uBlock₀/my-ublock-static-filters.txt
-! Updated: Jan. 25 2018
+! Updated: Jan. 29 2018
 ||01net.com/telecharger/$document
 ||0mme.com^$script,domain=comicbook.com|popculture.com
 ||104.197.199.227^
@@ -20,6 +20,8 @@
 ||adbutler-meson.com^$important,script,domain=uploaded.net
 ||adition.com^$important,domain=spiegel.de
 ||adnety.com^
+||amazon-adsystem.com^$script,redirect=noopjs,domain=hackintosh.computer|hackintosh.zone
+||ambitiousagreement.com
 ||andreas-unterberger.at/includes/js/helperFunctions.js$script,first-party
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
 ||anxiousapples.com
@@ -55,7 +57,7 @@
 ||elephantqueue.com
 ||em0n.com^$domain=businessinsider.com|grubstreet.com|nowloading.co|twitchy.com
 ||eurotransport.de/*/antiAdBlock.js$script,first-party,redirect=antiAdBlock.js
-||exclusivebrass.com^
+||exclusivebrass.com
 ||exoclick.com/ad_track.js$important,script,domain=uploaded.net
 ||fieldpprofile.com^
 ||file-upload.net^$subdocument
@@ -86,6 +88,13 @@
 ||gzhls.at/b/guterrat-2015-11.png$image
 ||gzhls.at/b/heise-coop.png$image
 ||http://mms.bournemouthecho.co.uk^$script
+||i.ytimg.com/an/CI6C8hD-hTZi2JEmS7zvQw/featured_channel.jpg?v=56988f12
+||i0.wp.com/cdn.edgecast.steamstatic.com/steam/apps/274520/extras/app_greenlight_banner_english.png$image
+||i1.wp.com/growonyoutube.com/wp-content/uploads/2017/06/pop-up-background-3.png?fit=1280%2C720$image
+||illustriousoatmeal.com
+||image.macovi.de/templates/mindfactory/images/banner_artikel_zeugnis_50.jpg?ver=2$image
+||images.druckerzubehoer.de/shop/images/system_images/nav_social-media.png$image
+||imore.com/sites/imore.com/files/advagg_js/$script,badfilter
 ||incrediblesugar.com
 ||ivykiosk.com
 ||j93557g.com
@@ -243,6 +252,9 @@ allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com##.advertising.medium-rectangle:style(min-height: 1px !important;)
 allmusic.com#@#.advertising
 allmusic.com#@#.medium-rectangle
+apkmos.com##.td_block_template_1.td-pb-border-top.td_uid_8_59adb3970cb3a_rand.td_block_widget.td_block_social_counter.td_block_wrap
+apkmos.com##.td_block_template_1.td_uid_7_59adb3970c6e8_rand.td-g-rec-id-sidebar.td-g-rec > .adsbygoogle
+armorgames.com,mmohuts.com,newgrounds.com,onrpg.com,silvergames.com##a[href*="mmo123.co/egame?"]
 ask.fedoraproject.org##.notify > .content-wrapper > .notification
 askvg.com##.sidebar > h2:first-child
 askvg.com##.sidebar > p:has-text(Advertisements)
@@ -300,8 +312,36 @@ checkshorturl.com###large-column > div:nth-of-type(2)
 checkshorturl.com###mentions
 checkshorturl.com###thumbnails
 chip.de##[href^="javascript:DownloadStartInit"]
-commentcamarche.net,foot01.com,journaldunet.com,metronews.fr##script:contains(/[Ll]igatus/)
-cwtv.com##script:inject(abort-on-property-write.js, wallConfig)
+chromium.woolyss.com###ios
+chromium.woolyss.com###ios > .news
+chromium.woolyss.com###mac
+chromium.woolyss.com###mac > .news
+chromium.woolyss.com###mac > h2
+chromium.woolyss.com###mac-32-bit
+chromium.woolyss.com###mac-64-bit-dev-marmaduke
+chromium.woolyss.com###mac-64-bit-freesmug
+chromium.woolyss.com###mac-64-bit-official
+chromium.woolyss.com###share-this-page
+chromium.woolyss.com###welcome
+chromium.woolyss.com###windows > .news
+chromium.woolyss.com###windows > small:nth-of-type(1)
+chromium.woolyss.com###windows > small:nth-of-type(1)
+chromium.woolyss.com###windows-32-bit
+chromium.woolyss.com###windows-32-bit
+chromium.woolyss.com###windows-32-bit-aluisioasg
+chromium.woolyss.com###windows-32-bit-aluisioasg
+chromium.woolyss.com###windows-32-bit-chocolatey
+chromium.woolyss.com###windows-32-bit-chocolatey
+chromium.woolyss.com###windows-32-bit-dev-nik
+chromium.woolyss.com###windows-32-bit-dev-nik
+chromium.woolyss.com###windows-32-bit-dev-robrich
+chromium.woolyss.com###windows-32-bit-dev-robrich
+chromium.woolyss.com###windows-32-bit-official
+chromium.woolyss.com###windows-32-bit-official
+chromium.woolyss.com###windows-32-bit-stable-nik
+chromium.woolyss.com###windows-32-bit-stable-nik
+chromium.woolyss.com###windows-32-bit-winpenpack
+chromium.woolyss.com###windows-32-bit-winpenpack
 dailyuploads.net##.adsbygoogle:nth-of-type(2)
 dailyuploads.net##a[href^="http://trafflict.com/r"] > .adsbygoogle:nth-of-type(1)
 dailyuploads.net##label
@@ -387,7 +427,6 @@ generation-nt.com##script:inject(phenv-defuser.js)
 genuinevs.blogspot.ch###fbox-background
 genuinevs.blogspot.ch###fbox-close
 genuinevs.blogspot.ch###fbox-display
-getvids.de,podcast.de,sommerhaus.de,spielespielen24.de##script:contains(/^\s*function\s+gS/)
 github.com##.flash-full.flash
 github.com##.github-jobs-promotion > p
 github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
@@ -797,8 +836,12 @@ www.filesuffix.com###cookie
 www.jung.de ###language-redirection-layer>.wrapper
 digitalguardian.com##.component.navbar-fixed-bottom.navbar
 www.luckypatchers.com##.widgettitle
-uploadburst.com##h2:nth-of-type(2)
-uploadburst.com##h2:nth-of-type(1)
-www.station-drivers.com###headermodule2
-userscloud.com##.innerTB > center
-www.reddit.com##.listingsignupbar.infobar
+y2mate.com##.in.fade.modal-backdrop
+y2mate.com###downloadModal > .modal-dialog > .modal-content > .modal-footer
+y2mate.com###downloadModal > .modal-dialog > .modal-content > .modal-body
+y2mate.com###downloadModal > .modal-dialog > .modal-content > .modal-header
+kshutdown.sourceforge.io##.ad:nth-of-type(4)
+kshutdown.sourceforge.io##.ad:nth-of-type(1)
+||v.wpimg.pl/:\/\/v.wpimg.pl\/[a-zA-Z0-9]{60,100}=/
+torrentz2.eu#@#a[rel="nofollow"][href]
+uploadocean.com##a[href="https://uploadocean.com/premium-features.html"] > h2
