@@ -845,3 +845,6 @@ kshutdown.sourceforge.io##.ad:nth-of-type(1)
 ||v.wpimg.pl/:\/\/v.wpimg.pl\/[a-zA-Z0-9]{60,100}=/
 torrentz2.eu#@#a[rel="nofollow"][href]
 uploadocean.com##a[href="https://uploadocean.com/premium-features.html"] > h2
+uplod.cc##.fmore
+uploadocean.com##.make_money > a[href="https://uploadocean.com/make_money.html"]
+
