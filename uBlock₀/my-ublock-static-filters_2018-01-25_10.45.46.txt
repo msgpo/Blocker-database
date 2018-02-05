@@ -1,6 +1,6 @@
 ! Title: CHEF-KOCH's Custom Filter List
 ! Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NoScript-Whitelist/master/uBlock₀/my-ublock-static-filters.txt
-! Updated: Jan. 29 2018
+! Updated: Febr. 05 2018
 ||01net.com/telecharger/$document
 ||0mme.com^$script,domain=comicbook.com|popculture.com
 ||104.197.199.227^
@@ -349,8 +349,6 @@ dailyuploads.net##p
 ddlvalley.cool,zippyshare.com##script:inject(noeval.js)
 developer.android.com##.dac-footer-reachout.col-1of2
 deviantart.com##.dp-ad-chrome.dp-ad-visible
-douploads.com##center
-douploads.com##td:nth-of-type(4)
 downace.com##.ace-download-panel-footer.uk-padding-remove.uk-text-center.uk-margin-remove.uk-panel-box-secondary.uk-panel-box.uk-panel
 downace.com##.uk-hidden-small.ace-overflow-hidden.uk-padding-remove.uk-text-center.uk-margin-small-top.uk-margin-small-bottom.uk-panel-box-secondary.uk-panel-box.uk-panel
 downace.com##.uk-width-1-1.uk-width-small-1-2.uk-width-medium-1-5:nth-of-type(5) > .uk-panel
@@ -847,4 +845,19 @@ torrentz2.eu#@#a[rel="nofollow"][href]
 uploadocean.com##a[href="https://uploadocean.com/premium-features.html"] > h2
 uplod.cc##.fmore
 uploadocean.com##.make_money > a[href="https://uploadocean.com/make_money.html"]
-
+www.multiup.eu##.text-center.success.well
+uplod.cc##.pt20.col-md-4
+uplod.cc##.col-md-8 > .row > .clearfix
+www.solidfiles.com##.box:nth-of-type(2) > .box-content
+www.solidfiles.com##.box:nth-of-type(2)
+www.solidfiles.com##.premium-promo.box
+www.solidfiles.com##.rect.bnr-1517479882
+www.solidfiles.com##.top-section
+www.majorgeeks.com##.content > b > div:nth-of-type(2)
+www.majorgeeks.com##hr:nth-of-type(3)
+www.majorgeeks.com##hr:nth-of-type(4)
+www.majorgeeks.com##hr:nth-of-type(5)
+www.majorgeeks.com##hr:nth-of-type(2)
+uploadburst.com##h2:nth-of-type(2)
+uploadburst.com##h2:nth-of-type(1)
+www.solidfiles.com##.left
