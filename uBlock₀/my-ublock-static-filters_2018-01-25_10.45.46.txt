@@ -1,10 +1,8 @@
 ! Title: CHEF-KOCH's Custom Filter List
 ! Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NoScript-Whitelist/master/uBlock₀/my-ublock-static-filters.txt
-! Updated: Apr. 02 2018
+! Updated: April. 16 2018
 ||01net.com/telecharger/$document
 ||0mme.com^$script,domain=comicbook.com|popculture.com
-||104.197.199.227^
-||104.198.198.188^
 ||1emn.com^$script,domain=hotair.com|moviepilot.com
 ||1enm.com^$script,domain=champions.co|parkers.co.uk
 ||1rx.s3.amazonaws.com/advert.js$script,redirect=noopjs,domain=allmusic.com
@@ -349,6 +347,8 @@ dailyuploads.net##p
 ddlvalley.cool,zippyshare.com##script:inject(noeval.js)
 developer.android.com##.dac-footer-reachout.col-1of2
 deviantart.com##.dp-ad-chrome.dp-ad-visible
+douploads.com##center
+douploads.com##td:nth-of-type(4)
 downace.com##.ace-download-panel-footer.uk-padding-remove.uk-text-center.uk-margin-remove.uk-panel-box-secondary.uk-panel-box.uk-panel
 downace.com##.uk-hidden-small.ace-overflow-hidden.uk-padding-remove.uk-text-center.uk-margin-small-top.uk-margin-small-bottom.uk-panel-box-secondary.uk-panel-box.uk-panel
 downace.com##.uk-width-1-1.uk-width-small-1-2.uk-width-medium-1-5:nth-of-type(5) > .uk-panel
@@ -845,22 +845,137 @@ torrentz2.eu#@#a[rel="nofollow"][href]
 uploadocean.com##a[href="https://uploadocean.com/premium-features.html"] > h2
 uplod.cc##.fmore
 uploadocean.com##.make_money > a[href="https://uploadocean.com/make_money.html"]
-www.multiup.eu##.text-center.success.well
-uplod.cc##.pt20.col-md-4
-uplod.cc##.col-md-8 > .row > .clearfix
-www.solidfiles.com##.box:nth-of-type(2) > .box-content
-www.solidfiles.com##.box:nth-of-type(2)
-www.solidfiles.com##.premium-promo.box
-www.solidfiles.com##.rect.bnr-1517479882
-www.solidfiles.com##.top-section
-www.majorgeeks.com##.content > b > div:nth-of-type(2)
-www.majorgeeks.com##hr:nth-of-type(3)
-www.majorgeeks.com##hr:nth-of-type(4)
-www.majorgeeks.com##hr:nth-of-type(5)
-www.majorgeeks.com##hr:nth-of-type(2)
-uploadburst.com##h2:nth-of-type(2)
-uploadburst.com##h2:nth-of-type(1)
-www.solidfiles.com##.left
-@@||reddit.com/api/$xmlhttprequest,domain=reddit.com,badfilter
-@@||reddit.com//comment^
-||reddit.com//*.json^$important
+rsload.net##.full > center
+rsload.net##.clearfix.video-box.full-text.short-text > center:nth-of-type(1)
+elittars.hu###info-bar
+eloben.hu##.site > .law-accept
+filmkatalogus.hu###oldalalja > div > table
+gyakorikerdesek.hu##body > div:nth-of-type(1)
+nav.gov.hu###portal > .NavBottom > .ContentViewPortlet > div > div > .cookie-accept
+tesco.hu##.custom-bkg > .tescoce.bottom.infoBarClosable
+andromeda.hu##b > .pea_cook_bottomleft.pea_cook_wrapper
+szallas.hu##footer > .cookie-consent-block
+/js_paiTaEsc1HNeBS2rkLc1NrprKrFnApv70kuY8awAaTI.js$domain=alfahir.hu
+/suti_lent.js$domain=allas.club
+ask.fm###topMenu > .cookie.policy-message
+play.google.com###gb > .gb_g.gb_wc.gb_Qc
+skype.com###disclaimer
+uber.com###react-app > div > .sub-wrapper > .bg-primary-layer-color.wrapper > .position--relative.bg-primary-layer-color > .gutter > .cf.z-40.right.left.bottom.position--fixed.bg-uber-black.banner--bottom
+userbenchmark.com###notForm\:userNot > .notificationBar
+xhamsterlive.com###body > div > footer > .cookies-reminder
+facebook.com###u_0_m
+nemzeti.net###suti_figyelmeztetes
+blog.hu###_iph_cp_popup
+blikk.hu###mainPrivacyDiv
+otthonterkep.hu###cookie-agree
+kh.hu###cookieAcceptanceContainer
+hbo.hu###cookiebox
+workforce.hu##.cookie
+indavideo.hu###_iph_cp_popup
+althir.org###suti_figyelmeztetes
+atw.hu##.cookie-acceptor
+logmein.hu##.cookie
+nickelodeon.hu###cookie-policy-msg
+kapu.hu###cookieSpan
+borsonline.hu##.cookie__wrapper
+emasz.hu###id_666
+hoxa.hu###container > div:nth-of-type(1)
+gyakorikerdesek.hu##body > div:nth-of-type(1)
+xhamsterlive.com###body > div > footer > .cookies-reminder
+jofogas.hu###cookie-notif
+hirkereso.hu###cookieSpan
+telekom.hu###app-cookie-policy
+viva.tv##.viacomcookiebar
+hu.oriflame.com##.ui-cookie-tooltip
+galeriasavaria.hu###notyCookie
+divany.hu,index.hu###_iph_cp_popup
+hirek24.hu##.cookie
+ragados.hu###cookie_policy_box
+ujszo.com###ujszo_cookiealert
+@@||huppa.hu^*/cookielawinfo.js
+@@||huppa.hu^*/cookielawinfo.js
+hirkosar.com###allowcookie
+allattartas.hu###suti_figyelmeztetes_ablak
+freemeteo.hu###cookies
+vilaglato.info##.pea_cook_bottomright.pea_cook_wrapper
+vilaglato.info##.pea_cook_more_info_popover
+koloknet.hu###cookie
+eurofoam.hu###cookie_terms
+csaladinet.hu###CookieAcceptLayer
+adf.ly###cookie_notice
+smoon.hu###bottom_dialog
+ezermester.hu##.alert-dismissible.alert-warning.alert
+theweek.co.uk###__ic-notice-container
+tipparuhaz.hu###bottom_dialog
+termalfurdo.hu###layout_advertising_bottom
+termalonline.hu###ecl-notice
+aptoide.com###news
+thetimes.co.uk##.CookieMessage
+softpedia.com##.jobnotice_cnt
+softonic.com###cookie-policies
+vizmegoldas.hu###cookie_div
+drtihanyi.hu###cookies
+okopolc.hu###firstLogNanobar
+online.filmek-sorozatok.info###CookieMonsterNAIH
+oszkar.com###footerbar
+falatozz.hu##.accept-cookie
+boraszportal.hu###layout_advertising_bottom
+jobinfo.hu###cookieUseWarning
+hiros.hu###cookieAlertBox
+poloverzum.hu###bottom_dialog
+marmalade.hu###cookies_popup
+ingatlanbazar.hu###cookie-confirm-box
+rama.hu###cqcqPanel
+zavtra.hu###shopillaxcookielaw-wrapper
+fredolsencruises.com###simpleclick_uis_cookieconsent
+work-force.hu##.cookie
+bestdoor.hu##.rstbox-content
+praktiker.hu###cookie-clear-bar
+kertvarosipatika.hu###coocie
+tarhely.eu###sutik
+forpsi.hu##.j-cookieModal.cookiesModal
+sunstargum.com###cookiecontainer
+comune.napoli.it###eu-privacy
+kult.de###cookie-fixed-layer
+mystipendium.de###sliding-popup
+studis-online.de##div[aria-label=cookieconsent]
+statusbrew.com##.nag.cookie.ui
+allas.hu##.cookiepolicy-wrapper
+notebookspecialista.hu###cookie
+bizsuk.com###sutibox
+webszerszam.hu###accept_cookies_cont_outer
+tarifaexpert.hu##.lablec_suti_szabaly
+szamalk.hu###js-cookie-box
+wasabi.hu##.footprint_cookie
+bkv.hu###navCookies
+agrokisgepcenter.hu##.cookie-holder
+magyarkozosseg.net##.tplis-cl-cookies
+devportal.hu###PCBContainer
+eeszt.gov.hu###cookies
+e-egeszsegugy.gov.hu##.cookie-question
+jeuxvideo.com###cookies_notifier
+adaptil.com###toolbar-cookie
+zoldbolt.hu##.cookie_accept_container
+vivienvance.com###cookieDismissContent
+origo.hu###ac
+unnepnaposoldal.hu###cookie-law-bar
+tampermonkey.net##.cookie_hint
+hirpress.hu###cooky
+hirmagazin.eu###hirma-1381602451
+sokkaljobb.hu###SPS_noaccept
+ivona.com###cookiePane
+vilaglato.info##.tplis-cl-cookies
+rbx.hu##.cookie
+dictzone.com###ac
+favorashop.hu###suti_figyelmeztetes_ablak
+robertkorhaz.hu###sutike
+developers.google.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
+takata-miskolc.hu##.wpmaster-cookie-content
+unicheck.com##.is-show.jcc.df.cookie
+www.drive.be##.notification.cookie
+##adcookies
+##app-cookie-consent
+##app-cookie-warning
+##b2c-cookies-notification
+topviccek.hu###ck
+videokedvenc.hu###cookie
