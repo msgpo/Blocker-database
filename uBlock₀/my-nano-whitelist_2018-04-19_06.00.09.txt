@@ -5,6 +5,7 @@
 about-scheme
 account.ubisoft.com
 altgov2.org
+amiunique.org
 android.googlesource.com
 archive.is
 asciimoo.github.io
@@ -18,6 +19,7 @@ bitcoin.org
 blog.cryptographyengineering.com
 browserbench.org
 browserleaks.com
+browserprint.info
 bugs.codesector.com
 byuu.org
 calomel.org
@@ -41,6 +43,7 @@ downloadmirror.co
 en.discussions.tomtom.com
 extensions.inrialpes.fr
 finalfantasyspeedruns.wikidot.com
+firstpartysimulator.net
 forums.redacted.tv
 forums.windowscentral.com
 fritz.box
@@ -71,6 +74,7 @@ nordvpn.com
 opengapps.org
 opera-scheme
 pages.ebay.com
+panopticlick.eff.org
 paul4innovating.com
 pgl.yoyo.org
 player.twitch.tv
