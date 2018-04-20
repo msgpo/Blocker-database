@@ -67,7 +67,6 @@ lists.debian.org
 lite.qwant.com
 local.adguard.com
 loopconversation.about-scheme
-mail.protonmail.com
 moz-extension-scheme
 natsios-young.org
 nordvpn.com
@@ -122,6 +121,7 @@ www.ipfire.org
 www.kuketz-blog.de
 www.linkedin.com
 www.malwaredomainlist.com
+www.mirrorcreator.com
 www.myce.com
 www.oldgames.sk
 www.sciencedirect.com
