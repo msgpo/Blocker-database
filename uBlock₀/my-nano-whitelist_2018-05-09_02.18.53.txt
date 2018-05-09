@@ -1,10 +1,7 @@
 *youtube.com/*&disableadblock=1
-127.0.0.1
-192.168.178.33
-192.168.2.1
+192.168.178.1
 about-scheme
 account.ubisoft.com
-altgov2.org
 amiunique.org
 archive.is
 asciimoo.github.io
@@ -16,6 +13,7 @@ bigefpfhnfcobdlfbedofhhaibnlghod.chrome-extension-scheme
 binbox.io
 bitcoin.org
 blog.cryptographyengineering.com
+breitbandmessung.de
 browserbench.org
 browserleaks.com
 browserprint.info
@@ -24,6 +22,7 @@ byuu.org
 calomel.org
 cdn.gingersoftware.com
 chart.av-comparatives.org
+check2ip.com
 chefkochblog.wordpress.com
 cjpalhdlnbpafiamejdnhcphjbkeiagm.chrome-extension-scheme
 classicreload.com
@@ -73,7 +72,6 @@ mail.protonmail.com
 moz-extension-scheme
 natsios-young.org
 news.ycombinator.com
-nordvpn.com
 opera-scheme
 pages.ebay.com
 panopticlick.eff.org
@@ -91,9 +89,11 @@ socialblade.com
 support.virustotal.com
 t2bot.io
 techcrunch.com
+test-ipv6.com
 thememoryhole2.org
 threema-forum.de
 threema.ch
+tls.imirhil.fr
 tox.chat
 tweakers.net
 twitch.streamlabs.com
@@ -128,9 +128,9 @@ www.malwaredomainlist.com
 www.mirrorcreator.com
 www.myce.com
 www.oldgames.sk
+www.researchgate.net
 www.sciencedirect.com
 www.sofort.com
-www.solidfiles.com
 www.tweetalerts.tv
 www.wetter.com
 zerobin.net
