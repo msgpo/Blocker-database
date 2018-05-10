@@ -4,6 +4,7 @@ about-scheme
 account.ubisoft.com
 amiunique.org
 archive.is
+arestwo.org
 asciimoo.github.io
 askvg.com
 audiofingerprint.openwpm.com
@@ -21,7 +22,6 @@ bugs.codesector.com
 byuu.org
 calomel.org
 cdn.gingersoftware.com
-chart.av-comparatives.org
 check2ip.com
 chefkochblog.wordpress.com
 cjpalhdlnbpafiamejdnhcphjbkeiagm.chrome-extension-scheme
@@ -34,6 +34,7 @@ crookedss.bplaced.net
 cryptome.org
 deals.majorgeeks.com
 developer.spotify.com
+dnsleak.com
 docviewer.yandex.com
 douploads.com
 download.dnscrypt.org
@@ -56,6 +57,7 @@ goqr.me
 id.g2a.com
 images.google.de
 ipleak.net
+ipv6-test.com
 isen.com
 isthereanydeal.com
 justgetflux.com
@@ -63,11 +65,13 @@ killedbypolice.net
 lavabit.com
 learn.cisecurity.org
 legend-of-zelda411.tripod.com
+liamja.co.uk
 lists.debian.org
 lite.qwant.com
 litfassdrinks.com
 local.adguard.com
 loopconversation.about-scheme
+mail.google.com
 mail.protonmail.com
 moz-extension-scheme
 natsios-young.org
@@ -76,6 +80,7 @@ opera-scheme
 pages.ebay.com
 panopticlick.eff.org
 paul4innovating.com
+pcgamingwiki.com
 pgl.yoyo.org
 player.twitch.tv
 prism-break.org
@@ -86,7 +91,6 @@ restream.io
 scene.org
 snowdenarchive.cjfe.org
 socialblade.com
-support.virustotal.com
 t2bot.io
 techcrunch.com
 test-ipv6.com
