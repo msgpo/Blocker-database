@@ -1,5 +1,6 @@
 *youtube.com/*&disableadblock=1
 192.168.178.1
+5who.net
 about-scheme
 account.ubisoft.com
 amiunique.org
@@ -15,6 +16,7 @@ binbox.io
 bitcoin.org
 blog.cryptographyengineering.com
 breitbandmessung.de
+browseraudit.com
 browserbench.org
 browserleaks.com
 browserprint.info
@@ -53,9 +55,11 @@ gametransfers.com
 gamewisp.com
 git-annex.branchable.com
 git-scm.com
+github.com
 goqr.me
 id.g2a.com
 images.google.de
+ipduh.com
 ipleak.net
 ipv6-test.com
 isen.com
@@ -89,6 +93,7 @@ rada.re
 radikal.ru
 restream.io
 scene.org
+securitypreview.zscaler.com
 snowdenarchive.cjfe.org
 socialblade.com
 t2bot.io
@@ -118,6 +123,7 @@ www.deskmodder.de
 www.devolo.de
 www.dnsleaktest.com
 www.ebay.de
+www.eset.com
 www.eurodns.com
 www.freehaven.net
 www.ghacks.net
@@ -132,9 +138,11 @@ www.malwaredomainlist.com
 www.mirrorcreator.com
 www.myce.com
 www.oldgames.sk
+www.oneplus.com
 www.researchgate.net
 www.sciencedirect.com
 www.sofort.com
 www.tweetalerts.tv
 www.wetter.com
 zerobin.net
+zyan.scripts.mit.edu
