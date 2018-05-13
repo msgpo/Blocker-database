@@ -210,6 +210,7 @@ no-large-media: blog.ghost.org false
 no-large-media: blog.habets.se false
 no-large-media: blog.haschek.at false
 no-large-media: blog.hubspot.com false
+no-large-media: blog.innerht.ml false
 no-large-media: blog.malwarebytes.com false
 no-large-media: blog.matrixforce.com false
 no-large-media: blog.mazinahmed.net false
@@ -828,6 +829,7 @@ no-large-media: hnkcfpcejkafcihlgbojoidoihckciin.chrome-extension-scheme false
 no-large-media: holon.drastic.net false
 no-large-media: home.sophos.com false
 no-large-media: hostiso.com false
+no-large-media: hosts-file.net false
 no-large-media: hostsfileseditor.weebly.com false
 no-large-media: hotforsecurity.bitdefender.com false
 no-large-media: houseofit.com.au false
@@ -886,6 +888,7 @@ no-large-media: iopred.com false
 no-large-media: ip.galih.us false
 no-large-media: ipaddress.is false
 no-large-media: ipduh.com false
+no-large-media: ipfs.io false
 no-large-media: iphone-tricks.de false
 no-large-media: ipinfo.io false
 no-large-media: ipleak.com false
@@ -1898,6 +1901,7 @@ no-large-media: www.casimages.com false
 no-large-media: www.catalog.update.microsoft.com false
 no-large-media: www.cbc.ca false
 no-large-media: www.cdkeys.com false
+no-large-media: www.centbrowser.com false
 no-large-media: www.cfos.de false
 no-large-media: www.chebucto.ns.ca false
 no-large-media: www.checkmal.com false
@@ -2662,6 +2666,7 @@ no-large-media: www.sossolutions.nl false
 no-large-media: www.soundsnap.com false
 no-large-media: www.sozial-und-stark.de false
 no-large-media: www.sozialhilfe24.de false
+no-large-media: www.spam404.com false
 no-large-media: www.sparkasse-giessen.de false
 no-large-media: www.sparkasse.de false
 no-large-media: www.sparwelt.de false
@@ -3128,6 +3133,7 @@ no-remote-fonts: blog.getadmiral.com false
 no-remote-fonts: blog.ghost.org false
 no-remote-fonts: blog.habets.se false
 no-remote-fonts: blog.haschek.at false
+no-remote-fonts: blog.innerht.ml false
 no-remote-fonts: blog.malwarebytes.com false
 no-remote-fonts: blog.matrixforce.com false
 no-remote-fonts: blog.motorola.com false
@@ -3789,6 +3795,7 @@ no-remote-fonts: litfassdrinks.com false
 no-remote-fonts: livesplit.org false
 no-remote-fonts: livestreamfails.com false
 no-remote-fonts: lmgtfy.com false
+no-remote-fonts: ln.sync.com false
 no-remote-fonts: local-ntp.chrome-search-scheme false
 no-remote-fonts: lockhunter.com false
 no-remote-fonts: login.bitdefender.net false
@@ -4556,6 +4563,7 @@ no-remote-fonts: www.casimages.com false
 no-remote-fonts: www.catalog.update.microsoft.com false
 no-remote-fonts: www.cbc.ca false
 no-remote-fonts: www.cdkeys.com false
+no-remote-fonts: www.centbrowser.com false
 no-remote-fonts: www.cfos.de false
 no-remote-fonts: www.chebucto.ns.ca false
 no-remote-fonts: www.checkmal.com false
@@ -5454,13 +5462,14 @@ no-strict-blocking: download.cnet.com true
 no-strict-blocking: getmonero.org true
 no-strict-blocking: igg-games.com true
 no-strict-blocking: inclk.com true
+no-strict-blocking: ipfs.io true
 no-strict-blocking: mandrillapp.com true
 no-strict-blocking: offer.ebay.de true
 no-strict-blocking: redirect.viglink.com true
 no-strict-blocking: rover.ebay.com true
+no-strict-blocking: softonic.com true
 no-strict-blocking: www.addtoany.com true
 no-strict-blocking: www.gog.com true
-no-strict-blocking: www.ipfs.io true
 no-strict-blocking: www.jolic2.com true
 no-strict-blocking: www.nicehash.com true
 no-strict-blocking: www.regnow.com true
@@ -6219,6 +6228,7 @@ no-strict-blocking: www.regnow.com true
 * cedia.org.ec * noop
 * cellspy.org * block
 * cemu.info * block
+* centbrowser.com * block
 * centrum24.pl * block
 * cert.org * block
 * cfos.de * block
@@ -7021,6 +7031,7 @@ no-strict-blocking: www.regnow.com true
 * flickr.com * block
 * flickshot.fr * block
 * fliegengitter-markt.de * block
+* flipboard.com * block
 * flipdogsolutions.com * block
 * flipkey.com * block
 * flixfacts.com * block
@@ -7213,7 +7224,7 @@ no-strict-blocking: www.regnow.com true
 * getpocket.com * block
 * getsharex.com * block
 * getsitecontrol.com * block
-* getwpd.com * noop
+* getwpd.com * block
 * gft2.de * block
 * gfx.ms * noop
 * gfycat.com * block
@@ -7623,6 +7634,7 @@ no-strict-blocking: www.regnow.com true
 * ing.be * block
 * ing.nl * block
 * iniptv.com * noop
+* innerht.ml * block
 * innocraft.cloud * block
 * input.club * noop
 * inq.com * block
@@ -8946,7 +8958,7 @@ no-strict-blocking: www.regnow.com true
 * raw.githubusercontent.com * noop
 * rawgit.com * noop
 * raxcdn.com * block
-* raymond.cc * noop
+* raymond.cc * block
 * raymondhill.net * noop
 * rclone.org * noop
 * rcm.amazon.com * block
@@ -9062,6 +9074,7 @@ no-strict-blocking: www.regnow.com true
 * rollbar.com * block
 * romhacking.net * block
 * romhustler.net * block
+* ronaldverlaan.nl * block
 * root.ax * block
 * rootbitch.cc * block
 * rootcanary.net * block
@@ -9209,6 +9222,7 @@ no-strict-blocking: www.regnow.com true
 * sergeistrelec.ru * block
 * serienjunkies.org * noop
 * serienstream.to * block
+* serif.tf * block
 * seroundtable.com * block
 * servebom.com * block
 * servedby-buysellads.com * block
@@ -9358,6 +9372,7 @@ no-strict-blocking: www.regnow.com true
 * sozialhilfe24.de * block
 * sp-bootstrap.global.ssl.fastly.net * block
 * spade.twitch.tv * block
+* spam404.com * block
 * sparebank1.no * block
 * sparkasse-giessen.de * block
 * sparkasse.de * noop
@@ -10643,6 +10658,7 @@ blog.exodusintel.com exodusintel.com * noop
 blog.functorial.com functorial.com * noop
 blog.getadmiral.com getadmiral.com * noop
 blog.habets.se habets.se * noop
+blog.innerht.ml innerht.ml * noop
 blog.mafr.de mafr.de * noop
 blog.mindedsecurity.com comfavicon.ico * noop
 blog.mindedsecurity.com mindedsecurity.com * noop
@@ -11109,6 +11125,7 @@ fudzilla.com fudzilla.com * noop
 funk.eu funk.eu * noop
 futurism.com futurism.com * noop
 fveydocs.org sedoparking.com * noop
+gabbbocakeomblphkmmnoamkioajlkfo.chrome-extension-scheme spam404.com * noop
 game.giveawayoftheday.com giveawayoftheday.com * noop
 gamebanana.com gamebanana.com * noop
 gamejolt.com hwcdn.net * noop
@@ -11140,6 +11157,7 @@ getgreenshot.org getgreenshot.org * noop
 geti2p.net geti2p.net * noop
 getintopc.com getintopc.com * noop
 getsharex.com getsharex.com * noop
+getwpd.com getwpd.com * noop
 gfycat.com embed.ly * noop
 gfycat.com gfycat.com * noop
 ghostbin.com ghostbin.com * noop
@@ -12230,6 +12248,7 @@ www.carbonitex.net carbonitex.net * noop
 www.caseking.de caseking.de * noop
 www.casimages.com casimages.com * noop
 www.cbc.ca cbc.ca * noop
+www.centbrowser.com centbrowser.com * noop
 www.cfos.de cfos.de * noop
 www.checkmal.com checkmal.com * noop
 www.checkpoint.com checkpoint.com * noop
@@ -12867,6 +12886,7 @@ www.rapidshare.space rapidshare.space * noop
 www.raspberrypi.org director.downloads.raspberrypi.org * allow
 www.raspberrypi.org downloads.raspberrypi.org * allow
 www.raspberrypi.org raspberrypi.org * noop
+www.raymond.cc raymond.cc * noop
 www.readmore.de readmore.de * noop
 www.realtek.com.tw realtek.com.tw * noop
 www.realvnc.com realvnc.com * noop
@@ -12891,6 +12911,7 @@ www.rockshop.de rockshop.de * noop
 www.rokop-security.de * inline-script noop
 www.rokop-security.de rokop-security.de * noop
 www.romhacking.net romhacking.net * noop
+www.ronaldverlaan.nl ronaldverlaan.nl * noop
 www.router-forum.de router-forum.de * noop
 www.safervpn.com safervpn.com * noop
 www.sandboxie.com sandboxie.com * noop
@@ -12953,6 +12974,7 @@ www.soundsnap.com soundsnap.com * noop
 www.sozial-und-stark.de sozial-und-stark.de * noop
 www.sozialhilfe24.de sozialhilfe24.de * noop
 www.spacerogue.net spacerogue.net * noop
+www.spam404.com spam404.com * noop
 www.sparkasse-giessen.de sparkasse-giessen.de * noop
 www.sparkasse-giessen.de sparkasse.de * noop
 www.sparkasse.de sparkasse.de * noop

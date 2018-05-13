@@ -44,6 +44,7 @@ download.wsusoffline.net
 downloadmirror.co
 en.discussions.tomtom.com
 extensions.inrialpes.fr
+f-droid.org
 filescdn.com
 finalfantasyspeedruns.wikidot.com
 firstpartysimulator.net
@@ -118,11 +119,10 @@ www.b4x.com
 www.battleye.com
 www.binisoft.org
 www.bitmight.uk
+www.centbrowser.com
 www.debian.org
 www.deskmodder.de
-www.devolo.de
 www.dnsleaktest.com
-www.ebay.de
 www.eset.com
 www.eurodns.com
 www.freehaven.net
@@ -132,7 +132,6 @@ www.hacker101.com
 www.icloud.com
 www.indiegogo.com
 www.ipfire.org
-www.kuketz-blog.de
 www.linkedin.com
 www.malwaredomainlist.com
 www.mirrorcreator.com
@@ -140,8 +139,9 @@ www.myce.com
 www.oldgames.sk
 www.oneplus.com
 www.researchgate.net
+www.ronaldverlaan.nl
 www.sciencedirect.com
-www.sofort.com
+www.torproject.org
 www.tweetalerts.tv
 www.wetter.com
 zerobin.net
