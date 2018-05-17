@@ -38,7 +38,6 @@ deals.majorgeeks.com
 developer.spotify.com
 dnsleak.com
 docviewer.yandex.com
-douploads.com
 download.dnscrypt.org
 download.wsusoffline.net
 downloadmirror.co
@@ -51,6 +50,7 @@ firstpartysimulator.net
 forum.doom9.org
 forums.redacted.tv
 forums.windowscentral.com
+fosdem.org
 fritz.box
 gamejolt.com
 gametransfers.com
@@ -78,6 +78,7 @@ local.adguard.com
 loopconversation.about-scheme
 mail.google.com
 mail.protonmail.com
+medium.com
 moz-extension-scheme
 natsios-young.org
 news.ycombinator.com
@@ -92,18 +93,20 @@ prism-break.org
 privacytoolsio.github.io
 rada.re
 radikal.ru
+raw.githubusercontent.com
 restream.io
 scene.org
 securitypreview.zscaler.com
 snowdenarchive.cjfe.org
 socialblade.com
+stanev.org
 t2bot.io
-techcrunch.com
 test-ipv6.com
 thememoryhole2.org
 threema-forum.de
 threema.ch
 tls.imirhil.fr
+tools.ietf.org
 tox.chat
 trac.torproject.org
 tweakers.net
@@ -122,7 +125,6 @@ www.battleye.com
 www.binisoft.org
 www.bitmight.uk
 www.debian.org
-www.deskmodder.de
 www.dnsleaktest.com
 www.eset.com
 www.eurodns.com
