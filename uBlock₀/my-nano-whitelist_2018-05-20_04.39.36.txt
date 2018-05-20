@@ -37,7 +37,6 @@ cryptome.org
 deals.majorgeeks.com
 developer.spotify.com
 dnsleak.com
-docviewer.yandex.com
 download.dnscrypt.org
 download.wsusoffline.net
 downloadmirror.co
@@ -45,6 +44,8 @@ en.discussions.tomtom.com
 extensions.inrialpes.fr
 f-droid.org
 filescdn.com
+filterlists.com
+filters.adtidy.org
 finalfantasyspeedruns.wikidot.com
 firstpartysimulator.net
 forum.doom9.org
@@ -78,7 +79,6 @@ local.adguard.com
 loopconversation.about-scheme
 mail.google.com
 mail.protonmail.com
-medium.com
 moz-extension-scheme
 natsios-young.org
 news.ycombinator.com
@@ -86,6 +86,7 @@ opera-scheme
 pages.ebay.com
 panopticlick.eff.org
 paul4innovating.com
+paulirish.github.io
 pcgamingwiki.com
 pgl.yoyo.org
 player.twitch.tv
@@ -118,7 +119,6 @@ wally3k.github.io
 web.threema.ch
 winhelp2002.mvps.org
 www.aclu.org
-www.alibabacloud.com
 www.askwoody.com
 www.b4x.com
 www.battleye.com
