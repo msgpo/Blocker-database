@@ -59,6 +59,7 @@ gamewisp.com
 git-annex.branchable.com
 git-scm.com
 goqr.me
+hosts-file.net
 id.g2a.com
 images.google.de
 ipduh.com
