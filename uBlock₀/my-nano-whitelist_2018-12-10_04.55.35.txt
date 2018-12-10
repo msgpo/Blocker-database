@@ -37,9 +37,11 @@ control-center.1und1.de
 cookieless-user-tracking.herokuapp.com
 crookedss.bplaced.net
 deals.majorgeeks.com
+desktop.firmware.mobi
 developer.spotify.com
 dnsleak.com
 docs.pi-hole.net
+douploads.com
 download.dnscrypt.org
 download.wsusoffline.net
 downloadmirror.co
@@ -118,6 +120,7 @@ prosody.im
 rada.re
 reshade.me
 resources.infosecinstitute.com
+restream.io
 riot.im
 sar.audio
 scene.org
@@ -142,7 +145,6 @@ trac.torproject.org
 twitch.streamlabs.com
 uniquemachine.org
 uptostream.com
-video.golem.de
 vivaldi-scheme
 vpntesting.info
 wally3k.github.io
@@ -155,6 +157,7 @@ www.binisoft.org
 www.bitmight.uk
 www.debian.org
 www.dnsleaktest.com
+www.doileak.com
 www.dropbox.com
 www.eset.com
 www.eurodns.com
@@ -168,6 +171,7 @@ www.ipfire.org
 www.kinza.jp
 www.linkedin.com
 www.myce.com
+www.oftc.net
 www.oldgames.sk
 www.oneplus.com
 www.otr.im
@@ -180,7 +184,6 @@ www.thetechgame.com
 www.torproject.org
 www.tube8.com
 www.tweetalerts.tv
-www.twitch.tv
 www.whonix.org
 wyciwyg-scheme
 zerobin.net
