@@ -337,13 +337,6 @@
       "cookieNames": []
     },
     {
-      "expression": "*.obsproject.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "BJvX3JAl7",
-      "cookieNames": []
-    },
-    {
       "expression": "*.old.reddit.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -547,6 +540,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.0bin.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sk9G2SUWN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.1337x-to.prox.space",
       "listType": "GREY",
       "storeId": "default",
@@ -589,6 +589,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.2speed.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1Vo_1zMV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.2we26u4fam7n16rz3a44uhbe1bq2-wpengine.netdna-ssl.com",
       "listType": "GREY",
       "storeId": "default",
@@ -607,6 +614,34 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "r109k_KbX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.3dnews.ru",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkC8Nawz4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.3ds.hacks.guide",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HyBCMlJ-4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.3dsiso.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkdArjGzN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.4gamer.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1ZWUGEZV",
       "cookieNames": []
     },
     {
@@ -645,6 +680,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.abertschi.github.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Bki3lVyzE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.abine.com",
       "listType": "GREY",
       "storeId": "default",
@@ -656,6 +698,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "H14sW_lbQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.abrobecker.free.fr",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJ1ay_KW4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.account.blizzard.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJLh-_fzV",
       "cookieNames": []
     },
     {
@@ -673,10 +729,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.add0n.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkJWXV4bN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.addons.palemoon.org",
       "listType": "GREY",
       "storeId": "default",
       "id": "HkFECEuY7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.addons.thunderbird.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Skf2Io1bN",
       "cookieNames": []
     },
     {
@@ -708,6 +778,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.administrator.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1TmzP8G4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.adobe.com",
       "listType": "GREY",
       "storeId": "default",
@@ -736,6 +813,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.afreesms.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1Cv1J2lN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.ag.gov.au",
       "listType": "GREY",
       "storeId": "default",
@@ -747,6 +831,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BJ3Q6zklX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.akdm.github.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Bk825NY-N",
       "cookieNames": []
     },
     {
@@ -785,6 +876,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.allinahealth.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1JJibGeN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.allkeyshop.com",
       "listType": "GREY",
       "storeId": "default",
@@ -818,6 +916,27 @@
       "storeId": "default",
       "id": "BJxXXfKkQ",
       "cookieNames": []
+    },
+    {
+      "expression": "*.amiunique.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sk09zcNeE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.amp.businessinsider.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJCjsJ7-4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.android-zone.ws",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_fovcTPI6"
     },
     {
       "expression": "*.android.googlesource.com",
@@ -911,6 +1030,27 @@
       "cookieNames": []
     },
     {
+      "expression": "*.app.box.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkBndPRlE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.app.codacy.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "By9UCGObN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.app.vidiq.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJ0kyXkGN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.appspot.com",
       "listType": "GREY",
       "storeId": "default",
@@ -922,6 +1062,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "r1lVA50AZX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.appuals.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyTo7rUzE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.arbeitsrechte.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryPulG_eE",
       "cookieNames": []
     },
     {
@@ -1037,6 +1191,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.autohotkey.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1xJN0PGN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.av-test.org",
       "listType": "GREY",
       "storeId": "default",
@@ -1065,6 +1226,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.axis.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByJg5oElN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.babylonsfall.com",
       "listType": "GREY",
       "storeId": "default",
@@ -1083,6 +1251,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SJP9hBNi7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.balena.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJhNRFWbE",
       "cookieNames": []
     },
     {
@@ -1156,6 +1331,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.benchmarks.ul.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H11TYcfz4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.beta.speechchat.com",
       "listType": "GREY",
       "storeId": "default",
@@ -1205,10 +1387,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.bildverkleinern.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkulP4GgV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.bing.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "rkLeAzyx7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.binisoft.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkDrZ2s-4",
       "cookieNames": []
     },
     {
@@ -1233,6 +1429,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.bitchute.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkHrfFFZE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.bitcoinist.com",
       "listType": "GREY",
       "storeId": "default",
@@ -1244,6 +1447,27 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SJmRyidk7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.bitdefender.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1xiqDMZ4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.bitsdujour.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "By_mkPn-N",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.bitsum.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Skl0Sso-V",
       "cookieNames": []
     },
     {
@@ -1261,10 +1485,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.blackhat.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1kHu_O-E",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.blacksunsoftware.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "By_5Idj1V",
+      "cookieNames": []
+    },
+    {
       "expression": "*.bleepingcomputer.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "rJLLkUD3m",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.blog.certfa.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryv86JXZ4",
       "cookieNames": []
     },
     {
@@ -1296,6 +1541,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.blog.goo.ne.jp",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1lt09MGN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.blog.google",
       "listType": "GREY",
       "storeId": "default",
@@ -1314,6 +1566,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "S1kzk2-TX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.blog.linuxmint.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1lbxPBlN",
       "cookieNames": []
     },
     {
@@ -1366,6 +1625,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.blog.tomeuvizoso.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1sdMNMMV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.blog.torproject.org",
       "listType": "GREY",
       "storeId": "default",
@@ -1394,6 +1660,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.blogger.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJB3Ww0WE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.blogs.akamai.com",
       "listType": "GREY",
       "storeId": "default",
@@ -1401,10 +1674,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.blogs.discovermagazine.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryxwKUdZ4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.blogs.fsfe.org",
       "listType": "GREY",
       "storeId": "default",
       "id": "SyHUmgkGQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.blogs.gnome.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Bk5T6AEzN",
       "cookieNames": []
     },
     {
@@ -1478,6 +1765,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.brandenburg.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkIbJt7GE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.brave.com",
       "listType": "GREY",
       "storeId": "default",
@@ -1506,6 +1800,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.browserplugs.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkBrMV4-N",
+      "cookieNames": []
+    },
+    {
       "expression": "*.browserprint.info",
       "listType": "GREY",
       "storeId": "default",
@@ -1518,6 +1819,13 @@
       "storeId": "default",
       "id": "H1Ig0nv97",
       "cookieNames": []
+    },
+    {
+      "expression": "*.buildfeed.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "X6gzSqTcg"
     },
     {
       "expression": "*.bundler.io",
@@ -1534,6 +1842,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.business-on.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkRlrDY-E",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.businessnewstodayusa.online",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sk9e5CRyE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.businessnewstodayworld.online",
       "listType": "GREY",
       "storeId": "default",
@@ -1546,6 +1868,13 @@
       "storeId": "default",
       "id": "H1QqtDiAX",
       "cookieNames": []
+    },
+    {
+      "expression": "*.buzzfeednews.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "UcUAixtNY"
     },
     {
       "expression": "*.byt.su",
@@ -1625,6 +1954,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.ccc.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyGF6rUbN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.ccleaner.com",
       "listType": "GREY",
       "storeId": "default",
@@ -1636,6 +1972,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BJjvxkkjm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.ccso.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyKXrDAZE",
       "cookieNames": []
     },
     {
@@ -1685,6 +2028,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rkcT20mfm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.cheatsheet.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJ9Tpc4xV",
       "cookieNames": []
     },
     {
@@ -1772,10 +2122,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.clips.twitch.tv",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1M5I9Sz4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.cloud.mail.ru",
       "listType": "GREY",
       "storeId": "default",
       "id": "SykYrDxeQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.cloudconvert.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SylPz2TW4",
       "cookieNames": []
     },
     {
@@ -1800,10 +2164,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.code.nsa.gov",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkUhhxbMN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.code.visualstudio.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "S1NCx5KkX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.coderbag.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rykkQrJgV",
       "cookieNames": []
     },
     {
@@ -1821,6 +2199,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.coindesk.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Bkx39YBMN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.coinspeaker.com",
       "listType": "GREY",
       "storeId": "default",
@@ -1828,10 +2213,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.cointelegraph.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJSQj8LW4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.collinsdictionary.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "rJKgWPDnX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.comicbook.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1AzU0zf4",
       "cookieNames": []
     },
     {
@@ -1933,6 +2332,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.components-mart.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJCJydO-4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.computerbase.de",
       "listType": "GREY",
       "storeId": "default",
@@ -1965,6 +2371,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BJMY8xMl7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.convert2mp3.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1nsFwzW4",
       "cookieNames": []
     },
     {
@@ -2017,6 +2430,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.crohasit.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryzDDPFZ4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.cryptii.com",
       "listType": "GREY",
       "storeId": "default",
@@ -2028,6 +2448,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rJOk_oChm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.cryptomator.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1g6rEAgN",
       "cookieNames": []
     },
     {
@@ -2049,6 +2476,27 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SyVFQiHxm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.cve.mitre.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HyQBklsWV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.cyber-itl.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1zu7b5eE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.cyware.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1O82VNZ4",
       "cookieNames": []
     },
     {
@@ -2080,10 +2528,38 @@
       "cookieNames": []
     },
     {
+      "expression": "*.daniel.haxx.se",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1XCu7_-4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.dankmemer.lol",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJX8muj14",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.danluu.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1F43_CZV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.darckrepacks.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "rk9EuCqpm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.dasan.co",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByVdDPfZV",
       "cookieNames": []
     },
     {
@@ -2199,6 +2675,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.demozoo.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1Hmy_re4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.derevenets.com",
       "listType": "GREY",
       "storeId": "default",
@@ -2290,6 +2773,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.digg.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1gWWpwlE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.digitalmind.ch",
       "listType": "GREY",
       "storeId": "default",
@@ -2325,10 +2815,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.directlinkers.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "KxkJfLrww"
+    },
+    {
       "expression": "*.dirtywarez.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "H110mkn5Q",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.disboard.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sy3NIrfG4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.discord.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJFTRNfzE",
       "cookieNames": []
     },
     {
@@ -2353,6 +2864,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.distrowatch.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H102oBJfN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.dkoldies.com",
       "listType": "GREY",
       "storeId": "default",
@@ -2371,6 +2889,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "H1mYBWt1Q",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.dnsdumpster.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1S7fiXgN",
       "cookieNames": []
     },
     {
@@ -2437,6 +2962,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.domo.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJ6wZxPGN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.donnerwetter.de",
       "listType": "GREY",
       "storeId": "default",
@@ -2479,6 +3011,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.download-installer.cdn.mozilla.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryLQVJDfV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.download.chainfire.eu",
       "listType": "GREY",
       "storeId": "default",
@@ -2497,6 +3036,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HJcpbnA1m",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.downloadcenter.intel.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJP7ehllE",
       "cookieNames": []
     },
     {
@@ -2521,6 +3067,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.dramexchange.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJklgFwxN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.drastic.net",
       "listType": "GREY",
       "storeId": "default",
@@ -2539,6 +3092,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SJ5FBqtJX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.driver.ru",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Byv5sD-WN",
       "cookieNames": []
     },
     {
@@ -2588,6 +3148,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "S1PRmJkMX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.dvdfab.cn",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryTBsAgME",
       "cookieNames": []
     },
     {
@@ -2647,10 +3214,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.edition.cnn.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hk2LKLKWN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.edugeek.net",
       "listType": "GREY",
       "storeId": "default",
       "id": "ByACkU7J4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.ehi.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1FS9pQGV",
       "cookieNames": []
     },
     {
@@ -2668,11 +3249,32 @@
       "cookieNames": []
     },
     {
+      "expression": "*.electronjs.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkQxNs5gE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.elektronik-kompendium.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryZqpU1fE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.elgato.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "B13Ne5GUm",
       "cookieNames": []
+    },
+    {
+      "expression": "*.elopezr.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "MwK11IXy1"
     },
     {
       "expression": "*.emulation.gametechwiki.com",
@@ -2700,6 +3302,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HJT4vm63X",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.en.liberapay.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1fqHDubN",
       "cookieNames": []
     },
     {
@@ -2731,10 +3340,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.encrypt.to",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJYd-i1WE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.epforums.org",
       "listType": "GREY",
       "storeId": "default",
       "id": "rkeCLEEFQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.epicgames.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJmySerz4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.epochconverter.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkmLfzMzN",
       "cookieNames": []
     },
     {
@@ -2752,10 +3382,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.escapistmagazine.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4r1jrPAv1"
+    },
+    {
       "expression": "*.esports.exposed",
       "listType": "GREY",
       "storeId": "default",
       "id": "H1VIhBTqX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.esportsettings.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkTFp0zz4",
       "cookieNames": []
     },
     {
@@ -2787,6 +3431,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.eumerch.bethesda.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJLYA0CkV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.eurogamer.net",
       "listType": "GREY",
       "storeId": "default",
@@ -2808,6 +3459,27 @@
       "cookieNames": []
     },
     {
+      "expression": "*.events.ccc.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkJdGvM-V",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.evorim.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkBN7JBf4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.ewerk-sb.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJJf2SNbN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.excelsior.com.mx",
       "listType": "GREY",
       "storeId": "default",
@@ -2822,10 +3494,38 @@
       "cookieNames": []
     },
     {
+      "expression": "*.express.co.uk",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1ir_OAbN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.extensionizr.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1M63yrf4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.extraimage.net",
       "listType": "GREY",
       "storeId": "default",
       "id": "rJ5SWEga7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.extremedownload.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1jMVHfMN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.eztv.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1q4vceMN",
       "cookieNames": []
     },
     {
@@ -2843,10 +3543,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.facebook.github.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByouNLuZN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.faceit.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "HkLUQOi37",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.fanboy.co.nz",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1182N_bN",
       "cookieNames": []
     },
     {
@@ -2882,6 +3596,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Hyk1fn4-X",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.file-up.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJOEmDzZN",
       "cookieNames": []
     },
     {
@@ -2948,10 +3669,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.firstpartysimulator.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJKflB4Z4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.fitgirl-repacks.site",
       "listType": "GREY",
       "storeId": "default",
       "id": "rkdWInBK7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.flags",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BypMoL_ZV",
       "cookieNames": []
     },
     {
@@ -3039,6 +3774,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.forensit.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJXXfhDG4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.foro.noticias3d.com",
       "listType": "GREY",
       "storeId": "default",
@@ -3053,6 +3795,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.fortinet.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkJdm4zz4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.forum.audacityteam.org",
       "listType": "GREY",
       "storeId": "default",
@@ -3064,6 +3813,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "ry-dNNiCX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.forum.cakewalk.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkTCdVh-E",
       "cookieNames": []
     },
     {
@@ -3092,6 +3848,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "H1N27OKtX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.forum.exploit.in",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SklUWWjW4",
       "cookieNames": []
     },
     {
@@ -3214,6 +3977,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.forums.ffshrine.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkjCH6Lb4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.forums.geforce.com",
       "listType": "GREY",
       "storeId": "default",
@@ -3242,10 +4012,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.forums.laptopvideo2go.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "xC1yRnxLA"
+    },
+    {
       "expression": "*.forums.malwarebytes.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "S1guP_7SX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.forums.mozillazine.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJPO8jkZ4",
       "cookieNames": []
     },
     {
@@ -3270,6 +4054,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.fosscord.github.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Bk_27djyN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.fox13now.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkG6QXYWV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.foxxapp-paf.blogspot.com",
       "listType": "GREY",
       "storeId": "default",
@@ -3281,6 +4079,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BJdqeZ0FQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.free-powerpoint-templates-design.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1ZH7Nfg4",
       "cookieNames": []
     },
     {
@@ -3298,10 +4103,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.freebies.indiegala.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H15cRMV-E",
+      "cookieNames": []
+    },
+    {
       "expression": "*.freebsd.org",
       "listType": "GREY",
       "storeId": "default",
       "id": "H1YpLWFC7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.freedom-to-tinker.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkW1jxOe4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.freegrabapp.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkZIqgjZN",
       "cookieNames": []
     },
     {
@@ -3316,6 +4142,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HJMQCrke7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.freepptbackgrounds.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "By5-eLzxN",
       "cookieNames": []
     },
     {
@@ -3347,6 +4180,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.fudzilla.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkHG8L4bE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.fx-calc.de",
       "listType": "GREY",
       "storeId": "default",
@@ -3368,10 +4208,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.gadgets.ndtv.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyZKiq9xV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.gagadget.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "B1ok_6qOQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.gamefaqs.gamespot.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJF9oPLME",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.gamehistory.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1azMDfbN",
       "cookieNames": []
     },
     {
@@ -3380,6 +4241,13 @@
       "storeId": "default",
       "id": "H1LsEPAMQ",
       "cookieNames": []
+    },
+    {
+      "expression": "*.gameinformer.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "o0du2Laty"
     },
     {
       "expression": "*.gamepro.de",
@@ -3394,6 +4262,13 @@
       "storeId": "default",
       "id": "B1163nD57",
       "cookieNames": []
+    },
+    {
+      "expression": "*.gamerant.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3IDBDAjmv"
     },
     {
       "expression": "*.gamersdecide.com",
@@ -3466,6 +4341,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.gbatemp.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyFQKGFbV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.gbmods.co",
       "listType": "GREY",
       "storeId": "default",
@@ -3512,6 +4394,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "B1lM0oZfX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.gerrit-ring.savoirfairelinux.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hk2VsgzfN",
       "cookieNames": []
     },
     {
@@ -3620,10 +4509,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.globaltimes.cn",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJXbiVKbE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.gls-group.eu",
       "listType": "GREY",
       "storeId": "default",
       "id": "SyTK01lGX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.gmx.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryODMAPfN",
       "cookieNames": []
     },
     {
@@ -3638,6 +4541,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SkHAjVly4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.god-games.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJpwcVJeE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.gofundme.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJlm-wAxN",
       "cookieNames": []
     },
     {
@@ -3669,6 +4586,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.goskills.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJmgRrfeV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.govdelivery.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hk6S7SfZN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.gpg4win.org",
       "listType": "GREY",
       "storeId": "default",
@@ -3683,10 +4614,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.gpsworld.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1a5tPo14",
+      "cookieNames": []
+    },
+    {
       "expression": "*.granicus.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "B1e-leQWGm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.grc.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyYEawXGE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.greycoder.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJvDhtxGV",
       "cookieNames": []
     },
     {
@@ -3701,6 +4653,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HkEion-J4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.gskill.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rySPr7dlV",
       "cookieNames": []
     },
     {
@@ -3830,6 +4789,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.healthline.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1-_cZzxN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.heidoc.net",
       "listType": "GREY",
       "storeId": "default",
@@ -3935,10 +4901,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.hp.vector.co.jp",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkDpMeDMV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.hp45a.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "HkPYSPrWQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.hrkgame.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BylsYl-fV",
       "cookieNames": []
     },
     {
@@ -3988,6 +4968,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rJevdTk14",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.iapp.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkOaRGGM4",
       "cookieNames": []
     },
     {
@@ -4058,6 +5045,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "H1AvMz7k4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.iloveimg.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1HIP4zeV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.image.online-convert.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkPmOVMxV",
       "cookieNames": []
     },
     {
@@ -4138,6 +5139,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.independent.co.uk",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByDvHSQZE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.info.appthority.com",
       "listType": "GREY",
       "storeId": "default",
@@ -4208,10 +5216,45 @@
       "cookieNames": []
     },
     {
+      "expression": "*.internetgovernance.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJ0eHuCbE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.internethealthtest.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJeiBkOxN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.intowindows.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "ByayZdge7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.inverse.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJTotU_bN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.ipas-gmbh.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hy57eSMeN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.iphonehacks.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Bk-bTq4eE",
       "cookieNames": []
     },
     {
@@ -4250,10 +5293,45 @@
       "cookieNames": []
     },
     {
+      "expression": "*.it-zoom.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r13xMPSxV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.itechtics.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "BkEgImxem",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.itninja.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hy6xKoee4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.itprotoday.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sk4jz3GGV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.itrig.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1vpNsJZN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.ixbt.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1CZj5xzE",
       "cookieNames": []
     },
     {
@@ -4275,6 +5353,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HkXjtNtqm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.jami.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJD5qlfzV",
       "cookieNames": []
     },
     {
@@ -4303,6 +5388,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rJrdUDPg7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.jedec.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkoPaKPeN",
       "cookieNames": []
     },
     {
@@ -4348,10 +5440,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.josephg.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkqSVLub4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.jsfiddle.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HygYX6lxE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.jspenguin2017.github.io",
       "listType": "GREY",
       "storeId": "default",
       "id": "BJPxXZ60Q",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.justice.gov",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hkn9-T5eN",
       "cookieNames": []
     },
     {
@@ -4376,10 +5489,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.kaggle.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJdMARlz4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.kaoskrew.org",
       "listType": "GREY",
       "storeId": "default",
       "id": "SyC5384tQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.kartridge.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1PE1uYeV",
       "cookieNames": []
     },
     {
@@ -4418,6 +5545,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.keepass.info",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1uHB97M4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.keezmovies.com",
       "listType": "GREY",
       "storeId": "default",
@@ -4429,6 +5563,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "ByWCuSye7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.khoatoantin.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJ1Fp7zlN",
       "cookieNames": []
     },
     {
@@ -4460,6 +5601,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.klcconsulting.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByDIgYXGV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.knowyourmeme.com",
       "listType": "GREY",
       "storeId": "default",
@@ -4485,6 +5633,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rJWY9nOu7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.ksl.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJVwbFwlV",
       "cookieNames": []
     },
     {
@@ -4544,6 +5699,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.le.utah.gov",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rk2ZGtDe4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.legion.wikia.com",
       "listType": "GREY",
       "storeId": "default",
@@ -4579,6 +5741,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.lifehacker.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B12UOFfz4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.lifelock.com",
       "listType": "GREY",
       "storeId": "default",
@@ -4600,6 +5769,34 @@
       "cookieNames": []
     },
     {
+      "expression": "*.linux-magazin.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S18qNPSlV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.linuxblog.darkduck.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SygMg3PGV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.linuxconfig.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJZYDiReE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.linuxtoday.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkCyEniWV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.linx.li",
       "listType": "GREY",
       "storeId": "default",
@@ -4618,6 +5815,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rkZsclETQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.lists.freedesktop.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByFhb2efV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.lists.mozilla.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkgjS1-fV",
       "cookieNames": []
     },
     {
@@ -4684,6 +5895,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.lunarg.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkG1ryWfE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.lwn.net",
       "listType": "GREY",
       "storeId": "default",
@@ -4702,6 +5920,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "ryjJM63gQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.macabacus.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "By3NgQZME",
       "cookieNames": []
     },
     {
@@ -4758,6 +5983,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "S1y4ZdleQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.makemkv.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1tURkjZE",
       "cookieNames": []
     },
     {
@@ -4866,6 +6098,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.massivelyop.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Ok1ff1o-u"
+    },
+    {
       "expression": "*.material.io",
       "listType": "GREY",
       "storeId": "default",
@@ -4915,6 +6154,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.meditations.games",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJ0mTBYbV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.medium.com",
       "listType": "GREY",
       "storeId": "default",
@@ -4943,6 +6189,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.meeting.veilmetal.host",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkIMJDSeV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.mega.nz",
       "listType": "GREY",
       "storeId": "default",
@@ -4964,10 +6217,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.memory.dataram.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1YY7lvfE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.menlosecurity.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1gRPRvlV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.mesen.ca",
       "listType": "GREY",
       "storeId": "default",
       "id": "Sk1Bmdfb7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.metropolisplanet.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJrh5jRlE",
       "cookieNames": []
     },
     {
@@ -5048,6 +6322,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.mkvhub.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkEdA2wME",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.mntmn.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJJ6lLEbE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.mobilism.org",
       "listType": "GREY",
       "storeId": "default",
@@ -5073,6 +6361,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rJ5SSHAgX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.monperrus.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r13vhUVbE",
       "cookieNames": []
     },
     {
@@ -5115,6 +6410,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "H1zbJMYg7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.mpv.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HytgAdU-V",
       "cookieNames": []
     },
     {
@@ -5171,6 +6473,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Bkr3ap_CX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.mxlinux.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJi_qB1GV",
       "cookieNames": []
     },
     {
@@ -5237,6 +6546,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.mynavi.jp",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByU8hnlfV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.mynes.sourceforge.net",
       "listType": "GREY",
       "storeId": "default",
@@ -5279,6 +6595,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.n1kobg.blogspot.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJh5DV3bN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.n4g.com",
       "listType": "GREY",
       "storeId": "default",
@@ -5297,6 +6620,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Skk0EHLCm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.neatvideo.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJHgjQ-z4",
       "cookieNames": []
     },
     {
@@ -5325,6 +6655,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Sy8JLcpqX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.neowin.tradepub.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HyL_DIzMV",
       "cookieNames": []
     },
     {
@@ -5363,6 +6700,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.netmarketshare.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJYOrzYZV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.netsparker.com",
       "listType": "GREY",
       "storeId": "default",
@@ -5398,6 +6742,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.news.mynavi.jp",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkHLnhlfV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.news.ubisoft.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJzBE3XlV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.news.xbox.com",
       "listType": "GREY",
       "storeId": "default",
@@ -5409,6 +6767,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rklEPDYq7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.newsroom.ibm.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "By9_g4zMN",
       "cookieNames": []
     },
     {
@@ -5454,6 +6819,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.nintendo.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SydIfUAgV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.nirsoft.net",
       "listType": "GREY",
       "storeId": "default",
@@ -5496,10 +6868,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.nngroup.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJl1ZtRb4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.nofile.io",
       "listType": "GREY",
       "storeId": "default",
       "id": "HJ1-BxQsQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.noradsanta.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJLlrCDxE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.nordbayern.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1XChHn-4",
       "cookieNames": []
     },
     {
@@ -5552,6 +6945,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.nswdb.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1NA-rGGN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.ntlite.com",
       "listType": "GREY",
       "storeId": "default",
@@ -5563,6 +6963,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "S1bH8JZBm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.null-byte.wonderhowto.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJh0I8kgV",
       "cookieNames": []
     },
     {
@@ -5601,6 +7008,34 @@
       "cookieNames": []
     },
     {
+      "expression": "*.nymag.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryXAypUbE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.nytimes.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rk_Tc9JM4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.obsproject.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJqxSvdZ4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.office-4-sale.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryl2ExOlV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.oftc.net",
       "listType": "GREY",
       "storeId": "default",
@@ -5619,6 +7054,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Sk1rsVqAm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.ojdproject.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkTaEqDGN",
       "cookieNames": []
     },
     {
@@ -5650,6 +7092,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.onfastspring.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "G1Z4bNT6I"
+    },
+    {
       "expression": "*.online-protection-now.com",
       "listType": "GREY",
       "storeId": "default",
@@ -5661,6 +7110,27 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SJHDFILvm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.onlinevideoconverter.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sk7OYPfZV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.onmsft.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyUPj3DlN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.opaque.link",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJQgZLGMV",
       "cookieNames": []
     },
     {
@@ -5696,6 +7166,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SJp2J3tqQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.opennet.ru",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1sOyUyeV",
       "cookieNames": []
     },
     {
@@ -5867,6 +7344,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.packtpub.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyloK5leN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.palemoon.org",
       "listType": "GREY",
       "storeId": "default",
@@ -5895,6 +7379,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.pastelink.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sk5mk1WGN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.patchtuesdaydashboard.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryTToYzzN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.patents.google.com",
       "listType": "GREY",
       "storeId": "default",
@@ -5906,6 +7404,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HyogUzn9X",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.pay.gov",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1XHCrrlE",
       "cookieNames": []
     },
     {
@@ -5930,10 +7435,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.pcgameshardware.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rk0eai7eV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.pcgamesn.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "SkuDL9Kc7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.pcgamingwiki.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJUEQ30lV",
       "cookieNames": []
     },
     {
@@ -5955,6 +7474,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BJsUVQMum",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.pcpartpicker.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1qnR0zbV",
       "cookieNames": []
     },
     {
@@ -6154,6 +7680,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.playboy.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyowP4F-V",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.playcentral.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1E4rrWzV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.playdauntless.com",
       "listType": "GREY",
       "storeId": "default",
@@ -6210,6 +7750,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.postermywall.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SydKsNMgV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.postimages.org",
       "listType": "GREY",
       "storeId": "default",
@@ -6238,10 +7785,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.powerup-gaming.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_64RI7pdh"
+    },
+    {
       "expression": "*.predb.me",
       "listType": "GREY",
       "storeId": "default",
       "id": "BJicQ-2cQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.predb.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hy0n1ebzE",
       "cookieNames": []
     },
     {
@@ -6259,6 +7820,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.privacyinternational.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkjDnI8bN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.privacynotprism.org.uk",
       "listType": "GREY",
       "storeId": "default",
@@ -6270,6 +7838,27 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "B1kEVNWgX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.privateinternetaccess.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkGcWy1ZN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.prntscr.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJFGY7WGE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.prnwatch.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJCZSePM4",
       "cookieNames": []
     },
     {
@@ -6287,10 +7876,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.prosettings.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByzKTTzfE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.prosiebenmaxx.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkcvDuUZN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.prosody.im",
       "listType": "GREY",
       "storeId": "default",
       "id": "S12xVGeem",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.protondb.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Byb9QtPxE",
       "cookieNames": []
     },
     {
@@ -6315,10 +7925,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.ptsecurity.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJpKhhwxE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.punklabs.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "S1Hx8NI0m",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.puresoftapps.blogspot.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJiSvR4GV",
       "cookieNames": []
     },
     {
@@ -6347,6 +7971,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "ryfkiXh97",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.quarter.captionlumber.pw",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkYiTGEbE",
       "cookieNames": []
     },
     {
@@ -6406,6 +8037,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.radmin-vpn.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJF2mIAlE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.raijintek.com",
       "listType": "GREY",
       "storeId": "default",
@@ -6417,6 +8055,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Hkgg-zNom",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.rammichael.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJhRvKvgV",
       "cookieNames": []
     },
     {
@@ -6441,6 +8086,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.ratgeber.immowelt.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkxjCb_xN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.raw.githack.com",
       "listType": "GREY",
       "storeId": "default",
@@ -6462,11 +8114,25 @@
       "cookieNames": []
     },
     {
+      "expression": "*.raymondhill.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HkbmEbWfE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.razer.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "HJgf2PHMP7",
       "cookieNames": []
+    },
+    {
+      "expression": "*.rds-tools.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "cwyF4V0qa"
     },
     {
       "expression": "*.reaction-role.com",
@@ -6487,6 +8153,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "B125lIxW7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.rebootthepast.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rydDKO0Z4",
       "cookieNames": []
     },
     {
@@ -6515,6 +8188,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SkL-pm7kE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.reddup.co",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HyLVQ-jW4",
       "cookieNames": []
     },
     {
@@ -6553,6 +8233,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.reichelt.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ry5z2D-gV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.rem.uz",
       "listType": "GREY",
       "storeId": "default",
@@ -6588,6 +8275,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.residentevil.fandom.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Dj_0kvF34"
+    },
+    {
+      "expression": "*.resizeyourimage.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJkmPEMl4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.resources.infosecinstitute.com",
       "listType": "GREY",
       "storeId": "default",
@@ -6616,10 +8317,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.review.lineageos.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJjnQkneE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.reviewmeta.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "r1FNFgDlX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.rexdlfile.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJyVIIyxV",
       "cookieNames": []
     },
     {
@@ -6641,6 +8356,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "r1qAIJLy4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.ribb.it",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1cFOEClE",
       "cookieNames": []
     },
     {
@@ -6690,6 +8412,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Hkvukc99X",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.rsaconference.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJTtaICbN",
       "cookieNames": []
     },
     {
@@ -6756,6 +8485,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.s3blog.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryYRrik-V",
+      "cookieNames": []
+    },
+    {
       "expression": "*.sa2018.siggraph.org",
       "listType": "GREY",
       "storeId": "default",
@@ -6777,10 +8513,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.samsung.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryfseVZGN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.sans.edu",
       "listType": "GREY",
       "storeId": "default",
       "id": "SJgiexNR1X",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.santatracker.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJy-Bl0g4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.sapprft.gov.cn",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJMr70DZ4",
       "cookieNames": []
     },
     {
@@ -6823,6 +8580,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Skxq8whRZQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.sciencealert.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJgZhOYZN",
       "cookieNames": []
     },
     {
@@ -6910,6 +8674,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.secureauth.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1Fy1PwxE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.securinghardware.com",
       "listType": "GREY",
       "storeId": "default",
@@ -6945,6 +8716,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.seekingalpha.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Byhu1o4e4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.sendfile.su",
       "listType": "GREY",
       "storeId": "default",
@@ -6956,6 +8734,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "ryhk4u-fX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.seriosoft.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HyBox2pWV",
       "cookieNames": []
     },
     {
@@ -7022,6 +8807,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.sharewareonsale.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1Unjr8-E",
+      "cookieNames": []
+    },
+    {
       "expression": "*.shawnteoh.github.io",
       "listType": "GREY",
       "storeId": "default",
@@ -7064,6 +8856,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.shyftplan.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hk4Z7wBe4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.signup.steemit.com",
       "listType": "GREY",
       "storeId": "default",
@@ -7082,6 +8881,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Byw_zGyxX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.sites.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJETHvBe4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.skidrow.games",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkL1YHFZE",
       "cookieNames": []
     },
     {
@@ -7106,10 +8919,38 @@
       "cookieNames": []
     },
     {
+      "expression": "*.slengpung.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sk7i2vrl4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.slicedpi.net",
       "listType": "GREY",
       "storeId": "default",
       "id": "H1l80lUg7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.slidescarnival.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJL06rfeE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.slideteam.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJO_1LMeV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.small-games.info",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkDIPFxzE",
       "cookieNames": []
     },
     {
@@ -7145,6 +8986,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "ryjk5wRnm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.snappa.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJUXD_lfE",
       "cookieNames": []
     },
     {
@@ -7278,6 +9126,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "ryns0RhLX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.speedguide.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJRxaEhW4",
       "cookieNames": []
     },
     {
@@ -7484,10 +9339,45 @@
       "cookieNames": []
     },
     {
+      "expression": "*.stionline.com.ve",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "NDBLcw0ii"
+    },
+    {
+      "expression": "*.stiripesurse.ro",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1W9OpwWN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.stopad.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "S1PzPwYbE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.store.payproglobal.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "BkGqf1FRQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.store.playstation.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkjQwqRe4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.store.ubi.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1dp_wSxN",
       "cookieNames": []
     },
     {
@@ -7617,6 +9507,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.support.lenovo.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkHlfXNZ4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.support.microsoft.com",
       "listType": "GREY",
       "storeId": "default",
@@ -7649,6 +9546,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "S1ZGvT2kX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.suspended-website.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H1Q3Vujy4",
       "cookieNames": []
     },
     {
@@ -7701,6 +9605,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.sync.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJuWgA0lE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.syntevo.com",
       "listType": "GREY",
       "storeId": "default",
@@ -7715,6 +9626,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.t.me",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1EOzlZzE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.t2bot.io",
       "listType": "GREY",
       "storeId": "default",
@@ -7726,6 +9644,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BJTgODkZm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.tampermonkey.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B16GUskfE",
       "cookieNames": []
     },
     {
@@ -7792,10 +9717,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.techdirt.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJ9C71HMN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.techdows.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hy7iTSnZV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.technet.microsoft.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "S1g65Qy-7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.technitium.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkfXltXzE",
       "cookieNames": []
     },
     {
@@ -7848,6 +9794,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.ted.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_73A9cudP"
+    },
+    {
       "expression": "*.tehparadox.co",
       "listType": "GREY",
       "storeId": "default",
@@ -7887,6 +9840,27 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "ByMP6pZ3m",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.template.net",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Sy7BiVMgV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.templatemonster.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkvWNVGgN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.templates.office.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Bkid8EzgE",
       "cookieNames": []
     },
     {
@@ -7932,6 +9906,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.thalia.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJy7MRDzV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.thebotdev.de",
       "listType": "GREY",
       "storeId": "default",
@@ -7950,6 +9931,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HJreG5oCQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.theepochtimes.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyHZjVtZ4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.theguardian.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJZBa6PeV",
       "cookieNames": []
     },
     {
@@ -8023,6 +10018,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.thessdreview.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "By5H86wf4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.thestreet.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJ94grIz4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.thetechgame.com",
       "listType": "GREY",
       "storeId": "default",
@@ -8037,10 +10046,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.theverge.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1qwTogeV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.thewindowsclub.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "Bym3Bzgf7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.threatpost.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Hk-4__IbN",
       "cookieNames": []
     },
     {
@@ -8058,10 +10081,38 @@
       "cookieNames": []
     },
     {
+      "expression": "*.timelog-app.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1i4fDSgN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.timkadlec.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkYabE-zE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.timr.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJ4vzwSx4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.tinypic.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "rJkWMyTyX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.tinyspell.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJgf_1m-E",
       "cookieNames": []
     },
     {
@@ -8135,6 +10186,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.toptal.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJlHi_z-V",
+      "cookieNames": []
+    },
+    {
       "expression": "*.tor.stackexchange.com",
       "listType": "GREY",
       "storeId": "default",
@@ -8198,6 +10256,20 @@
       "cookieNames": []
     },
     {
+      "expression": "*.toshiba-memory.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1QiLomG4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.tparser.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJoe2OGzV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.tr.free-torrents.org",
       "listType": "GREY",
       "storeId": "default",
@@ -8212,6 +10284,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.trac.torproject.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SyOW-Uke4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.transfer.pcloud.com",
       "listType": "GREY",
       "storeId": "default",
@@ -8219,10 +10298,31 @@
       "cookieNames": []
     },
     {
+      "expression": "*.transparencyreport.google.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "Skl5XuYbE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.traynier.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "r1ENTTORm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.trello.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJPxRzdZN",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.trendmicro.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ByuTwH8fV",
       "cookieNames": []
     },
     {
@@ -8261,10 +10361,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.tutorialspoint.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "RvsuWTyhI"
+    },
+    {
       "expression": "*.tutsplus.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "rke_4IW_U7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.tvbgone.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryIjyxib4",
       "cookieNames": []
     },
     {
@@ -8366,10 +10480,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.ubnt.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJbq5UI-E",
+      "cookieNames": []
+    },
+    {
       "expression": "*.ucmate.info",
       "listType": "GREY",
       "storeId": "default",
       "id": "HJW5Sbhn7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.udemy.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkzwlGJWN",
       "cookieNames": []
     },
     {
@@ -8415,6 +10543,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.uncaptcha.cs.umd.edu",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1HFDPn-4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.under-construction.tum-party.net",
       "listType": "GREY",
       "storeId": "default",
@@ -8426,6 +10561,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "rJg-QTl8x7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.unicode.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "H15VtZZzE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.universal-bypass.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJTSkpyGN",
       "cookieNames": []
     },
     {
@@ -8502,7 +10651,15 @@
       "expression": "*.uploadocean.com",
       "listType": "GREY",
       "storeId": "default",
-      "id": "r19R3d6Om",
+      "id": "4vk-mu9ir",
+      "cookieNames": [],
+      "cleanAllCookies": true
+    },
+    {
+      "expression": "*.uploadproper.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1pMeA014",
       "cookieNames": []
     },
     {
@@ -8545,6 +10702,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HJsslPi67",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.us.forums.blizzard.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryf7pCGMN",
       "cookieNames": []
     },
     {
@@ -8660,6 +10824,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.vesterkopi.dk",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ryXY5VMlE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.vgy.me",
       "listType": "GREY",
       "storeId": "default",
@@ -8723,6 +10894,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.vidiq.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJOpI4Mf4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.vimeo.com",
       "listType": "GREY",
       "storeId": "default",
@@ -8779,6 +10957,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.voidtools.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1Lbu_SxN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.vortexparty.org",
       "listType": "GREY",
       "storeId": "default",
@@ -8790,6 +10975,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BJRObrjRm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.vsetop.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HyCDPYlM4",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.vulkan.lunarg.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "r1bMmOtx4",
       "cookieNames": []
     },
     {
@@ -8811,6 +11010,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "Sk7YSZ7Gm",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.wallabag.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SkNMgmGfV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.wallet.fail",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "B1APGXNb4",
       "cookieNames": []
     },
     {
@@ -8856,6 +11069,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.web.archive.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJ-fLlSfV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.web.qmcoin.gq",
       "listType": "GREY",
       "storeId": "default",
@@ -8867,6 +11087,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "SkZDHzQJE",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.weboas.is",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJFIGjXeV",
       "cookieNames": []
     },
     {
@@ -8891,10 +11118,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.wfcdn.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rQCEIcnwv"
+    },
+    {
       "expression": "*.wfonts.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "ByMpD5Sem",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.whatsapp.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "ry11yv8GN",
       "cookieNames": []
     },
     {
@@ -8930,6 +11171,20 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "B1-ZsLJ-X",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.wiki.sourceruns.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BkP20HyeV",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.wiki.winehq.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJK5DrebV",
       "cookieNames": []
     },
     {
@@ -8982,6 +11237,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.windows-repair-toolbox.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkG_50gM4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.windows101tricks.com",
       "listType": "GREY",
       "storeId": "default",
@@ -9003,10 +11265,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.windowslatest.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJprWN2yN",
+      "cookieNames": []
+    },
+    {
       "expression": "*.windowsreport.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "HkPQJuexX",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.winehq.org",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HJ7MEacxV",
       "cookieNames": []
     },
     {
@@ -9059,6 +11335,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.withinrafael.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BJmf6RGW4",
+      "cookieNames": []
+    },
+    {
       "expression": "*.wixsite.com",
       "listType": "GREY",
       "storeId": "default",
@@ -9077,6 +11360,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "HygndtwVem",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.wordfence.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJpk__jyE",
       "cookieNames": []
     },
     {
@@ -9108,6 +11398,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.wsj.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rkBUgtveV",
+      "cookieNames": []
+    },
+    {
       "expression": "*.wufoo.com",
       "listType": "GREY",
       "storeId": "default",
@@ -9127,6 +11424,13 @@
       "storeId": "default",
       "id": "Sk_D7aEx7",
       "cookieNames": []
+    },
+    {
+      "expression": "*.wylek.ru",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "iom8SgfRe"
     },
     {
       "expression": "*.wzor.net",
@@ -9182,6 +11486,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BJ0e8HWG7",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.xdanx.github.io",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "HyuGDcqgE",
       "cookieNames": []
     },
     {
@@ -9262,10 +11573,24 @@
       "cookieNames": []
     },
     {
+      "expression": "*.youlean.onfastspring.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "FdtOWxTrq"
+    },
+    {
       "expression": "*.younow.com",
       "listType": "GREY",
       "storeId": "default",
       "id": "SkG5qQiOQ",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.youporn.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "BksuuOvl4",
       "cookieNames": []
     },
     {
@@ -9318,6 +11643,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.yubsoft.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "rJW1W46xE",
+      "cookieNames": []
+    },
+    {
       "expression": "*.zachholman.com",
       "listType": "GREY",
       "storeId": "default",
@@ -9336,6 +11668,13 @@
       "listType": "GREY",
       "storeId": "default",
       "id": "BypDXXI27",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.zeit.de",
+      "listType": "GREY",
+      "storeId": "default",
+      "id": "SJ-4eUO-V",
       "cookieNames": []
     },
     {
@@ -9421,6 +11760,13 @@
       "storeId": "default",
       "id": "SkBsiiy1V",
       "cookieNames": []
+    },
+    {
+      "expression": "release-apk.com",
+      "listType": "GREY",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4bW5ZPQBy"
     }
   ]
 }

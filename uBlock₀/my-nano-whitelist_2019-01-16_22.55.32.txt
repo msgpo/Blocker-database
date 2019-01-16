@@ -41,7 +41,6 @@ desktop.firmware.mobi
 developer.spotify.com
 dnsleak.com
 docs.pi-hole.net
-douploads.com
 download.dnscrypt.org
 download.wsusoffline.net
 downloadmirror.co
@@ -68,6 +67,7 @@ getmonero.org
 git-annex.branchable.com
 gitextensions.github.io
 gitup.co
+god-games.com
 goqr.me
 gpgtools.org
 hosts-file.net
@@ -101,9 +101,10 @@ natsios-young.org
 net-internals.chrome-scheme
 news.ycombinator.com
 nordvpnspyapp.blogspot.com
+old.reddit.com
 open.spotify.com
 opera-scheme
-pages.ebay.com
+pachckjkecffpdphbpmfolblodfkgbhl
 panopticlick.eff.org
 passport.twitch.tv
 paul4innovating.com
@@ -118,9 +119,7 @@ prism-break.org
 privacytoolsio.github.io
 prosody.im
 rada.re
-reshade.me
 resources.infosecinstitute.com
-restream.io
 riot.im
 sar.audio
 scene.org
@@ -144,6 +143,7 @@ tox.chat
 trac.torproject.org
 twitch.streamlabs.com
 uniquemachine.org
+upload4earn.org
 uptostream.com
 vivaldi-scheme
 vpntesting.info
@@ -155,6 +155,7 @@ www.b4x.com
 www.battleye.com
 www.binisoft.org
 www.bitmight.uk
+www.browserplugs.com
 www.debian.org
 www.dnsleaktest.com
 www.doileak.com
@@ -164,6 +165,7 @@ www.eurodns.com
 www.freehaven.net
 www.ghacks.net
 www.gnu.org
+www.grc.com
 www.hacker101.com
 www.icloud.com
 www.indiegogo.com
@@ -179,12 +181,11 @@ www.pcmag.com
 www.researchgate.net
 www.ronaldverlaan.nl
 www.sciencedirect.com
-www.screentogif.com
 www.thetechgame.com
 www.torproject.org
 www.tube8.com
 www.tweetalerts.tv
 www.whonix.org
 wyciwyg-scheme
+yadi.sk
 zerobin.net
-zyan.scripts.mit.edu
