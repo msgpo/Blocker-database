@@ -23,12 +23,8 @@ Project Goal
 Usage
 ---------------
 
-* Go to and click through the Firefox about:config warning. 
-* Use the search box to find your whitelist and blacklist. 
-* The whitelist is called `capability.policy.maonoscript.sites`. 
-* The blacklist is called `noscript.untrusted`. 
-* Right click --> 'Modify' to edit the value. 
-* You can either replace your existing values or add our values as you see fit.
+* The lists are tested and working on Chrome (Chromium), Firefox, Opera (Chrome) and soon Microsoft own Chrome version.
+* Install the official extensions and import the lists - easy peasy lemon squeezy!
 
 
 Contributing to the list
@@ -62,10 +58,10 @@ What about the cons?
 QnA's
 ---------------
 
-Q: Can I import NoScript settings in e.g. addons like uMatrix?
+Q: Is there a NoScript Database?
 
 
-A: You can import whitelist NoScript rules. Go to the 'My rules' pane in uMatrix's dashboard, then click Import from file. You can select a NoScript backup file and uMatrix will import what it can from the backup file. The imported rules will apply to the script column of the global scope only.
+A: [Not anymore](https://github.com/CHEF-KOCH/Blocker-database/issues/16), seems NoScript (since it got crippled) is not wideley used anymore, most people (including me) switched to uMatrix instead.
 
 
 Known issue
@@ -73,8 +69,7 @@ Known issue
 
 The following issue are not directly related to this project, there addon/extension related:
 
-* [#4](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/4) 
-* [#5](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/5)
+// None 
 
 
 Project based issue:
