@@ -81,7 +81,21 @@ Project based issue:
 Reference
 -----------------
 
-* https://noscript.net/
-* https://forums.informaction.com/viewforum.php?f=3
-* https://addons.mozilla.org/en-US/firefox/addon/noscript/
-* https://webtransparency.cs.princeton.edu/webcensus/
+* [Official NoScript Page](https://noscript.net/)
+* [Official NoScript Forum](https://forums.informaction.com/viewforum.php?f=3)
+
+
+Extensions
+-----------------
+
+* [Firefox NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - there is no Chrome version!
+* [uMatrix](https://github.com/gorhill/uMatrix)
+* [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core)
+* [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
+* [ScriptSafe](https://github.com/andryou/scriptsafe)
+
+
+Studies
+-----------------
+
+* [Online tracking: A 1-million-site measurement and analysis](https://webtransparency.cs.princeton.edu/webcensus/)
