@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="600" height="400" src="https://s3.amazonaws.com/www-codefuel-wp-cdn/wp-content/uploads/2015/10/26064244/The-Ad-Blocker-Landscape.jpg">
+</p>
+
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://img.shields.io/discord/418256415874875402.svg?colorA=7289da&colorB=99aab5&label=Discord&logo=discord&maxAge=60)](https://discord.me/CHEF-KOCH)
 <img src="http://img.shields.io/liberapay/receives/CHEF-KOCH.svg?logo=liberapay">
