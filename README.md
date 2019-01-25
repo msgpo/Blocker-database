@@ -72,9 +72,12 @@ A: [Not anymore](https://github.com/CHEF-KOCH/Blocker-database/issues/16), seems
 Known issue
 ---------------
 
-The following issue are not directly related to this project, there addon/extension related:
+The bigger issues are pinned, otherwise the following "special" issue are not directly related to this project, there addon/extension related (see here):
 
-// None 
+
+Extension bases issue:
+
+* Currently, none 
 
 
 Project based issue:
