@@ -103,7 +103,8 @@ Extensions
 * [ScriptSafe](https://github.com/andryou/scriptsafe)
 
 
-Studies
+Studies & Laws
 -----------------
 
 * [Online tracking: A 1-million-site measurement and analysis](https://webtransparency.cs.princeton.edu/webcensus/)
+* [Ad-Blocking (whitelistening is legal](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2019/21_01_2019_Eyeo_Google.html;jsessionid=DD7B1C84F1A21544D925AB829F6944D1.1_cid378?nn=3591568)
