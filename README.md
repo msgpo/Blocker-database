@@ -63,10 +63,10 @@ What about the cons?
 QnA's
 ---------------
 
-Q: Is there a NoScript Database?
+**Q**: Is there a NoScript Database?
 
 
-A: [Not anymore](https://github.com/CHEF-KOCH/Blocker-database/issues/16), seems NoScript (since it got crippled) is not wideley used anymore, most people (including me) switched to uMatrix instead.
+**A**: [Not anymore](https://github.com/CHEF-KOCH/Blocker-database/issues/16), seems NoScript (since it got crippled) is not wideley used anymore, most people (including me) switched to uMatrix instead.
 
 
 Known issue
@@ -106,5 +106,8 @@ Extensions
 Studies & Laws
 -----------------
 
-* [Online tracking: A 1-million-site measurement and analysis](https://webtransparency.cs.princeton.edu/webcensus/)
 * [Ad-Blocking (whitelistening is legal](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2019/21_01_2019_Eyeo_Google.html;jsessionid=DD7B1C84F1A21544D925AB829F6944D1.1_cid378?nn=3591568)
+* [Online tracking: A 1-million-site measurement and analysis](https://webtransparency.cs.princeton.edu/webcensus/)
+* [Influence of Adblockers on the Future of Mobile Advertising Industry](https://www.theseus.fi/bitstream/handle/10024/140335/Rudneva_Elena.pdf?sequence=1)
+* [The Beneficial Effects of Ad Blockers](http://stedes.com/pdfs/DRS%20-%20The%20Beneficial%20Effects%20of%20Ad%20Blockers%20-%202017.pdf)
+* [Detecting Anti Ad-blockers in the Wild - ResearchGate](https://www.researchgate.net/publication/318304402_Detecting_Anti_Ad-blockers_in_the_Wild)
