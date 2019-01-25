@@ -10,7 +10,7 @@
 This project is a global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU! It's original created by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under Apache License v2.0 (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
 
 
-The goal of this little project is to get an _almost complete_ whitelist for NoScript/uBlock/uMatrix & ScriptSafe, it's created due the fact that e.g. Tor Browser temporarily allow all domains by default - personally I don't like this, so this is one of the reasons I created the project; another reason is to avoid syncing with a Mozilla or Google cloud.
+The goal of this little project is to get an _almost complete_ whitelist for ~~NoScript~~/uBlock/uMatrix, ScriptSafe & Cookie AutoDelete, it's created due the fact that e.g. Tor Browser temporarily allow all domains by default. I personally I don't like this, so this is one of the reasons I created the project; another reason is to avoid syncing with a Mozilla or Google Cloud.
 
 
 Project Goal
