@@ -70,6 +70,7 @@ gitup.co
 god-games.com
 goqr.me
 gpgtools.org
+gyazo.com
 hosts-file.net
 i2p.rocks
 id.atlassian.com
@@ -101,7 +102,6 @@ natsios-young.org
 net-internals.chrome-scheme
 news.ycombinator.com
 nordvpnspyapp.blogspot.com
-old.reddit.com
 open.spotify.com
 opera-scheme
 pachckjkecffpdphbpmfolblodfkgbhl
@@ -109,7 +109,6 @@ panopticlick.eff.org
 passport.twitch.tv
 paul4innovating.com
 paulirish.github.io
-pcmonitors.info
 pgl.yoyo.org
 pi-hole.net
 player.twitch.tv
@@ -119,6 +118,7 @@ prism-break.org
 privacytoolsio.github.io
 prosody.im
 rada.re
+reshade.me
 resources.infosecinstitute.com
 riot.im
 sar.audio
@@ -143,7 +143,6 @@ tox.chat
 trac.torproject.org
 twitch.streamlabs.com
 uniquemachine.org
-upload4earn.org
 uptostream.com
 vivaldi-scheme
 vpntesting.info
@@ -151,6 +150,7 @@ wally3k.github.io
 web.threema.ch
 winhelp2002.mvps.org
 www.aclu.org
+www.apkmirror.com
 www.b4x.com
 www.battleye.com
 www.binisoft.org
@@ -163,6 +163,8 @@ www.dropbox.com
 www.eset.com
 www.eurodns.com
 www.freehaven.net
+www.gamesradar.com
+www.gamewatcher.com
 www.ghacks.net
 www.gnu.org
 www.grc.com
@@ -181,6 +183,8 @@ www.pcmag.com
 www.researchgate.net
 www.ronaldverlaan.nl
 www.sciencedirect.com
+www.softwareok.com
+www.speedtest.net
 www.thetechgame.com
 www.torproject.org
 www.tube8.com

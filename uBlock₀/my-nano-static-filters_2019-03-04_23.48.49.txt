@@ -1,0 +1,76 @@
+! 1/1/2019, 2:03:14 AM http://www.fanboy.co.nz/filters.html
+www.fanboy.co.nz###ip
+
+! 1/1/2019, 2:03:21 AM http://www.fanboy.co.nz/filters.html
+www.fanboy.co.nz###paypal
+
+! 1/3/2019, 2:58:03 AM https://yadi.sk/d/ojuv3heObJ3Sjg
+yadi.sk##.mobile-badges
+
+! 1/3/2019, 2:58:15 AM https://yadi.sk/d/ojuv3heObJ3Sjg
+yadi.sk##.hover-tooltip__tooltip-anchor
+
+! 1/3/2019, 5:12:37 PM https://www.pornhub.com/
+www.pornhub.com##undefined
+
+! 1/6/2019, 6:20:22 AM https://www.station-drivers.com/index.php?option=com_remository&Itemid=352&func=startdown&id=3398&lang=en-nz
+www.station-drivers.com##.uk-alert-warning.uk-alert-large.uk-alert
+
+! 1/6/2019, 6:34:15 AM https://www.theverge.com/2018/12/31/18163351/scarlett-johansson-slams-deepfakes-internet-lost-cause
+www.theverge.com###privacy-consent
+
+! 1/6/2019, 10:52:10 AM https://www.hartware.de/
+www.hartware.de##div.front-news:nth-of-type(1)
+
+! 1/7/2019, 2:59:54 PM https://www.dvdfab.cn/pcmagazin-giveaway.htm
+www.dvdfab.cn##.promotion-content
+
+! 1/7/2019, 3:00:02 PM https://www.dvdfab.cn/pcmagazin-giveaway.htm
+www.dvdfab.cn###promotion-fixed-box
+
+! 1/8/2019, 10:09:28 AM https://2speed.net/file/F0AF707888CE
+2speed.net###at-btn-download
+
+! 1/8/2019, 10:09:41 AM https://2speed.net/file/F0AF707888CE
+2speed.net###footer
+
+! 1/8/2019, 10:42:28 AM https://adguard.com/en/welcome.html
+adguard.com##.flash__wrapper
+
+! 1/8/2019, 4:40:34 PM http://extremedownload.org/
+extremedownload.org##.clickable.donatebutton
+
+! 1/17/2019, 11:08:50 AM https://discord.me/
+discord.me##.center-block.img-responsive
+
+! 1/17/2019, 11:08:56 AM https://discord.me/
+discord.me##div.adbox:nth-of-type(2)
+
+! 1/17/2019, 11:09:18 AM https://discord.me/
+discord.me##[src="/assets/img/units/digitalzealot_ad.png"]
+
+! 1/22/2019, 3:06:13 PM https://www.unknowncheats.me/forum/rainbow-six-siege/272801-ultra-low-textures.html
+www.unknowncheats.me###hmmk
+
+! 1/24/2019, 4:51:27 AM https://1337x.to/torrent/3541777/Gregory-Isaacs-Greatest-Hits-2018-Tad-s-Records-Reggae-FLAC-16-Bit-GazaManiacRG/
+||1337x.to/css/images/notfication-bg.png$image
+
+! 1/24/2019, 4:51:32 AM https://1337x.to/torrent/3541777/Gregory-Isaacs-Greatest-Hits-2018-Tad-s-Records-Reggae-FLAC-16-Bit-GazaManiacRG/
+1337x.to##.dcedffbb
+
+! 2/4/2019 https://dropapk.com
+dropapk.com##.alert-info.alert
+dropapk.com##.text-center.buyPremium.alert-success.alert
+
+! 2/5/2019 https://www.soeren-hentzschel.at
+www.soeren-hentzschel.at##.clear.snippet > .tnemesitrevda
+
+! 2/25/2019 https://upload4earn.org
+upload4earn.org##center
+upload4earn.org###socialmedia
+
+! 3/2/2019 https://yts.am
+yts.am##.ybox-bordered
+
+! 3/3/2019 https://forum.xda-developers.com
+forum.xda-developers.com##.below-nav-ad
