@@ -77,7 +77,7 @@ The bigger issues are pinned, otherwise the following "special" issue are not di
 
 Extension bases issue:
 
-* Currently, none 
+* [#5](https://github.com/CHEF-KOCH/Blocker-database/issues/5)
 
 
 Project based issue:
