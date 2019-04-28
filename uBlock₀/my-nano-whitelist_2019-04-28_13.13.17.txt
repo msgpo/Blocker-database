@@ -28,6 +28,7 @@ cdn.gingersoftware.com
 check2ip.com
 chef-koch.github.io
 chrome-extension-scheme
+chrome-scheme
 classicreload.com
 cloudyfiles.org
 codecanyon.net
@@ -48,7 +49,6 @@ downloads.khinsider.com
 en.discussions.tomtom.com
 eu.battle.net
 extensions.inrialpes.fr
-f-droid.org
 filescdn.com
 filterlists.com
 filters.adtidy.org
@@ -70,7 +70,6 @@ gitup.co
 god-games.com
 goqr.me
 gpgtools.org
-gyazo.com
 hosts-file.net
 i2p.rocks
 id.atlassian.com
@@ -93,7 +92,6 @@ lite.qwant.com
 local.adguard.com
 loopconversation.about-scheme
 mademistakes.com
-mail.protonmail.com
 mednafen.github.io
 minhaskamal.github.io
 moz-extension-scheme
@@ -102,7 +100,6 @@ natsios-young.org
 net-internals.chrome-scheme
 news.ycombinator.com
 nordvpnspyapp.blogspot.com
-open.spotify.com
 opera-scheme
 pachckjkecffpdphbpmfolblodfkgbhl
 panopticlick.eff.org
@@ -110,7 +107,6 @@ passport.twitch.tv
 paul4innovating.com
 paulirish.github.io
 pgl.yoyo.org
-pi-hole.net
 player.twitch.tv
 pomax.github.io
 predb.pw
@@ -120,9 +116,9 @@ prosody.im
 rada.re
 reshade.me
 resources.infosecinstitute.com
-riot.im
 sar.audio
 scene.org
+search.f-droid.org
 securitypreview.zscaler.com
 shadowsocks.org
 snowdenarchive.cjfe.org
@@ -131,7 +127,6 @@ stanev.org
 stinkyblinkygialo.deviantart.com
 support.mozilla.org
 suprafiles.org
-t2bot.io
 test-ipv6.com
 thememoryhole2.org
 threema-forum.de
@@ -151,15 +146,16 @@ web.threema.ch
 winhelp2002.mvps.org
 www.aclu.org
 www.apkmirror.com
+www.askwoody.com
 www.b4x.com
 www.battleye.com
 www.binisoft.org
 www.bitmight.uk
 www.browserplugs.com
 www.debian.org
-www.dnsleaktest.com
 www.doileak.com
 www.dropbox.com
+www.enjen.net
 www.eset.com
 www.eurodns.com
 www.freehaven.net
@@ -185,11 +181,13 @@ www.ronaldverlaan.nl
 www.sciencedirect.com
 www.softwareok.com
 www.speedtest.net
+www.team-mediaportal.com
 www.thetechgame.com
 www.torproject.org
 www.tube8.com
 www.tweetalerts.tv
+www.twitch.tv
 www.whonix.org
 wyciwyg-scheme
-yadi.sk
+zen.yandex.ru
 zerobin.net
