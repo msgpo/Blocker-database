@@ -18,8 +18,8 @@ Project Goal
 
 * All social networks except Twitter (because I use it for myself, backlinks to the network on external resources are blocked!)
 * uMatrix/uBlock is set to an 'high blocking mode' to block all 3rd-party requests which also blocks things like crypto mining & co.
-* Maximum possible settings are used without breaking the web, this (sadly) requires lot of clicks (due overblocking) but it's worth - I believe
-* CDN's unless it's proven that there dangerous are allowed, the bad ones are globally blocked
+* Maximum possible settings are used without breaking the web, this (sadly) requires lot of clicks (due to overblocking) but it's worth.
+* CDNs unless it's proven that there dangerous are allowed, the bad ones are globally blocked
 * Smaller pages which needs ads to survive are supported unless there is something like a script integrated which is dangerous 
 * To whitelist something is in general better than to blacklist something, this is one of the goal however, exceptions must be made to not break certain pages
 * Reducing fingerprinting mechanism is not a goal, I do believe the Browser must at some point project it's user but we set certain rules to ensure nothing can be bypassed
@@ -66,7 +66,7 @@ QnA's
 **Q**: Is there a NoScript Database?
 
 
-**A**: [Not anymore](https://github.com/CHEF-KOCH/Blocker-database/issues/16), seems NoScript (since it got crippled) is not wideley used anymore, most people (including me) switched to uMatrix instead.
+**A**: [Not anymore](https://github.com/CHEF-KOCH/Blocker-database/issues/16), seems NoScript (since it got crippled) isn't widely used anymore, most people (_including me_) switched to uMatrix instead.
 
 
 Known issue
@@ -78,7 +78,7 @@ The bigger issues are pinned, otherwise the following "special" issue are not di
 Extension bases issue:
 
 * [#5](https://github.com/CHEF-KOCH/Blocker-database/issues/5)
-
+* [Privacy Badger import/export tracker settings](https://gist.github.com/noromanba/b0f5f772573bd982190afba6374395cd)
 
 Project based issue:
 
@@ -103,7 +103,7 @@ Extensions
 * [ScriptSafe](https://github.com/andryou/scriptsafe)
 
 
-Studies & Laws
+Studies & Laws regarding Ad-Block
 -----------------
 
 * [Ad-Blocking (whitelistening is legal](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2019/21_01_2019_Eyeo_Google.html;jsessionid=DD7B1C84F1A21544D925AB829F6944D1.1_cid378?nn=3591568)
