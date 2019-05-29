@@ -7,7 +7,7 @@
 <img src="http://img.shields.io/liberapay/receives/CHEF-KOCH.svg?logo=liberapay">
 <noscript><a href="https://liberapay.com/CHEF-KOCH/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-This project is a global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU! It's original created by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under ISC License (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)). 
+This project is a global domain database for NoScript/uBlock/uMatrix/ScriptSafe powered by the community - which means YOU! It's original created by [CHEF-KOCH](https://github.com/CHEF-KOCH) and it's under ISC License (see [License](https://github.com/CHEF-KOCH/NoScript-Whitelist/blob/master/LICENSE)).
 
 
 The goal of this little project is to get an _almost complete_ whitelist for ~~NoScript~~/uBlock/uMatrix, ScriptSafe & Cookie AutoDelete, it's created due the fact that e.g. Tor Browser temporarily allow all domains by default. I personally I don't like this, so this is one of the reasons I created the project; another reason is to avoid syncing with a Mozilla or Google Cloud.
@@ -20,7 +20,7 @@ Project Goal
 * uMatrix/uBlock is set to an 'high blocking mode' to block all 3rd-party requests which also blocks things like crypto mining & co.
 * Maximum possible settings are used without breaking the web, this (sadly) requires lot of clicks (due to overblocking) but it's worth.
 * CDNs unless it's proven that there dangerous are allowed, the bad ones are globally blocked
-* Smaller pages which needs ads to survive are supported unless there is something like a script integrated which is dangerous 
+* Smaller pages which needs ads to survive are supported unless there is something like a script integrated which is dangerous
 * To whitelist something is in general better than to blacklist something, this is one of the goal however, exceptions must be made to not break certain pages
 * Reducing fingerprinting mechanism is not a goal, I do believe the Browser must at some point project it's user but we set certain rules to ensure nothing can be bypassed
 
@@ -48,14 +48,14 @@ What are the benefits?
 ---------------
 
 * I think most stuff can be blocked by disabling javascript on websites, so instead to temporarily allow all sites access to javascript I prefer to whitelist the 'secure' ones. In fact this would help, because all other pages are by default blocked.
-* A community based list is easier to maintain + there is less space for problems, the four eyes principle! 
+* A community based list is easier to maintain + there is less space for problems, the four eyes principle!
 
 
 What about the cons?
 ---------------
 
 * The negative thingy is that this is more about user needs, if you never visit xyz listed page you normally not need to whitelist them, but on the other hand it's not dangerous because they are trustworthy and should never connect to your pages (except social pages for e.g. the little share buttons).
-* Another thing is that you also could just block the entire domain via router, so this would mean this would have no affect. 
+* Another thing is that you also could just block the entire domain via router, so this would mean this would have no affect.
 * All social media platforms except Twitter are blocked.
 * Static filtering requires a lot of effort because you need to check each entry manually.
 
@@ -79,11 +79,11 @@ Extension bases issue:
 
 * [#5](https://github.com/CHEF-KOCH/Blocker-database/issues/5)
 * [Privacy Badger import/export tracker settings](https://gist.github.com/noromanba/b0f5f772573bd982190afba6374395cd)
+* Firefox Sync only permits 16384 byte objects to be saved
 
 Project based issue:
 
 * [#7](https://github.com/CHEF-KOCH/NoScript-Whitelist/issues/7)
-
 
 
 Reference
@@ -101,6 +101,7 @@ Extensions
 * [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core)
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
 * [ScriptSafe](https://github.com/andryou/scriptsafe)
+* ~~NoScript~~
 
 
 Studies & Laws regarding Ad-Block

@@ -1,0 +1,18 @@
+# Files which we like to ignore
+xpi
+*.xpi
+*.bak
+Thumbs.db
+ehthumbs.db
+._*
+# VS Code
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/
+*.vs/
+*.ide/
+*.sln.ide
+*.VisualState.xml
+TestResult.xml

@@ -1,14 +1,19 @@
+about-scheme
+# chrome-extension-scheme
+# chrome-scheme
+moz-extension-scheme
+opera-scheme
+vivaldi-scheme
+wyciwyg-scheme
 *youtube.com/*user=NVinside
+/^https?://192\.168\.0\.\d+//
 127.0.0.1
 192.168.178.1
 192.168.178.40
 5who.net
-about-scheme
 amiunique.org
 archive.is
-archive.org
 arestwo.org
-asciimoo.github.io
 audiofingerprint.openwpm.com
 auth.giantbomb.com
 avidanyum.github.io
@@ -27,8 +32,6 @@ calomel.org
 cdn.gingersoftware.com
 check2ip.com
 chef-koch.github.io
-chrome-extension-scheme
-chrome-scheme
 classicreload.com
 cloudyfiles.org
 codecanyon.net
@@ -37,7 +40,6 @@ connectsafe.norton.com
 control-center.1und1.de
 cookieless-user-tracking.herokuapp.com
 crookedss.bplaced.net
-deals.majorgeeks.com
 desktop.firmware.mobi
 developer.spotify.com
 dnsleak.com
@@ -59,6 +61,7 @@ forum.doom9.org
 forums.redacted.tv
 forums.windowscentral.com
 fosdem.org
+freedombox.org
 gamejolt.com
 gametransfers.com
 gamewisp.com
@@ -94,19 +97,18 @@ loopconversation.about-scheme
 mademistakes.com
 mednafen.github.io
 minhaskamal.github.io
-moz-extension-scheme
 mynes.sourceforge.net
 natsios-young.org
 net-internals.chrome-scheme
 news.ycombinator.com
 nordvpnspyapp.blogspot.com
-opera-scheme
 pachckjkecffpdphbpmfolblodfkgbhl
 panopticlick.eff.org
 passport.twitch.tv
 paul4innovating.com
 paulirish.github.io
 pgl.yoyo.org
+pkehgijcmpdhfbdbbnkijodmdjhbjlgp.chrome-extension-scheme
 player.twitch.tv
 pomax.github.io
 predb.pw
@@ -128,9 +130,11 @@ stinkyblinkygialo.deviantart.com
 support.mozilla.org
 suprafiles.org
 test-ipv6.com
+thejh.net
 thememoryhole2.org
 threema-forum.de
 threema.ch
+tldrlegal.com
 tls.imirhil.fr
 tools.ietf.org
 tosdr.org
@@ -139,12 +143,13 @@ trac.torproject.org
 twitch.streamlabs.com
 uniquemachine.org
 uptostream.com
-vivaldi-scheme
+valve.github.io
 vpntesting.info
 wally3k.github.io
 web.threema.ch
 winhelp2002.mvps.org
 www.aclu.org
+www.amd.com
 www.apkmirror.com
 www.askwoody.com
 www.b4x.com
@@ -153,6 +158,7 @@ www.binisoft.org
 www.bitmight.uk
 www.browserplugs.com
 www.debian.org
+www.dnsleaktest.com
 www.doileak.com
 www.dropbox.com
 www.enjen.net
@@ -161,7 +167,6 @@ www.eurodns.com
 www.freehaven.net
 www.gamesradar.com
 www.gamewatcher.com
-www.ghacks.net
 www.gnu.org
 www.grc.com
 www.hacker101.com
@@ -186,8 +191,6 @@ www.thetechgame.com
 www.torproject.org
 www.tube8.com
 www.tweetalerts.tv
-www.twitch.tv
+www.uwe-sieber.de
 www.whonix.org
-wyciwyg-scheme
-zen.yandex.ru
 zerobin.net
