@@ -101,7 +101,7 @@ Extensions
 * [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core)
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
 * [ScriptSafe](https://github.com/andryou/scriptsafe)
-* ~~NoScript~~
+* ~~[NoScript](https://github.com/hackademix/noscript)~~
 
 
 Studies & Laws regarding Ad-Block
