@@ -80,6 +80,7 @@ Extension bases issue:
 * [#5](https://github.com/CHEF-KOCH/Blocker-database/issues/5)
 * [Privacy Badger import/export tracker settings](https://gist.github.com/noromanba/b0f5f772573bd982190afba6374395cd)
 * Firefox Sync only permits 16384 byte objects to be saved
+* [webRequest API related limitations](https://www.theregister.co.uk/2019/05/29/google_webrequest_api/)
 
 Project based issue:
 
