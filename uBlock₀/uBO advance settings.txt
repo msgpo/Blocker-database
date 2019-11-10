@@ -1,0 +1,27 @@
+allowGenericProceduralFilters false
+            assetFetchTimeout 25
+    autoCommentFilterTemplate {{date}} {{origin}}
+   autoUpdateAssetFetchPeriod 120
+   autoUpdateDelayAfterLaunch 180
+             autoUpdatePeriod 7
+             blockingProfiles 11111/#F00 11011/#C0F 11001/#00F 00001
+cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
+              cacheStorageAPI unset
+      cacheStorageCompression true
+              consoleLogLevel unset
+       debugScriptletInjector false
+              debugScriptlets false
+           disableWebAssembly false
+   extensionUpdateForceReload false
+             filterAuthorMode false
+        ignoreRedirectFilters false
+    ignoreScriptInjectFilters false
+              loggerPopupType popup
+ manualUpdateAssetFetchPeriod 500
+                popupFontSize unset
+  requestJournalProcessPeriod 1000
+                  selfieAfter 4
+ strictBlockingBypassDuration 100
+        suspendTabsUntilReady yes
+updateAssetBypassBrowserCache false
+        userResourcesLocation unset
