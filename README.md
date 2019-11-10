@@ -47,7 +47,7 @@ Contributing to the list
 What are the benefits?
 ---------------
 
-* I think most stuff can be blocked by disabling javascript on websites, so instead to temporarily allow all sites access to javascript I prefer to whitelist the 'secure' ones. In fact this would help, because all other pages are by default blocked.
+* Personally I think [most stuff can be prevented by disabling JavaScript on a website](https://deadliestwebattacks.com/tag/javascript/). Instead to temporarily allow all sites access to JavaScript I prefer to whitelist only the 'secure' ones. In fact this [would help](https://www.whonix.org/wiki/Tor_Browser/Download_Confirmation_Screen), because all other pages are by default blocked.
 * A community based list is easier to maintain + there is less space for problems, the four eyes principle!
 
 
@@ -66,16 +66,13 @@ QnA's
 **Q**: Is there a NoScript Database?
 
 
-**A**: [Not anymore](https://github.com/CHEF-KOCH/Blocker-database/issues/16), seems NoScript (since it got crippled) isn't widely used anymore, most people (_including me_) switched to uMatrix instead.
+**A**: [Not anymore](https://github.com/CHEF-KOCH/Blocker-database/issues/16), seems [NoScript](https://en.wikipedia.org/wiki/NoScript) isn't widely used anymore or some features already are not implemented in the Browser. Some people (_including me_) switched to the uBO and uMatrix combination instead.
 
 
 Known issue
 ---------------
 
-The bigger issues are pinned, otherwise the following "special" issue are not directly related to this project, there addon/extension related (see here):
-
-
-Extension bases issue:
+The bigger issues are pinned. "Special" issue are not directly related to this project, they are addon/extension related (see here):
 
 * [#5](https://github.com/CHEF-KOCH/Blocker-database/issues/5)
 * [Privacy Badger import/export tracker settings](https://gist.github.com/noromanba/b0f5f772573bd982190afba6374395cd)
@@ -94,14 +91,16 @@ Reference
 * [Official NoScript Forum](https://forums.informaction.com/viewforum.php?f=3)
 
 
-Extensions
+Supported Addons/Extensions
 -----------------
 
-* [Firefox NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - there is no Chrome version!
-* [uMatrix](https://github.com/gorhill/uMatrix)
-* [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core)
+* [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
+* [Firefox NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - ([Chrome version](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm?hl=en))!
+* [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core)
 * [ScriptSafe](https://github.com/andryou/scriptsafe)
+* [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
+* [uMatrix](https://github.com/gorhill/uMatrix)
 * ~~[NoScript](https://github.com/hackademix/noscript)~~
 
 
