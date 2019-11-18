@@ -23,5 +23,5 @@ cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
                   selfieAfter 4
  strictBlockingBypassDuration 100
         suspendTabsUntilReady yes
-updateAssetBypassBrowserCache false
+updateAssetBypassBrowserCache true
         userResourcesLocation unset
