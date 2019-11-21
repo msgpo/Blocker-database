@@ -8,6 +8,7 @@ allowGenericProceduralFilters false
 cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
               cacheStorageAPI unset
       cacheStorageCompression true
+            cnameAliasList to *
               consoleLogLevel unset
        debugScriptletInjector false
               debugScriptlets false
