@@ -25,6 +25,17 @@ Project Goal
 * Reducing fingerprinting mechanism is not a goal, I do believe the Browser must at some point project it's user but we set certain rules to ensure nothing can be bypassed
 
 
+Why no NoScript anymore?!
+---------------
+
+This project ditched NoScript because of the following reasons:
+
+* You can use uBO instead
+* The new NS does not support ABE, HTTPS Cookie Managagment nor clearclick (starting with v10+)
+* uBO can block Cross-Site-Scripting (CSS) (it has no "own XSS protection") because third-party resources inherently protecting you
+* Content Security Policy (CSP) replaced XSS and, XSS attacks are less and less a problem
+
+
 Usage
 ---------------
 
