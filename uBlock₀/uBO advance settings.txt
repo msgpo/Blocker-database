@@ -1,14 +1,13 @@
 allowGenericProceduralFilters false
-            assetFetchTimeout 25
+            assetFetchTimeout 30
     autoCommentFilterTemplate {{date}} {{origin}}
    autoUpdateAssetFetchPeriod 120
    autoUpdateDelayAfterLaunch 180
-             autoUpdatePeriod 7
+             autoUpdatePeriod 4
              blockingProfiles 11111/#F00 11011/#C0F 11001/#00F 00001
 cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
               cacheStorageAPI unset
       cacheStorageCompression true
-            cnameAliasList to *
               consoleLogLevel unset
        debugScriptletInjector false
               debugScriptlets false
@@ -21,8 +20,8 @@ cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
  manualUpdateAssetFetchPeriod 500
                 popupFontSize unset
   requestJournalProcessPeriod 1000
-                  selfieAfter 4
- strictBlockingBypassDuration 100
-        suspendTabsUntilReady yes
-updateAssetBypassBrowserCache true
-        userResourcesLocation unset
+                  selfieAfter 5
+ strictBlockingBypassDuration 120
+        suspendTabsUntilReady unset
+updateAssetBypassBrowserCache false
+        userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt
