@@ -19,28 +19,28 @@ Project Goal
 * All social networks except Twitter (because I use it for myself, backlinks to the network on external resources are blocked!)
 * uMatrix/uBlock is set to an 'high blocking mode' to block all 3rd-party requests which also blocks things like crypto mining & co.
 * Maximum possible settings are used without breaking the web, this (sadly) requires lot of clicks (due to overblocking) but it's worth.
-* CDNs unless it's proven that there dangerous are allowed, the bad ones are globally blocked
+* CDN's unless it's proven that there dangerous are allowed, the bad ones are globally blocked
 * Smaller pages which needs ads to survive are supported unless there is something like a script integrated which is dangerous
 * To whitelist something is in general better than to blacklist something, this is one of the goal however, exceptions must be made to not break certain pages
 * Reducing fingerprinting mechanism is not a goal, I do believe the Browser must at some point project it's user but we set certain rules to ensure nothing can be bypassed
 
 
-Why no NoScript anymore?!
+Why was NoScript removed?!
 ---------------
 
 This project ditched NoScript because of the following reasons:
 
-* You can use uBO instead
-* The new NS does not support ABE, HTTPS Cookie Managagment nor clearclick (starting with v10+)
-* uBO can block Cross-Site-Scripting (CSS) (it has no "own XSS protection") because third-party resources inherently protecting you
-* Content Security Policy (CSP) replaced XSS and, XSS attacks are less and less a problem
+* You can use uBO instead.
+* The new NS does not support ABE, HTTPS Cookie Management nor clearclick (starting with v10+).
+* uBO can block Cross-Site-Scripting (CSS) (it has no "own XSS protection") because third-party resources inherently protecting you.
+* Content Security Policy (CSP) replaced XSS and, XSS attacks are less and less a problem.
 
 
 Usage
 ---------------
 
 * The lists are tested and working on Chrome (Chromium), Firefox, Opera (Chrome) and soon Microsoft own Chrome version.
-* Install the official extensions and import the lists - easy peasy lemon squeezy!
+* Install the official extensions and import the lists.
 
 
 Contributing to the list
@@ -51,7 +51,7 @@ Contributing to the list
 * To add to whitelist, ensure no bad reputation is present for your reported page.
 * Your website must not be blocked by the [built-in safe-browsing feature](https://www.google.com/safebrowsing/static/faq.html).
 * If you know how to, please confirm the page is not compromised by XSS or other attacks.
-* Check the page/domain if the webmaster is trusted and all whois given information are valid and nothing is missing.
+* Check the page/domain if the webmaster is trusted and all _whois_ given information are valid.
 * It does not matter much if you use the http:// or https:// prefix on domains as NoScript handles this.
 
 
