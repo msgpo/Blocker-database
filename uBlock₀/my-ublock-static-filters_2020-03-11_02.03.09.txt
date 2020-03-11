@@ -497,13 +497,6 @@ www.computerbase.de##.forum-teaser-ad--2.forum-teaser-ad
 ! 2/21/2020 https://blackpearl.biz
 blackpearl.biz##.u-noJsOnly.blockMessage--iconic.blockMessage--important.blockMessage
 
-! 2/22/2020 https://nitroflare.com
-nitroflare.com###footer
-nitroflare.com##.noticeMessage
-nitroflare.com###footerCredits
-nitroflare.com##div:nth-of-type(3) > .purchaseNoWaiting
-nitroflare.com###file > div:nth-of-type(1) > div > div:nth-of-type(1)
-
 ! 2/22/2020 https://top.gg
 top.gg##.bottom-bar
 
@@ -604,3 +597,60 @@ uploadrar.com##div.download0page:nth-of-type(1) > .blockpage
 
 ! 2/28/2020 https://docs.yagpdb.xyz
 docs.yagpdb.xyz##.reset-3c756112--trademark-a8da4b94
+
+! 2/29/2020 https://thehackernews.com
+thehackernews.com###email-outer
+
+! 3/1/2020 https://the-eye.eu
+the-eye.eu##div.message.icon.ui:nth-of-type(1)
+the-eye.eu##div.message.icon.ui:nth-of-type(3)
+the-eye.eu###announcement
+
+! 3/1/2020 https://support.discordapp.com
+support.discordapp.com##.hook
+
+! 3/1/2020 https://www.nptunnel.com
+www.nptunnel.com###features4-r
+
+! 3/1/2020 https://mixloads.com
+mixloads.com##.bg-white.py-5.payment_methods
+mixloads.com##footer
+
+! 3/3/2020 https://www.protondb.com
+www.protondb.com##.dmqEwb.Footer__FooterContent-bsrlga-0.ui__FlexPadded-sc-1aw7ha-23.ui__Padded-sc-1aw7ha-22
+
+! 3/5/2020 https://www.nsaneforums.com
+www.nsaneforums.com###ipsLayout_footer
+
+! 3/5/2020 https://mullvad.net
+mullvad.net##.footer
+
+! 3/5/2020 https://music.youtube.com
+music.youtube.com##ytmusic-tastebuilder-shelf-renderer.ytmusic-section-list-renderer.style-scope
+
+! 3/6/2020 https://ch.avm.de
+ch.avm.de###footer-section
+
+! 3/7/2020 https://fingerprintjs.com
+fingerprintjs.com##footer
+
+! 3/8/2020 https://www.kuketz-blog.de
+||www.kuketz-blog.de/wp-content/themes/kuketz-security/icons/support.png$image
+www.kuketz-blog.de##.support-box-microblog.box
+
+! 3/8/2020 https://tarnkappe.info
+tarnkappe.info##body > div:nth-of-type(2)
+
+! 3/8/2020 https://www.hybrid-analysis.com
+www.hybrid-analysis.com##footer
+
+! 3/9/2020 https://www.kuketz-blog.de
+www.kuketz-blog.de##.support-box.box
+www.kuketz-blog.de##.content > .author
+www.kuketz-blog.de##div.teaser:nth-of-type(8)
+www.kuketz-blog.de##p:nth-of-type(44)
+www.kuketz-blog.de##.follow
+www.kuketz-blog.de##.support > [href="https://www.kuketz-blog.de/unterstuetzen/"]
+
+! 3/10/2020 https://www.gamingonlinux.com
+www.gamingonlinux.com##div.container:nth-of-type(2) > .col-12 > .box > .announce.group.body

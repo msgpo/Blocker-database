@@ -100,7 +100,6 @@ threema-forum.de
 threema.ch
 tls.imirhil.fr
 tools.ietf.org
-tosdr.org
 tox.chat
 trac.torproject.org
 twitch.streamlabs.com
@@ -113,16 +112,15 @@ wiki.mozilla.org
 winhelp2002.mvps.org
 woolyss.com
 www.aclu.org
-www.askwoody.com
 www.b4x.com
 www.battleye.com
 www.binisoft.org
 www.bitmight.uk
 www.browserplugs.com
+www.crunchyroll.com
 www.debian.org
 www.dnsleaktest.com
 www.doileak.com
-www.enjen.net
 www.eurodns.com
 www.freehaven.net
 www.gnu.org

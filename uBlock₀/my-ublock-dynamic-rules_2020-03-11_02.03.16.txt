@@ -11,6 +11,7 @@ no-cosmetic-filtering: pan.baidu.com true
 no-cosmetic-filtering: shaharkadmiel.github.io true
 no-cosmetic-filtering: streamlabs.com true
 no-cosmetic-filtering: studio.youtube.com true
+no-cosmetic-filtering: support.discordapp.com true
 no-cosmetic-filtering: templates.office.com true
 no-cosmetic-filtering: travis-ci.org true
 no-cosmetic-filtering: uploadocean.com true
@@ -1010,6 +1011,7 @@ no-large-media: johanbak.com false
 no-large-media: joscor.com false
 no-large-media: jpsoft.com false
 no-large-media: jsbeautifier.org false
+no-large-media: jspaint.app false
 no-large-media: kancolle.wikia.com false
 no-large-media: karanpc.com false
 no-large-media: kasperskyclub.com false
@@ -1397,6 +1399,7 @@ no-large-media: redacted.tv false
 no-large-media: redditenhancementsuite.com false
 no-large-media: reek.github.io false
 no-large-media: reg.ebay.de false
+no-large-media: regex101.com false
 no-large-media: register.msi.com false
 no-large-media: reiseauskunft.bahn.de false
 no-large-media: relink.to false
@@ -1575,7 +1578,6 @@ no-large-media: streamersquare.com false
 no-large-media: streaming.media.ccc.de false
 no-large-media: streamjar.tv false
 no-large-media: streamlabs.com false
-no-large-media: streamlink.github.io false
 no-large-media: streampoll.tv false
 no-large-media: streamtoolkit.com false
 no-large-media: streamtvmovie.com false
@@ -1594,7 +1596,6 @@ no-large-media: support.bruss.org.ru false
 no-large-media: support.camwebapp.com true
 no-large-media: support.codefactor.io false
 no-large-media: support.creative.com false
-no-large-media: support.discordapp.com true
 no-large-media: support.eset.com false
 no-large-media: support.fractal-design.com false
 no-large-media: support.google.com false
@@ -2692,6 +2693,7 @@ no-large-media: www.rockshop.de false
 no-large-media: www.rockstargames.com false
 no-large-media: www.rokop-security.de false
 no-large-media: www.romhacking.net false
+no-large-media: www.rottentomatoes.com false
 no-large-media: www.router-faq.de false
 no-large-media: www.router-forum.de false
 no-large-media: www.rpgcodex.net false
@@ -5907,6 +5909,7 @@ no-scripting: 192.168.178.33 false
 no-scripting: 192.168.178.40 false
 no-scripting: 192.168.178.42 false
 no-scripting: 1fichier.com false
+no-scripting: 24flac.net false
 no-scripting: 2baksa.net false
 no-scripting: 2speed.net false
 no-scripting: 32767.ga false
@@ -5924,6 +5927,7 @@ no-scripting: abertschi.github.io false
 no-scripting: abine.com false
 no-scripting: about.riot.im false
 no-scripting: abrobecker.free.fr false
+no-scripting: access.redhat.com false
 no-scripting: account.blizzard.com false
 no-scripting: account.ubisoft.com false
 no-scripting: accounts.epicgames.com false
@@ -5957,6 +5961,7 @@ no-scripting: android-zone.ws false
 no-scripting: android.izzysoft.de false
 no-scripting: android.stackexchange.com false
 no-scripting: androidfilehost.com false
+no-scripting: anime-update.com false
 no-scripting: anonhq.com false
 no-scripting: anonym.es false
 no-scripting: anonym.to false
@@ -5966,6 +5971,7 @@ no-scripting: aomedia.org false
 no-scripting: api.gitkraken.com false
 no-scripting: api.smashcast.tv false
 no-scripting: apnews.com false
+no-scripting: app.appvalley.vip false
 no-scripting: app.box.com false
 no-scripting: app.codacy.com false
 no-scripting: app.gitkraken.com false
@@ -5983,6 +5989,7 @@ no-scripting: archive.techarp.com false
 no-scripting: arestwo.org false
 no-scripting: arstechnica.com false
 no-scripting: artiomsoft.ru false
+no-scripting: asky.io false
 no-scripting: assets.documentcloud.org false
 no-scripting: audionews.org false
 no-scripting: austinhuang.me false
@@ -6063,6 +6070,7 @@ no-scripting: bot-supply.com false
 no-scripting: botblock.org false
 no-scripting: botlist.co false
 no-scripting: bots.discord.pw false
+no-scripting: botsfordiscord.com false
 no-scripting: branchenbuch.meinestadt.de false
 no-scripting: brave.com false
 no-scripting: bravesoftware.slack.com false
@@ -6087,7 +6095,6 @@ no-scripting: cancel.fm false
 no-scripting: capped.tv false
 no-scripting: cbenni.com false
 no-scripting: ccm.net false
-no-scripting: cdn.apk4free.net false
 no-scripting: cdn.chuyu.me false
 no-scripting: cdn1.imggmi.com false
 no-scripting: cdromance.com false
@@ -6103,14 +6110,18 @@ no-scripting: chef-koch.github.io false
 no-scripting: chelpus.defcon5.biz false
 no-scripting: chrome.google.com false
 no-scripting: chromereleases.googleblog.com false
+no-scripting: chromestatus.com false
 no-scripting: chromium-review.googlesource.com false
 no-scripting: chromium.googlesource.com false
 no-scripting: chromium.woolyss.com false
 no-scripting: ci.appveyor.com false
+no-scripting: ciphers.pw false
 no-scripting: clfiles.com false
 no-scripting: click.linksynergy.com false
 no-scripting: clips.twitch.tv false
+no-scripting: clk.tradedoubler.com false
 no-scripting: cloud.mail.ru false
+no-scripting: cloud.pados.hu false
 no-scripting: cloudblogs.microsoft.com false
 no-scripting: cloudconvert.com false
 no-scripting: cloudyfiles.me false
@@ -6153,17 +6164,21 @@ no-scripting: cryptii.com false
 no-scripting: cryptocare.tech false
 no-scripting: cryptomator.org false
 no-scripting: cryptome.wikileaks.org false
+no-scripting: cryptpad.piratenpartei.de false
 no-scripting: crystalmark.info false
 no-scripting: cs.rin.ru false
 no-scripting: cse.google.com false
 no-scripting: curseofthemoon.com false
 no-scripting: cve.mitre.org false
+no-scripting: cwtuning.com false
 no-scripting: cyber-itl.org false
 no-scripting: cybercloud.media false
 no-scripting: cyware.com false
 no-scripting: d.tube false
 no-scripting: dailyuploads.net false
+no-scripting: damedesuyo.com false
 no-scripting: daniel.haxx.se false
+no-scripting: daniele.tech false
 no-scripting: dankmemer.lol false
 no-scripting: darckrepacks.com false
 no-scripting: darksouls.wikidot.com false
@@ -6199,6 +6214,7 @@ no-scripting: digitalrightswatch.org.au false
 no-scripting: dino.im false
 no-scripting: directlinkers.com false
 no-scripting: dirtywarez.org false
+no-scripting: dis.cool false
 no-scripting: disboard.org false
 no-scripting: discord.bots.gg false
 no-scripting: discord.io false
@@ -6207,7 +6223,9 @@ no-scripting: discord.me false
 no-scripting: discordapp.com false
 no-scripting: discordbot.world false
 no-scripting: discordbots.org false
+no-scripting: discordemoji.com false
 no-scripting: discordia.me false
+no-scripting: discordservers.com false
 no-scripting: discordtip.io false
 no-scripting: discourse.pi-hole.net false
 no-scripting: discussions.qualys.com false
@@ -6241,6 +6259,7 @@ no-scripting: douploads.com false
 no-scripting: downforeveryoneorjustme.com false
 no-scripting: download-installer.cdn.mozilla.net false
 no-scripting: download.chainfire.eu false
+no-scripting: download.ru false
 no-scripting: downloadboerse.io false
 no-scripting: downloadcenter.intel.com false
 no-scripting: downloadtutorials.net false
@@ -6315,6 +6334,7 @@ no-scripting: filmora.wondershare.com false
 no-scripting: filters.com false
 no-scripting: finalfantasy.wikia.com false
 no-scripting: finanzen.naanoo.de false
+no-scripting: fingerprintjs.com false
 no-scripting: firejail.wordpress.com false
 no-scripting: firstpartysimulator.net false
 no-scripting: firstpartysimulator.org false
@@ -6374,6 +6394,7 @@ no-scripting: foxclocks.org false
 no-scripting: free-proxy.cz false
 no-scripting: free.appnee.com false
 no-scripting: freebies.indiegala.com false
+no-scripting: freebiesglobal.com false
 no-scripting: freedom-to-tinker.com false
 no-scripting: freegrabapp.com false
 no-scripting: freeobfuscator.com false
@@ -6408,6 +6429,7 @@ no-scripting: getemoji.com false
 no-scripting: getfans.io false
 no-scripting: getfreesmsnumber.com false
 no-scripting: geti2p.net false
+no-scripting: getmodsapk.com false
 no-scripting: getmonero.org false
 no-scripting: getoutline.org false
 no-scripting: gfxbench.com false
@@ -6426,6 +6448,8 @@ no-scripting: gizmodo.com false
 no-scripting: gleam.io false
 no-scripting: glitchmoji.bblok.tech false
 no-scripting: globalmedia-it.us false
+no-scripting: glodls.rocks false
+no-scripting: glodls.to false
 no-scripting: god-games.com false
 no-scripting: goggames.goodolddownloads.com false
 no-scripting: gopro.com false
@@ -6455,6 +6479,7 @@ no-scripting: hangouts.google.com false
 no-scripting: hardforum.com false
 no-scripting: hastebin.com false
 no-scripting: haveibeenpwned.com false
+no-scripting: hddguru.com false
 no-scripting: hdencode.com false
 no-scripting: help.netflix.com false
 no-scripting: help.teradici.com false
@@ -6511,6 +6536,7 @@ no-scripting: iphonehosting.eu false
 no-scripting: ipleak.net false
 no-scripting: isitdownorjust.me false
 no-scripting: isohunt2.net false
+no-scripting: it-runde.de false
 no-scripting: itrig.de false
 no-scripting: itunes.apple.com false
 no-scripting: jami.net false
@@ -6519,10 +6545,12 @@ no-scripting: java-decompiler.github.io false
 no-scripting: johanbak.com false
 no-scripting: josephg.com false
 no-scripting: jsfiddle.net false
+no-scripting: jspaint.app false
 no-scripting: jspenguin2017.github.io false
 no-scripting: kaoskrew.org false
 no-scripting: kb.mozillazine.org false
 no-scripting: kcsoftwares.com false
+no-scripting: keepa.com false
 no-scripting: khoatoantin.com false
 no-scripting: kiwifarms.net false
 no-scripting: klempner-notdienst.net false
@@ -6542,6 +6570,7 @@ no-scripting: leaddyno.com false
 no-scripting: leaksource.wordpress.com false
 no-scripting: learn.cisecurity.org false
 no-scripting: legacy.gitbook.com false
+no-scripting: legal.social false
 no-scripting: leucosite.com false
 no-scripting: level1techs.com false
 no-scripting: lew.la false
@@ -6555,6 +6584,7 @@ no-scripting: linksnappy.com false
 no-scripting: linuxblog.darkduck.com false
 no-scripting: linuxconfig.org false
 no-scripting: linx.li false
+no-scripting: listenbrainz.org false
 no-scripting: lists.freedesktop.org false
 no-scripting: lists.mozilla.org false
 no-scripting: litanswers.org false
@@ -6579,6 +6609,7 @@ no-scripting: mail.google.com false
 no-scripting: mail.protonmail.com false
 no-scripting: mailbox.org false
 no-scripting: mailchi.mp false
+no-scripting: malsync.moe false
 no-scripting: malware-research.org false
 no-scripting: malware.wikia.com false
 no-scripting: malwaretips.com false
@@ -6617,6 +6648,7 @@ no-scripting: mirror.corenoc.de false
 no-scripting: mirrorace.com false
 no-scripting: missrose.org false
 no-scripting: mixer.com false
+no-scripting: mixplorer.com false
 no-scripting: mmistakes.github.io false
 no-scripting: mntmn.com false
 no-scripting: monero.stackexchange.com false
@@ -6625,6 +6657,7 @@ no-scripting: monosnap.com false
 no-scripting: mopria.org false
 no-scripting: mosquitto.org false
 no-scripting: motherboard.vice.com false
+no-scripting: movieweb.com false
 no-scripting: mozilla.github.io false
 no-scripting: mpv.io false
 no-scripting: msdn.rg-adguard.net false
@@ -6633,13 +6666,17 @@ no-scripting: msguides.com false
 no-scripting: msleak.perfect-privacy.com false
 no-scripting: mspoweruser.com false
 no-scripting: msrc-blog.microsoft.com false
+no-scripting: mullvad.net false
 no-scripting: multifilemirror.com false
 no-scripting: multiup.org false
+no-scripting: music.youtube.com false
 no-scripting: musicbrainz.org false
 no-scripting: mussmanwissen.mwzip.com false
 no-scripting: mxlinux.org false
+no-scripting: my.hidrive.com false
 no-scripting: my.nextdns.io false
 no-scripting: myaccount.google.com false
+no-scripting: myanimelist.net false
 no-scripting: mybroadband.co.za false
 no-scripting: mylink.love false
 no-scripting: mynorthwest.com false
@@ -6668,6 +6705,7 @@ no-scripting: news.xbox.com false
 no-scripting: newseu.cgtn.com false
 no-scripting: newsroom.ibm.com false
 no-scripting: newsroom.intel.com false
+no-scripting: newsroom.spotify.com false
 no-scripting: newtab.chrome-scheme false
 no-scripting: next-episode.net false
 no-scripting: ngp.re false
@@ -6694,8 +6732,10 @@ no-scripting: ocat.readthedocs.io false
 no-scripting: oceancrack.com false
 no-scripting: oceanofgames.com false
 no-scripting: octobox.io false
+no-scripting: od.lk false
 no-scripting: oddvar.moe false
 no-scripting: offeo.com false
+no-scripting: offer.ebay.de false
 no-scripting: ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme false
 no-scripting: ojdproject.com false
 no-scripting: old.reddit.com false
@@ -6718,6 +6758,7 @@ no-scripting: openwrt.org false
 no-scripting: osdn.net false
 no-scripting: osmand.net false
 no-scripting: ostif.org false
+no-scripting: osu.ppy.sh false
 no-scripting: overclockers.ru false
 no-scripting: pan.baidu.com false
 no-scripting: panopticlick.eff.org false
@@ -6727,8 +6768,10 @@ no-scripting: paste2.org false
 no-scripting: pastebin.com false
 no-scripting: pasteboard.co false
 no-scripting: pastelink.net false
+no-scripting: pastr.io false
 no-scripting: patchbot.io false
 no-scripting: patchtuesdaydashboard.com false
+no-scripting: pay.ebay.de false
 no-scripting: pay.gov false
 no-scripting: pcgames-download.com false
 no-scripting: pcgamingwiki.com false
@@ -6773,6 +6816,7 @@ no-scripting: privacy.net false
 no-scripting: privacyinternational.org false
 no-scripting: privacyroot.com false
 no-scripting: privatebin.net false
+no-scripting: privatelink.de false
 no-scripting: prnt.sc false
 no-scripting: proapk.co false
 no-scripting: processhacker.sourceforge.io false
@@ -6790,6 +6834,7 @@ no-scripting: punklabs.com false
 no-scripting: pureinfotech.com false
 no-scripting: puresoftapps.blogspot.com false
 no-scripting: puri.sm false
+no-scripting: qttabbar.wikidot.com false
 no-scripting: queuecosm.bid false
 no-scripting: quillbot.com false
 no-scripting: raddle.me false
@@ -6802,6 +6847,7 @@ no-scripting: rapids.ai false
 no-scripting: rarbg.to false
 no-scripting: rarbgmirror.org false
 no-scripting: rarbgprx.org false
+no-scripting: rarefilm.net false
 no-scripting: ratgeber.immowelt.de false
 no-scripting: raw.githack.com false
 no-scripting: raw.githubusercontent.com false
@@ -6817,6 +6863,8 @@ no-scripting: reddit.guide false
 no-scripting: redditenhancementsuite.com false
 no-scripting: regex101.com false
 no-scripting: release-apk.com false
+no-scripting: rentry.co false
+no-scripting: reports.exodus-privacy.eu.org false
 no-scripting: resanance.com false
 no-scripting: research.sc false
 no-scripting: reshade.me false
@@ -6828,6 +6876,7 @@ no-scripting: resources.whitesourcesoftware.com false
 no-scripting: restoreprivacy.com false
 no-scripting: restream.io false
 no-scripting: review.lineageos.org false
+no-scripting: rexdl.com false
 no-scripting: rg-adguard.net false
 no-scripting: rgho.st false
 no-scripting: rgho.ст false
@@ -6836,7 +6885,6 @@ no-scripting: riot.im false
 no-scripting: risky.biz false
 no-scripting: rlslog.unblocked.llc false
 no-scripting: rom-news.org false
-no-scripting: roonlabs.com false
 no-scripting: rpg.rem.uz false
 no-scripting: rsload.net false
 no-scripting: ru.goodoffer24.com false
@@ -6862,6 +6910,7 @@ no-scripting: sdqk.me false
 no-scripting: securelist.com false
 no-scripting: securinghardware.com false
 no-scripting: securityboulevard.com false
+no-scripting: securitytools.simplecast.com false
 no-scripting: seekingalpha.com false
 no-scripting: segmentnext.com false
 no-scripting: sendfile.su false
@@ -6880,8 +6929,11 @@ no-scripting: shop.spreadshirt.de false
 no-scripting: showrss.info false
 no-scripting: shyftplan.com false
 no-scripting: signalstickers.com false
+no-scripting: signin.ebay.de false
 no-scripting: signup.steemit.com false
 no-scripting: siliconlottery.com false
+no-scripting: silicophilic.com false
+no-scripting: simkl.com false
 no-scripting: sites.google.com false
 no-scripting: skystar-2.com false
 no-scripting: slate.com false
@@ -6893,12 +6945,14 @@ no-scripting: snappa.com false
 no-scripting: snew.notabug.io false
 no-scripting: social.technet.microsoft.com false
 no-scripting: solidfile.net false
+no-scripting: solidforums.com false
 no-scripting: soundcloud.com false
 no-scripting: sourceforge.net false
 no-scripting: sozialgerichtsbarkeit.hessen.de false
 no-scripting: spectrum.ieee.org false
 no-scripting: speedsouls.com false
 no-scripting: sphere.tenebris.cc false
+no-scripting: spinditty.com false
 no-scripting: splits.io false
 no-scripting: spotifyforbrands.com false
 no-scripting: spotifytcl.wixsite.com false
@@ -6932,6 +6986,7 @@ no-scripting: streamable.com false
 no-scripting: streamcounter.speechchat.com false
 no-scripting: streamix.ru false
 no-scripting: streamlabs.com false
+no-scripting: streamlink.github.io false
 no-scripting: studio.youtube.com false
 no-scripting: superman.fandom.com false
 no-scripting: superuser.com false
@@ -6942,6 +6997,7 @@ no-scripting: support.jdownloader.org false
 no-scripting: support.lenovo.com false
 no-scripting: support.microsoft.com false
 no-scripting: support.office.com false
+no-scripting: support.spotify.com false
 no-scripting: support.surfshark.com false
 no-scripting: support.ubi.com false
 no-scripting: supportcommunity.milestonesys.com false
@@ -6957,6 +7013,7 @@ no-scripting: t3n.de false
 no-scripting: takeout.google.com false
 no-scripting: tampermonkey.net false
 no-scripting: tapochek.net false
+no-scripting: tarnkappe-forum.info false
 no-scripting: tarnkappe.info false
 no-scripting: tasker.joaoapps.com false
 no-scripting: tatsumaki.xyz false
@@ -6983,6 +7040,7 @@ no-scripting: testing.wintoolkit.co.uk false
 no-scripting: testmy.net false
 no-scripting: testsafebrowsing.appspot.com false
 no-scripting: textmechanic.com false
+no-scripting: textslashplain.com false
 no-scripting: textuploader.com false
 no-scripting: tftcentral.co.uk false
 no-scripting: tgdev.io false
@@ -6994,29 +7052,36 @@ no-scripting: thegameawards.com false
 no-scripting: thehackernews.com false
 no-scripting: thehelm.com false
 no-scripting: theintercept.com false
+no-scripting: themes.moe false
 no-scripting: thenextweb.com false
 no-scripting: theopen.site false
 no-scripting: theprivacyguide1.github.io false
 no-scripting: threatpost.com false
+no-scripting: throwbin.io false
 no-scripting: thumbs2.imagebam.com false
 no-scripting: timelog-app.com false
 no-scripting: timkadlec.com false
 no-scripting: tinypic.com false
 no-scripting: tinyurl.com false
+no-scripting: tld-list.com false
 no-scripting: tls13.crypto.mozilla.org false
 no-scripting: tls13.ulfheim.net false
 no-scripting: tmdn.org false
 no-scripting: top.gg false
 no-scripting: toplist.gg false
+no-scripting: torbencapiau.be false
 no-scripting: torlock.com false
 no-scripting: tornado.org.ru false
+no-scripting: torrent2magnet.com false
 no-scripting: torrentfreak.com false
 no-scripting: torrentproject.se false
 no-scripting: torrentz2.eu false
 no-scripting: tparser.org false
+no-scripting: tpaste.net false
 no-scripting: tr.free-torrents.org false
 no-scripting: trac.mpc-hc.org false
 no-scripting: trac.torproject.org false
+no-scripting: tracking.earnkaro.com false
 no-scripting: transcripts.fandom.com false
 no-scripting: transfer.pcloud.com false
 no-scripting: transference.com false
@@ -7109,9 +7174,11 @@ no-scripting: weareprivacy.com false
 no-scripting: web.qmcoin.gq false
 no-scripting: webassembly.org false
 no-scripting: webcookies.org false
+no-scripting: webgit.redxen.eu false
 no-scripting: webkit.org false
 no-scripting: weboas.is false
 no-scripting: webscene.ir false
+no-scripting: wegotthiscovered.com false
 no-scripting: wetransfer.com false
 no-scripting: whalebird.org false
 no-scripting: whatismyipaddress.com false
@@ -7135,9 +7202,11 @@ no-scripting: winmerge.org false
 no-scripting: witch.valdikss.org.ru false
 no-scripting: withinrafael.com false
 no-scripting: wj32.org false
+no-scripting: worldscinema.org false
 no-scripting: worldup.ir false
 no-scripting: wrttn.me false
 no-scripting: wtfnzb.pw false
+no-scripting: ww1.animesimple.com false
 no-scripting: ww7.selectrealsecurity.com false
 no-scripting: www.1047games.com false
 no-scripting: www.123recht.de false
@@ -7169,6 +7238,7 @@ no-scripting: www.amazon.com false
 no-scripting: www.amazon.de false
 no-scripting: www.amd.com false
 no-scripting: www.anandtech.com false
+no-scripting: www.androidcentral.com false
 no-scripting: www.androidpit.com false
 no-scripting: www.animaker.com false
 no-scripting: www.anwaltskanzlei-wue.de false
@@ -7190,6 +7260,7 @@ no-scripting: www.avidemux.org false
 no-scripting: www.avira.com false
 no-scripting: www.avsforum.com false
 no-scripting: www.axis.com false
+no-scripting: www.azdll.net false
 no-scripting: www.balena.io false
 no-scripting: www.bbc.co.uk false
 no-scripting: www.befunky.com false
@@ -7199,6 +7270,7 @@ no-scripting: www.bgr.in false
 no-scripting: www.bild.de false
 no-scripting: www.bilder-upload.eu false
 no-scripting: www.bildverkleinern.com false
+no-scripting: www.bilibili.com false
 no-scripting: www.bit-tech.net false
 no-scripting: www.bitchute.com false
 no-scripting: www.bitdefender.com false
@@ -7211,6 +7283,7 @@ no-scripting: www.bloomberg.com false
 no-scripting: www.blu-ray.com false
 no-scripting: www.blurbusters.com false
 no-scripting: www.bountysource.com false
+no-scripting: www.brainyquote.com false
 no-scripting: www.breitbart.com false
 no-scripting: www.browserplugs.com false
 no-scripting: www.buddybuild.com false
@@ -7247,6 +7320,7 @@ no-scripting: www.collectia.de false
 no-scripting: www.collinsdictionary.com false
 no-scripting: www.components-mart.com false
 no-scripting: www.computerbase.de false
+no-scripting: www.computerbild.de false
 no-scripting: www.computerperformance.co.uk false
 no-scripting: www.computerwoche.de false
 no-scripting: www.computerworld.com false
@@ -7259,6 +7333,7 @@ no-scripting: www.courthousenews.com false
 no-scripting: www.cpuid.com false
 no-scripting: www.craigheffner.com false
 no-scripting: www.creatorbeat.com false
+no-scripting: www.crunchyroll.com false
 no-scripting: www.cryfs.org false
 no-scripting: www.cyberark.com false
 no-scripting: www.cybergamer.com false
@@ -7279,6 +7354,7 @@ no-scripting: www.deskmodder.de false
 no-scripting: www.destinythegame.com false
 no-scripting: www.deviantart.com false
 no-scripting: www.dhs.gov false
+no-scripting: www.dictionary.com false
 no-scripting: www.dideo.ir false
 no-scripting: www.didgeridoohan.com false
 no-scripting: www.digital-eliteboard.com false
@@ -7294,6 +7370,7 @@ no-scripting: www.documentcloud.org false
 no-scripting: www.doileak.com false
 no-scripting: www.domo.com false
 no-scripting: www.dotnetapp.com false
+no-scripting: www.downloadroms.io false
 no-scripting: www.dramexchange.com false
 no-scripting: www.dropbox.com false
 no-scripting: www.druckerzubehoer.de false
@@ -7354,6 +7431,7 @@ no-scripting: www.fortinet.com false
 no-scripting: www.forum-sozialhilfe.de false
 no-scripting: www.forum.torrminatorr.com false
 no-scripting: www.fosshub.com false
+no-scripting: www.fouadmods.com false
 no-scripting: www.frankerfacez.com false
 no-scripting: www.free-powerpoint-templates-design.com false
 no-scripting: www.freenode-windows.org false
@@ -7401,6 +7479,7 @@ no-scripting: www.gog.com false
 no-scripting: www.golem.de false
 no-scripting: www.google.com false
 no-scripting: www.google.de false
+no-scripting: www.googleplaymusicdesktopplayer.com false
 no-scripting: www.goskills.com false
 no-scripting: www.gpg4win.org false
 no-scripting: www.gpsworld.com false
@@ -7420,6 +7499,7 @@ no-scripting: www.heise.de false
 no-scripting: www.hidemyass.com false
 no-scripting: www.hkepc.com false
 no-scripting: www.hltv.org false
+no-scripting: www.hollywoodreporter.com false
 no-scripting: www.holzapfels-baeckerladen.de false
 no-scripting: www.howtogeek.com false
 no-scripting: www.hrkgame.com false
@@ -7428,6 +7508,7 @@ no-scripting: www.hybrid-analysis.com false
 no-scripting: www.i-dont-care-about-cookies.eu false
 no-scripting: www.icinsights.com false
 no-scripting: www.ict-r.com false
+no-scripting: www.igorslab.de false
 no-scripting: www.iloveimg.com false
 no-scripting: www.imagebam.com false
 no-scripting: www.imdb.com false
@@ -7436,6 +7517,7 @@ no-scripting: www.imperva.com false
 no-scripting: www.inc.com false
 no-scripting: www.independent.co.uk false
 no-scripting: www.infopackets.com false
+no-scripting: www.ingmferrer.com.ve false
 no-scripting: www.inkasso-sofort.de false
 no-scripting: www.inputzero.io false
 no-scripting: www.inquisitr.com false
@@ -7460,6 +7542,7 @@ no-scripting: www.japantimes.co.jp false
 no-scripting: www.jedec.org false
 no-scripting: www.jeffersonscher.com false
 no-scripting: www.jonpeddie.com false
+no-scripting: www.jscreenfix.com false
 no-scripting: www.kaggle.com false
 no-scripting: www.kalender-365.eu false
 no-scripting: www.kartridge.com false
@@ -7549,6 +7632,8 @@ no-scripting: www.novirusthanks.org false
 no-scripting: www.npmjs.com false
 no-scripting: www.nsaneforums.com false
 no-scripting: www.ntlite.com false
+no-scripting: www.nulled.to false
+no-scripting: www.nulledteam.com false
 no-scripting: www.nvidia.com false
 no-scripting: www.nvidia.de false
 no-scripting: www.nytimes.com false
@@ -7564,6 +7649,8 @@ no-scripting: www.onmsft.com false
 no-scripting: www.oo-software.com false
 no-scripting: www.opennet.ru false
 no-scripting: www.openwall.com false
+no-scripting: www.opera.com false
+no-scripting: www.opswat.com false
 no-scripting: www.ordnungsliebe.net false
 no-scripting: www.origin.com false
 no-scripting: www.ossec.net false
@@ -7572,6 +7659,7 @@ no-scripting: www.overclock.net false
 no-scripting: www.overclockers.at false
 no-scripting: www.overclockers.ua false
 no-scripting: www.packtpub.com false
+no-scripting: www.pastery.net false
 no-scripting: www.patreon.com false
 no-scripting: www.paypal.com false
 no-scripting: www.pcgamer.com false
@@ -7633,6 +7721,7 @@ no-scripting: www.reverse.it false
 no-scripting: www.rfc-editor.org false
 no-scripting: www.rit.edu false
 no-scripting: www.robtex.com false
+no-scripting: www.rottentomatoes.com false
 no-scripting: www.rsaconference.com false
 no-scripting: www.rsbac.org false
 no-scripting: www.rtings.com false
@@ -7785,12 +7874,15 @@ no-scripting: www.veracrypt.fr false
 no-scripting: www.vesterkopi.dk false
 no-scripting: www.vg247.com false
 no-scripting: www.vice.com false
+no-scripting: www.videosolo.com false
 no-scripting: www.virustotal.com false
 no-scripting: www.vodafone.de false
 no-scripting: www.voidtools.com false
 no-scripting: www.wagnardsoft.com false
 no-scripting: www.wampserver.com false
 no-scripting: www.warez-bb.org false
+no-scripting: www.wcostream.com false
+no-scripting: www.webfx.com false
 no-scripting: www.weblockapp.com false
 no-scripting: www.websitevistied.com false
 no-scripting: www.weka.ch false
@@ -7808,6 +7900,7 @@ no-scripting: www.wincert.net false
 no-scripting: www.windowscentral.com false
 no-scripting: www.windowslatest.com false
 no-scripting: www.winehq.org false
+no-scripting: www.winfaq.de false
 no-scripting: www.winfuture-forum.de false
 no-scripting: www.winreducer.net false
 no-scripting: www.wired.com false
@@ -7819,6 +7912,7 @@ no-scripting: www.xbox.com false
 no-scripting: www.xbox360iso.com false
 no-scripting: www.xrel.to false
 no-scripting: www.xvideos.com false
+no-scripting: www.xyplorer.com false
 no-scripting: www.yappybots.tk false
 no-scripting: www.younow.com false
 no-scripting: www.youporn.com false
@@ -7871,6 +7965,8 @@ no-scripting: yadi.sk false
 no-scripting: yagpdb.xyz false
 no-scripting: yara.readthedocs.io false
 no-scripting: yifymovieonline.com false
+no-scripting: ymp4.download false
+no-scripting: ymusic.io false
 no-scripting: yntrend.pw false
 no-scripting: youlean.co false
 no-scripting: youlean.onfastspring.com false
@@ -8001,6 +8097,7 @@ no-strict-blocking: www.regnow.com true
 * 23016-e6a83db-dot-monorail-prod.appspot.com * block
 * 23media.de * block
 * 247-inc.net * noop
+* 24flac.net * block
 * 25pp.com * block
 * 2baksa.net * block
 * 2beeg.mobi * block
@@ -8460,7 +8557,6 @@ no-strict-blocking: www.regnow.com true
 * androidcentral.com * block
 * androidfilehost.com * block
 * androidforums.com * block
-* androidfreeware.net * block
 * androidheadlines.com * block
 * androidpit.com * block
 * androidpit.de * block
@@ -8474,8 +8570,10 @@ no-strict-blocking: www.regnow.com true
 * ani-stream.com * block
 * animaker.com * block
 * anime-ultime.net * block
+* anime-update.com * block
 * anime.lgbt * block
 * animeawake.org * block
+* animesimple.com * block
 * animezero.tv * block
 * animo-pace-stream.io * block
 * animotube.net * block
@@ -8507,11 +8605,11 @@ no-strict-blocking: www.regnow.com true
 * aol.com * noop
 * aolcdn.com * noop
 * aomedia.org * block
+* aoscdn.com * block
 * apercite.fr * block
 * apester.com * block
 * apigurus.com * block
 * apk-deguard.com * block
-* apk4free.net * block
 * apk4fun.com * block
 * apkmaza.net * block
 * apkmirror.com * block
@@ -8521,6 +8619,7 @@ no-strict-blocking: www.regnow.com true
 * apkocean.net * block
 * apnews.com * block
 * apollotv.xyz * block
+* apowersoft.com * block
 * app-valley.vip * block
 * app.link * block
 * appared.online * block
@@ -8540,6 +8639,7 @@ no-strict-blocking: www.regnow.com true
 * appsumo.com * block
 * appthority.com * noop
 * appuals.com * block
+* appvalley.vip * block
 * appveyor.com * noop
 * appwork.org * block
 * appznet.ws * block
@@ -8594,6 +8694,7 @@ no-strict-blocking: www.regnow.com true
 * askubuntu.com * noop
 * askvg.com * block
 * askwoody.com * noop
+* asky.io * block
 * asmcbain.net * block
 * asoft-ware.com * block
 * asoft.be * block
@@ -8689,6 +8790,7 @@ no-strict-blocking: www.regnow.com true
 * az751783.vo.msecnd.net * block
 * azadicdn.com * block
 * azadify.com * block
+* azdll.net * block
 * azemke.de * block
 * azstarnet.az * block
 * azure.net * block
@@ -8850,6 +8952,7 @@ no-strict-blocking: www.regnow.com true
 * bilder-upload.eu * noop
 * bildstatic.de * block
 * bildverkleinern.com * block
+* bilibili.com * block
 * billiger.com * block
 * billiger.de * noop
 * billy-boy.de * noop
@@ -8967,6 +9070,7 @@ no-strict-blocking: www.regnow.com true
 * bonappetit.com * block
 * bonial.biz * block
 * bontersoft.blogspot.com * block
+* bontersoft.cc * block
 * bookbub.com * block
 * booking.com * noop
 * booksc.xyz * block
@@ -8998,6 +9102,7 @@ no-strict-blocking: www.regnow.com true
 * bp.blogspot.com * noop
 * brains-world.eu * block
 * braintreegateway.com * noop
+* brainyquote.com * block
 * branch.io * block
 * branchable.com * noop
 * brandenburg.de * block
@@ -9014,6 +9119,7 @@ no-strict-blocking: www.regnow.com true
 * briggsoft.com * block
 * brightcove.com * block
 * brightcove.net * block
+* brightcove.services * block
 * brightinfo.com * block
 * brightspotcdn.com * block
 * briian.com * block
@@ -9126,6 +9232,7 @@ no-strict-blocking: www.regnow.com true
 * cablemod.com * block
 * cackle.me * block
 * cafebot.xyz * block
+* cairoshell.com * block
 * cakewalk.com * block
 * calculoid.com * block
 * callofduty.com * block
@@ -9211,6 +9318,7 @@ no-strict-blocking: www.regnow.com true
 * cdnst.net * noop
 * cdntrf.com * block
 * cdntwrk.com * block
+* cdpn.io * block
 * cdromance.com * block
 * cdt.org * block
 * cedarlakeventures.com * block
@@ -9289,6 +9397,7 @@ no-strict-blocking: www.regnow.com true
 * cinema.de * block
 * cinematrix.net * block
 * cio.de * block
+* ciphers.pw * block
 * circl.lu * noop
 * cisco.com * noop
 * cisecurity.org * noop
@@ -9481,6 +9590,7 @@ no-strict-blocking: www.regnow.com true
 * convert2mp3.net * block
 * convertcsv.com * block
 * convertexperiments.com * block
+* convertflow.co * block
 * convertful.com * block
 * convertio.co * noop
 * convertmp3.io * block
@@ -9631,6 +9741,7 @@ no-strict-blocking: www.regnow.com true
 * cvc.phncdn.com * block
 * cvedetails.com * block
 * cwdnbhhmdnm.com * block
+* cwtuning.com * block
 * cwxblalyyvbj.com * block
 * cxense.com * block
 * cyanogenmods.org * block
@@ -9710,6 +9821,7 @@ no-strict-blocking: www.regnow.com true
 * d27t3nufpewl0w.cloudfront.net * block
 * d29i6o40xcgdai.cloudfront.net * block
 * d29vzk4ow07wi7.cloudfront.net * block
+* d2a5cgar23scu2.cloudfront.net * block
 * d2aizum1.party * block
 * d2bbtvgnhux6eq.cloudfront.net * block
 * d2c8v52ll5s99u.cloudfront.net * block
@@ -9725,6 +9837,7 @@ no-strict-blocking: www.regnow.com true
 * d2lv4zbk7v5f93.cloudfront.net * block
 * d2oh4tlt9mrke9.cloudfront.net * block
 * d2p9l91d5g68ru.cloudfront.net * block
+* d2r7bmv6l6bnd1.cloudfront.net * block
 * d2skuhm0vrry40.cloudfront.net * block
 * d2srrzh48sp2nh.cloudfront.net * block
 * d2tz3plrpnfrv0.cloudfront.net * block
@@ -9798,7 +9911,9 @@ no-strict-blocking: www.regnow.com true
 * dailystar.co.uk * noop
 * dailyuploads.cc * block
 * dailyuploads.net * block
+* damedesuyo.com * block
 * danawa.com * noop
+* daniele.tech * block
 * danielhauber.com * block
 * dankmemer.lol * block
 * danluu.com * block
@@ -9959,7 +10074,7 @@ no-strict-blocking: www.regnow.com true
 * digitalrivercontent.net * block
 * digitalspy.com * noop
 * digitaltarget.ru * block
-* digitaltrends.com * noop
+* digitaltrends.com * block
 * digitalwelt.org * block
 * digitec.ch * block
 * digitecgalaxus.ch * block
@@ -9974,6 +10089,7 @@ no-strict-blocking: www.regnow.com true
 * directupload.net * noop
 * dirtywarez.com * block
 * dirtywarez.org * block
+* dis.cool * block
 * disboard.org * block
 * discord.club * block
 * discord.gg * block
@@ -9988,6 +10104,7 @@ no-strict-blocking: www.regnow.com true
 * discordbot.world * block
 * discordbotlist.com * block
 * discordbots.org * block
+* discordemoji.com * block
 * discordia.me * block
 * discordservers.com * noop
 * discordtip.io * block
@@ -10101,6 +10218,7 @@ no-strict-blocking: www.regnow.com true
 * download-chromium.appspot.com * block
 * download-free-fonts.com * block
 * download-geek.com * block
+* download.ru * block
 * download1324.mediafire.com * allow
 * download2164.mediafire.com * allow
 * download3k.com * block
@@ -10113,6 +10231,7 @@ no-strict-blocking: www.regnow.com true
 * downloadmirror.co * block
 * downloadmix.com * block
 * downloadpack.net * block
+* downloadroms.io * block
 * downloadroute.com * block
 * downloadtutorials.net * block
 * downloadwarez.org * block
@@ -10235,6 +10354,7 @@ no-strict-blocking: www.regnow.com true
 * eager.io * block
 * eagerse.com * block
 * eagleapi.io * block
+* earnkaro.com * block
 * earnload.co * block
 * earnload.com * block
 * easefab.com * block
@@ -10453,6 +10573,7 @@ no-strict-blocking: www.regnow.com true
 * existenzgruender.de * block
 * exmo.com * block
 * exoclick.com * block
+* exodus-privacy.eu.org * block
 * exodusintel.com * block
 * exosrv.com * block
 * expatica.com * block
@@ -10488,6 +10609,7 @@ no-strict-blocking: www.regnow.com true
 * ezvid.com * block
 * f-droid.org * noop
 * f-log-extension.grammarly.io * block
+* f-n.me * block
 * f-secure.com * noop
 * f45ff72fec5426ae.com * block
 * f5.com * block
@@ -10609,7 +10731,9 @@ no-strict-blocking: www.regnow.com true
 * findit-for-me.appspot.com * block
 * findlatitudeandlongitude.com * block
 * fing.io * block
+* fingerprintjs.com * block
 * fir.im * block
+* firebase.com * block
 * firebaseinstallations.googleapis.com * block
 * firebaseio.com * block
 * firebaselogging.googleapis.com * block
@@ -10710,6 +10834,7 @@ no-strict-blocking: www.regnow.com true
 * forrealzpiratebay.org * block
 * forstner-mcr.de * block
 * fortawesome.com * noop
+* forter.com * block
 * fortiguard.com * block
 * fortinet.com * block
 * fortunateweb.com * block
@@ -10724,12 +10849,13 @@ no-strict-blocking: www.regnow.com true
 * fossa.io * noop
 * fossbytes.com * block
 * fosscord.github.io * block
-* fossdroid.com * block
 * fosshub.com * block
 * fotolia.com * block
 * fotor.com * block
+* fouadmods.com * block
 * foursquare.com * block
 * fox13now.com * block
+* foxaxis.com * block
 * foxbusiness.com * block
 * foxclocks.org * block
 * foxnews.com * noop
@@ -10758,6 +10884,7 @@ no-strict-blocking: www.regnow.com true
 * free-torrent.org * noop
 * free-torrents.org * block
 * free.fr * block
+* freebiesglobal.com * block
 * freebitco.in * block
 * freecodecamp.com * block
 * freecodecamp.org * block
@@ -10787,6 +10914,7 @@ no-strict-blocking: www.regnow.com true
 * freesound.org * block
 * freestar.io * block
 * freesteamkeys.com * noop
+* freevbcode.com * block
 * freewallet.org * block
 * freitag.de * block
 * freshchat.com * block
@@ -10983,10 +11111,12 @@ no-strict-blocking: www.regnow.com true
 * getlawd.com * block
 * getlazarus.org * block
 * getmdl.io * block
+* getmodsapk.com * block
 * getmonero.org * noop
 * getoutline.org * block
 * getpocket.com * block
 * getsentry.net * block
+* getsession.org * block
 * getsharex.com * block
 * getsitecontrol.com * block
 * getstation.com * block
@@ -11070,6 +11200,8 @@ no-strict-blocking: www.regnow.com true
 * globalmedia-it.com * block
 * globalmedia-it.us * noop
 * globaltimes.cn * block
+* glodls.rocks * block
+* glodls.to * block
 * glodrips.com * block
 * glomex.com * block
 * gls-group.eu * noop
@@ -11141,6 +11273,7 @@ no-strict-blocking: www.regnow.com true
 * googlecommerce.com * noop
 * googlegroups.com * noop
 * googlepages.com * block
+* googleplaymusicdesktopplayer.com * block
 * googleprojectzero.blogspot.de * noop
 * googlesource.com * noop
 * googlesyndication.com * block
@@ -11157,6 +11290,7 @@ no-strict-blocking: www.regnow.com true
 * gosell.it * block
 * goskills.com * block
 * gostream.is * block
+* gotit.tm * block
 * gotraffic.net * block
 * govdelivery.com * block
 * gp-static.com * block
@@ -11246,6 +11380,7 @@ no-strict-blocking: www.regnow.com true
 * h-cdn.co * block
 * h-cdn.com * block
 * h12-media.com * block
+* h5v.eu * block
 * h6y654wgfdhd.com * block
 * habets.se * block
 * habr.com * block
@@ -11315,7 +11450,9 @@ no-strict-blocking: www.regnow.com true
 * haxx.se * block
 * hbgary.com * block
 * hddcaddy.com * block
+* hddguru.com * block
 * hdencode.com * block
+* hdslb.com * block
 * hdvideostream.biz * block
 * hdwallpapers.net * block
 * healthline.com * block
@@ -11360,6 +11497,7 @@ no-strict-blocking: www.regnow.com true
 * hibiaygg.com * block
 * hide.me * block
 * hidemyass.com * block
+* hidrive.com * block
 * hifi-and-friends.de * block
 * hifi-forum.de * block
 * high-way.me * block
@@ -11421,7 +11559,7 @@ no-strict-blocking: www.regnow.com true
 * houseofit.com.au * block
 * hoverwatch.com * block
 * howto-connect.com * noop
-* howtogeek.com * noop
+* howtogeek.com * block
 * hp-ww.com * block
 * hp.com * noop
 * hp45a.com * block
@@ -11517,6 +11655,7 @@ no-strict-blocking: www.regnow.com true
 * id.google.de * block
 * idealo.com * noop
 * idg.de * block
+* idg.zone * block
 * idgesg.net * noop
 * idigitaltimes.com * noop
 * idope.se * block
@@ -11534,6 +11673,8 @@ no-strict-blocking: www.regnow.com true
 * ign.com * block
 * ignimgs.com * noop
 * igodigital.com * block
+* igorslab.de * block
+* igorslab.media * block
 * ihackedit.com * block
 * ihor.ru * block
 * iias.eu * block
@@ -11631,6 +11772,7 @@ no-strict-blocking: www.regnow.com true
 * ing.be * block
 * ing.nl * block
 * ingame.de * block
+* ingmferrer.com.ve * block
 * iniptv.com * noop
 * inkasso-sofort.de * block
 * innerht.ml * block
@@ -11768,6 +11910,7 @@ no-strict-blocking: www.regnow.com true
 * it-administrator.de * block
 * it-director.de * block
 * it-film.com * block
+* it-runde.de * block
 * it-zoom.de * block
 * itbrief.com.au * block
 * itch.io * block
@@ -11886,11 +12029,13 @@ no-strict-blocking: www.regnow.com true
 * jsbeautifier.org * block
 * jsc.dt00.net * block
 * jscount.com * block
+* jscreenfix.com * block
 * jsdelivr.net * noop
 * jsecoin.com * block
 * jsfiddle.net * block
 * jshell.net * block
 * jsintegrity.com * block
+* jspaint.app * block
 * jspell.com * block
 * jspenguin.com * block
 * jspenguin2017.github.io * noop
@@ -12110,10 +12255,12 @@ no-strict-blocking: www.regnow.com true
 * learnseo.pro * block
 * leaseweb.net * block
 * lede-project.org * noop
+* legal.social * block
 * legalbase.de * block
 * legitreviews.com * noop
 * lenovo.com * noop
 * leogx9r.gitlab.io * noop
+* lepiratebay.org * block
 * letsencrypt.org * noop
 * letsfix.de * block
 * letsupload.co * block
@@ -12188,6 +12335,7 @@ no-strict-blocking: www.regnow.com true
 * lisk.io * block
 * list-manage.com * block
 * listchallenges.com * block
+* listenbrainz.org * block
 * lists.freedesktop.org * block
 * litanswers.org * block
 * litecoin.org * noop
@@ -12335,6 +12483,7 @@ no-strict-blocking: www.regnow.com true
 * maketecheasier.com * block
 * makeuseof.com * noop
 * maldun.com * block
+* malsync.moe * block
 * malware-research.org * block
 * malwarebytes.com * noop
 * malwarebytes.org * noop
@@ -12394,6 +12543,7 @@ no-strict-blocking: www.regnow.com true
 * mathyestore.com * block
 * mathyvanhoef.com * block
 * matomo.kee.pm * block
+* matomo.tarnkappe.info * block
 * matrix.org * block
 * matrix.to * noop
 * matrixdisclosure.com * block
@@ -12554,6 +12704,7 @@ no-strict-blocking: www.regnow.com true
 * mixer.com * noop
 * mixi.media * block
 * mixpanel.com * block
+* mixplorer.com * block
 * mixtape.moe * noop
 * mizage.com * noop
 * mk.de * block
@@ -12635,6 +12786,7 @@ no-strict-blocking: www.regnow.com true
 * movie-forum.co * block
 * movieo.info * block
 * moviestreams.org * noop
+* movieweb.com * block
 * moxdmkdzvkgxow.bid * block
 * mozaws.net * block
 * mozilla-community.org * noop
@@ -12677,6 +12829,7 @@ no-strict-blocking: www.regnow.com true
 * msicomputer.com * noop
 * msilab.net * block
 * msn.com * block
+* msocdn.com * block
 * mspoweruser.com * block
 * mtrcss.com * block
 * mttyfwtvyumc.com * block
@@ -12707,6 +12860,7 @@ no-strict-blocking: www.regnow.com true
 * mxtoolbox.com * block
 * my-netdata.io * block
 * myadcash.com * block
+* myanimelist.net * block
 * mybb.com * block
 * mybroadband.co.za * block
 * mybrowseraddon.com * block
@@ -12793,6 +12947,7 @@ no-strict-blocking: www.regnow.com true
 * nbb-cdn.de * block
 * nbcnews.com * block
 * nbcuas.com * block
+* nbcuni.com * block
 * ncore.cc * block
 * ncrypt.in * block
 * ncsc.gov.uk * block
@@ -12980,6 +13135,7 @@ no-strict-blocking: www.regnow.com true
 * npmjs.com * block
 * npr.org * block
 * npttech.com * block
+* nptunnel.com * block
 * ns-cdn.com * noop
 * nsa-observer.net * block
 * nsa.gov * noop
@@ -13000,7 +13156,9 @@ no-strict-blocking: www.regnow.com true
 * nucaptcha.com * noop
 * nuggad.net * block
 * nulled.cc * block
+* nulled.to * block
 * nulledbb.com * block
+* nulledteam.com * block
 * nvidia.co.uk * noop
 * nvidia.com * noop
 * nvidia.de * noop
@@ -13040,6 +13198,7 @@ no-strict-blocking: www.regnow.com true
 * oculus.com * block
 * oculuscdn.com * block
 * ocztechnologyforum.com * block
+* od.lk * block
 * oddvar.moe * block
 * oewabox.at * block
 * offen.net * block
@@ -13274,6 +13433,8 @@ no-strict-blocking: www.regnow.com true
 * pasteboard.co * block
 * pastelink.net * block
 * pastemagazine.com * noop
+* pastery.net * block
+* pastr.io * block
 * patchbot.io * block
 * patchtuesdaydashboard.com * block
 * patentlyapple.com * block
@@ -13371,6 +13532,7 @@ no-strict-blocking: www.regnow.com true
 * petri.com * block
 * pexels.com * block
 * pfsense.org * block
+* pgmcdn.com * block
 * phncdn.com * block
 * phoenixos.com * block
 * phonearena.com * noop
@@ -13421,6 +13583,7 @@ no-strict-blocking: www.regnow.com true
 * pir.fm * block
 * pirate-bay.net * block
 * pirate.cloud * block
+* piratenpartei.de * block
 * pirateproxy.live * block
 * pirateproxy.sh * block
 * pirates-forum.org * block
@@ -13466,6 +13629,7 @@ no-strict-blocking: www.regnow.com true
 * pksage.com * block
 * placehold.it * block
 * placemytag.com * block
+* placetel.de * block
 * plagemann-rae.de * block
 * plagemann-rechtsanwaelte.de * block
 * plaid.com * block
@@ -13561,6 +13725,7 @@ no-strict-blocking: www.regnow.com true
 * powr.io * block
 * pp-international.net * noop
 * ppupdbeoth.bid * block
+* ppy.sh * block
 * practicefusion.com * block
 * practo.com * block
 * prad.de * noop
@@ -13595,6 +13760,7 @@ no-strict-blocking: www.regnow.com true
 * privacy.purch.com * block
 * privacyfoundation.ch * block
 * privacyinternational.org * block
+* privacymachine.info * block
 * privacynotprism.org.uk * noop
 * privacypass.github.io * block
 * privacypolicies.com * block
@@ -13606,6 +13772,7 @@ no-strict-blocking: www.regnow.com true
 * privatbank.ua * block
 * privatebin.net * noop
 * privateinternetaccess.com * noop
+* privatelink.de * block
 * privazer.com * noop
 * privnote.com * block
 * privy.com * block
@@ -13649,7 +13816,7 @@ no-strict-blocking: www.regnow.com true
 * prosody.im * noop
 * protondb.com * block
 * protonmail.ch * block
-* protonmail.com * noop
+* protonmail.com * block
 * protonvpn.com * block
 * protoxin.net * block
 * prox.space * noop
@@ -13685,6 +13852,7 @@ no-strict-blocking: www.regnow.com true
 * pureai.com * block
 * pureairhits.com * block
 * purechat.com * block
+* purechatcdn.com * block
 * pureinfotech.com * block
 * pureos.net * block
 * puresoftapps.blogspot.ch * block
@@ -13835,6 +14003,7 @@ no-strict-blocking: www.regnow.com true
 * rarbg.to * block
 * rarbgmirror.org * block
 * rarbgprx.org * block
+* rarefilm.net * block
 * rarlab.com * block
 * rascom.ru * block
 * raspberryparanovatos.com * block
@@ -13912,6 +14081,7 @@ no-strict-blocking: www.regnow.com true
 * redteam.pl * block
 * redtube.com * noop
 * redvice.org * block
+* redxen.eu * block
 * reek.github.io * block
 * reevoo.com * block
 * referrer.disqus.com * block
@@ -13940,6 +14110,7 @@ no-strict-blocking: www.regnow.com true
 * removeddit.com * block
 * renaissanto.com * block
 * rendrfx.com * noop
+* rentry.co * block
 * reonis.com * block
 * repack.me * block
 * replicant.us * block
@@ -14055,7 +14226,6 @@ no-strict-blocking: www.regnow.com true
 * romhacking.net * block
 * romhustler.net * block
 * ronaldverlaan.nl * block
-* roonlabs.com * block
 * root.ax * block
 * rootbitch.cc * block
 * rootcanary.net * block
@@ -14064,7 +14234,7 @@ no-strict-blocking: www.regnow.com true
 * ropchain.com * noop
 * ropkrhilt.com * block
 * rosemand.pro * block
-* rottentomatoes.com * noop
+* rottentomatoes.com * block
 * rotzoll.net * block
 * router-faq.de * noop
 * router-forum.de * block
@@ -14221,6 +14391,7 @@ no-strict-blocking: www.regnow.com true
 * screenrant.com * noop
 * screenshot.net * noop
 * screenshotcomparison.com * noop
+* screentogif-releases.azurewebsites.net * block
 * screentogif.com * block
 * scribd.com * noop
 * scribdassets.com * noop
@@ -14323,6 +14494,7 @@ no-strict-blocking: www.regnow.com true
 * servethehome.com * block
 * serving-sys.com * noop
 * servis24.cz * block
+* servote.de * block
 * ses-ps.com * block
 * setcorrect.com * block
 * sevenforums.com * block
@@ -14369,6 +14541,7 @@ no-strict-blocking: www.regnow.com true
 * shopify.com * noop
 * shopifycdn.com * block
 * shopifycloud.com * block
+* shoppy.gg * block
 * shortcuts-keys.blogspot.com * block
 * shortpixel.ai * block
 * showheroes.com * block
@@ -14390,9 +14563,14 @@ no-strict-blocking: www.regnow.com true
 * signifyd.com * block
 * silicon.de * block
 * siliconlottery.com * block
+* silicophilic.com * block
 * silktide.com * block
 * simgbb.com * noop
 * simjacker.com * block
+* simkl.com * block
+* simkl.in * block
+* simkl.net * block
+* simplecast.com * block
 * simplednscrypt.org * noop
 * simpleimageresizer.com * block
 * simpleradar.com * block
@@ -14528,6 +14706,7 @@ no-strict-blocking: www.regnow.com true
 * solidfiles.com * block
 * solidfilescdn.com * noop
 * solidfilesusercontent.com * noop
+* solidforums.com * block
 * solus-project.com * block
 * solutotlv.com * block
 * solveigmm.com * noop
@@ -14579,12 +14758,14 @@ no-strict-blocking: www.regnow.com true
 * speedrunslive.com * block
 * speedsouls.com * block
 * speedtest.net * noop
+* sphereup.com * block
 * sphinx-soft.com * block
 * spiceworks.com * noop
 * spiceworksstatic.com * block
 * spideroak.com * noop
 * spiegel.de * block
 * spiffymachine.com * block
+* spinditty.com * block
 * splinternews.com * block
 * splits.io * block
 * splittestclub.s3.amazonaws.com * block
@@ -15054,6 +15235,7 @@ no-strict-blocking: www.regnow.com true
 * test.de * noop
 * testberichte.de * block
 * tested.com * noop
+* testing-site-sergio.secure.force.com * block
 * testipv6.de * block
 * testmy.net * noop
 * testsafebrowsing.appspot.com * block
@@ -15117,6 +15299,7 @@ no-strict-blocking: www.regnow.com true
 * themediateam.net * block
 * themeisle.com * block
 * thememoryhole2.org * noop
+* themes.moe * block
 * themirrorbay.com * block
 * themis-media.com * block
 * themoneytizer.com * block
@@ -15166,6 +15349,7 @@ no-strict-blocking: www.regnow.com true
 * threema.ch * noop
 * thrillist.com * noop
 * thritingcontail.info * block
+* throwbin.io * block
 * thumbsnap.com * block
 * thume.ca * block
 * thunderbird-mail.de * block
@@ -15206,6 +15390,7 @@ no-strict-blocking: www.regnow.com true
 * titanous.com * block
 * tjournal.ru * block
 * tkwy.tech * block
+* tld-list.com * block
 * tld.sk * block
 * tlecdn.net * block
 * tm00.com * block
@@ -15254,6 +15439,7 @@ no-strict-blocking: www.regnow.com true
 * toptal.io * block
 * toptenreviews.com * noop
 * topvisor.ru * block
+* torbencapiau.be * block
 * torchsoft.com * block
 * torguard.net * block
 * torkickass.com * block
@@ -15263,6 +15449,7 @@ no-strict-blocking: www.regnow.com true
 * toro-tags.com * block
 * torproject.org * noop
 * torpsol.com * block
+* torrent2magnet.com * block
 * torrentdownloads.me * block
 * torrentfreak.com * block
 * torrentfunk.com * block
@@ -15285,6 +15472,7 @@ no-strict-blocking: www.regnow.com true
 * tp-link.com * block
 * tp-link.us * noop
 * tparser.org * block
+* tpaste.net * block
 * tpb.party * block
 * tpbproxy.nl * block
 * tpucdn.com * block
@@ -15502,6 +15690,7 @@ no-strict-blocking: www.regnow.com true
 * ulogin.ru * block
 * uloz.to * block
 * ulozto.net * block
+* ultimateudemy.com * block
 * ultimedia.com * block
 * ultrafastcdn.com * noop
 * ultraimg.com * block
@@ -15694,7 +15883,7 @@ no-strict-blocking: www.regnow.com true
 * venturebeat.com * block
 * venzom.de * block
 * veracode.com * block
-* veracrypt.fr * noop
+* veracrypt.fr * block
 * verify-whois.com * block
 * verisignlabs.com * block
 * verivox.de * block
@@ -15734,10 +15923,12 @@ no-strict-blocking: www.regnow.com true
 * videogamer.com * block
 * videogames-portal2.com * block
 * videogameszone.de * block
+* videograbber.net * block
 * videohelp.com * block
 * videolan.org * block
 * videoplayerhub.com * block
 * videos.winfuture.de * block
+* videosolo.com * block
 * videostripe.com * block
 * videostudiopro.com * block
 * vidga.me * noop
@@ -15867,6 +16058,7 @@ no-strict-blocking: www.regnow.com true
 * wbtrk.net * block
 * wcabsbogwfxv.com * block
 * wccftech.com * block
+* wcostream.com * block
 * wcwzzauws.com * block
 * wdc.com * block
 * wdfiles.com * block
@@ -15884,6 +16076,7 @@ no-strict-blocking: www.regnow.com true
 * webcontentdelivery.info * block
 * webcookies.org * block
 * webflow.com * block
+* webfx.com * block
 * webgraph.com * block
 * webink.com * block
 * webkit.org * block
@@ -15915,6 +16108,7 @@ no-strict-blocking: www.regnow.com true
 * webtrends.com * block
 * webtype.com * block
 * weebly.com * noop
+* wegotthiscovered.com * block
 * weibo.com * block
 * weka.ch * block
 * welect.de * block
@@ -15963,6 +16157,7 @@ no-strict-blocking: www.regnow.com true
 * whsldqctrvuk.com * block
 * wiado.de * block
 * widevine.com * noop
+* widgetapi.purechat.com * block
 * widgets.ign.com * block
 * widgets.wp.com * block
 * wie-ist-meine-ip.de * block
@@ -16069,6 +16264,7 @@ no-strict-blocking: www.regnow.com true
 * worldipv6launch.org * block
 * worldnow.com * block
 * worldofwarcraft.com * noop
+* worldscinema.org * block
 * worldsrc.org * block
 * worldssl.net * block
 * worldup.ir * block
@@ -16243,6 +16439,8 @@ no-strict-blocking: www.regnow.com true
 * yjlyvrdpnuef.bid * block
 * yldbt.com * block
 * ylx-3.com * block
+* ymp4.download * block
+* ymusic.io * block
 * yntrend.pw * block
 * yola.com * block
 * yoorjlleqtquez.bid * block
@@ -16408,6 +16606,7 @@ no-strict-blocking: www.regnow.com true
 212.237.29.47 1337xto.me * noop
 212.237.29.47 212.237.29.47 * noop
 218.210.127.131 218.210.127.131 * noop
+24flac.net 24flac.net * noop
 2baksa.net 2baksa.net * noop
 2conv.com 2conv.com * noop
 2ip.io 2ip.io * noop
@@ -16422,7 +16621,6 @@ no-strict-blocking: www.regnow.com true
 46.166.137.211.ipaddress.com ipaddress.com * noop
 4downfiles.org 4downfiles.org * noop
 4kmedia.org 4kmedia.org * noop
-4pda.ru * inline-script noop
 4pda.ru 4pda.ru * noop
 4pda.ru 4pda.to * noop
 4players.org 4players.org * noop
@@ -16441,6 +16639,7 @@ abertschi.github.io abertschi.github.io * noop
 abine.com abine.com * noop
 abrobecker.free.fr free.fr * noop
 absolutedouble.co.uk absolutedouble.co.uk * noop
+access.redhat.com redhat.com * noop
 account.eslgaming.com eslgaming.com * noop
 account.live.com live.com * noop
 account.protonvpn.com protonvpn.com * noop
@@ -16450,6 +16649,8 @@ accounts.google.com google.com * noop
 accounts.google.de google.com * noop
 accounts.google.de google.de * noop
 accounts.respawn.com respawn.com * noop
+accounts.spotify.com google.com * noop
+accounts.spotify.com spotify.com * noop
 accounts.youtube.com google.com * noop
 acid3.acidtests.org acidtests.org * noop
 acoustid.org acoustid.org * noop
@@ -16507,6 +16708,7 @@ androidfilehost.com androidfilehost.com * noop
 androidfilehost.com fontawesome.com * noop
 androidforums.com androidforums.com * noop
 andrwe.org andrwe.org * noop
+anime-update.com anime-update.com * noop
 animeawake.org animeawake.org * noop
 anmeldung.arbeitsagentur.de arbeitsagentur.de * noop
 anonhq.com anonhq.com * noop
@@ -16524,7 +16726,6 @@ api.twitch.tv passport.twitch.tv * allow
 apk-deguard.com apk-deguard.com * noop
 apk-dl.com apk-cloud.com * noop
 apk-dl.com apk-dl.com * noop
-apk4free.net apk4free.net * noop
 apkmos.com apkmos.com * noop
 apkocean.net apkocean.net * noop
 apkscan.nviso.be nviso.be * noop
@@ -16532,6 +16733,7 @@ apnews.com apnews.com * noop
 apollo.arbeitsagentur.de arbeitsagentur.de * noop
 apollotv.xyz apollotv.xyz * noop
 app.any.run any.run * noop
+app.appvalley.vip appvalley.vip * noop
 app.codacy.com appcues.com * noop
 app.codacy.com codacy.com * noop
 app.gitkraken.com gitkraken.com * noop
@@ -16577,6 +16779,7 @@ artiomsoft.ru artiomsoft.ru * noop
 artwizz.com artwizz.com * noop
 askleo.com askleo.com * noop
 askleo.com askleomedia.com * noop
+asky.io asky.io * noop
 aspendos-niederweimar.de aspendos-niederweimar.de * noop
 aspendos-niederweimar.de maps.googleapis.com * noop
 assets.documentcloud.org documentcloud.org * noop
@@ -16818,6 +17021,7 @@ bot-supply.com bot-supply.com * noop
 botblock.org botblock.org * noop
 botlist.co botlist.co * noop
 bots.discord.pw discord.pw * noop
+botsfordiscord.com botsfordiscord.com * noop
 br3tt.deviantart.com * inline-script noop
 brains-world.eu brains-world.eu * noop
 branchenbuch.meinestadt.de meinestadt.de * noop
@@ -16869,6 +17073,7 @@ cablemod.com cablemod.com * noop
 cafeattach.naver.net naver.net * noop
 cafebot.xyz cafebot.xyz * noop
 cafebot.xyz hardenize.com * noop
+cairoshell.com cairoshell.com * noop
 cancel.fm cancel.fm * noop
 canyouseeme.org canyouseeme.org * noop
 capped.tv capped.tv * noop
@@ -16878,7 +17083,6 @@ ccm.net ccm2.net * noop
 cdimage.ubuntu.com ubuntu.com * noop
 cdkeye.cba.pl cba.pl * noop
 cdn-resprivacy.pressidium.com pressidium.com * noop
-cdn.apk4free.net apk4free.net * noop
 cdn.chuyu.me chuyu.me * noop
 cdn.discordapp.com discordapp.com * noop
 cdn.gingersoftware.com gingersoftware.com * noop
@@ -16912,12 +17116,15 @@ chihiro718.jpn.org jpn.org * noop
 chocolatey.org chocolatey.org * noop
 chrome.google.com google.com * noop
 chromereleases.googleblog.com googleblog.com * noop
+chromestatus.com chromestatus.com * noop
+chromestatus.com unpkg.com * noop
 chromium-review.googlesource.com cr-buildbucket.appspot.com * noop
 chromium-review.googlesource.com findit-for-me.appspot.com * noop
 chromium-review.googlesource.com luci-migration.appspot.com * noop
 chromium-review.googlesource.com tricium-prod.appspot.com * noop
 chromium.woolyss.com woolyss.com * noop
 chromiumbugs.appspot.com omahaproxy.appspot.com * noop
+ciphers.pw ciphers.pw * noop
 classic.startpage.com startpage.com * noop
 classicreload.com * inline-script noop
 classicreload.com classicreload.com * noop
@@ -16931,8 +17138,11 @@ client.teamviewer.com teamviewer.com * noop
 clippingmagic.com cedarlakeventures.com * noop
 clippingmagic.com clippingmagic.com * noop
 clippingmagic.com dyl80ryjxr1ke.cloudfront.net * noop
+clk.tradedoubler.com digidip.net * noop
+clk.tradedoubler.com mydealz.de * noop
 clk.tradedoubler.com tradedoubler.com * noop
 cloud.mail.ru mail.ru * noop
+cloud.pados.hu pados.hu * noop
 cloud.scaleway.com scaleway.com * noop
 cloud.tapatalk.com tapatalk-cdn.com * noop
 cloud.tapatalk.com tapatalk.com * noop
@@ -16948,6 +17158,8 @@ code.visualstudio.com ghbtns.com * noop
 code.visualstudio.com vsassets.io * noop
 code.visualstudio.com vscode-update.azurewebsites.net * noop
 codecanyon.net codecanyon.net * noop
+codepen.io amazonaws.com * noop
+codepen.io cdpn.io * noop
 codesmithdev.com codesmithdev.com * noop
 codexpcgames.com codexpcgames.com * noop
 coinpedia.org coinpedia.org * noop
@@ -16976,6 +17188,9 @@ community.netgear.com netgear.com * noop
 community.norton.com norton.com * noop
 community.oracle.com oracle.com * noop
 community.oracle.com orel.ru * noop
+community.pcgamingwiki.com digitaloceanspaces.com * noop
+community.pcgamingwiki.com discordapp.com * noop
+community.pcgamingwiki.com pcgamingwiki.com * noop
 community.playstation.com playstation.net * noop
 community.riskiq.com marketo.com * noop
 community.riskiq.com riskiq.com * noop
@@ -17048,6 +17263,7 @@ cryptome.org imgaft.com * noop
 cryptostorm.is bitpay.com * noop
 cryptostorm.is cryptostorm.is * noop
 cryptostorm.org cryptostorm.org * noop
+cryptpad.piratenpartei.de piratenpartei.de * noop
 cryptup.org cryptup.org * noop
 crystalmark.info crystalmark.info * noop
 crytivogames.freshdesk.com freshdesk.com * noop
@@ -17064,6 +17280,7 @@ csrc.nist.gov nist.gov * noop
 curseofthemoon.com curseofthemoon.com * noop
 customjailbreak.com customjailbreak.com * noop
 cve.mitre.org mitre.org * noop
+cwtuning.com cwtuning.com * noop
 cyber-itl.org cyber-itl.org * noop
 cybercloud.media cybercloud.media * noop
 cyware.com cyware.com * noop
@@ -17075,7 +17292,9 @@ d3adend.org d3adend.org * noop
 dailydotnettips.com dailydotnettips.com * noop
 dailyuploads.cc dailyuploads.cc * noop
 dailyuploads.net dailyuploads.net * noop
+damedesuyo.com damedesuyo.com * noop
 daniel.haxx.se haxx.se * noop
+daniele.tech daniele.tech * noop
 danielhauber.com danielhauber.com * noop
 dankmemer.lol dankmemer.lol * noop
 danluu.com danluu.com * noop
@@ -17117,7 +17336,6 @@ de.shop.gopro.com gopro.com * noop
 de.thermaltake.com thermaltake.com * noop
 de.toluna.com toluna.com * noop
 de.toluna.com tolunacdn.com * noop
-de.wikipedia.org upload.wikimedia.org * allow
 de.youtube.wikia.com nocookie.net * noop
 de1.androidfilehost.com androidfilehost.com * noop
 deals.majorgeeks.com majorgeeks.com * noop
@@ -17165,6 +17383,7 @@ dino.im dino.im * noop
 dir50.com dir50.com * noop
 directlinkers.com directlinkers.com * noop
 dirtywarez.org dirtywarez.org * noop
+dis.cool dis.cool * noop
 disboard.org disboard.org * noop
 disboard.org discordapp.com * noop
 disboard.org google.com * noop
@@ -17194,7 +17413,9 @@ discordbots.org discordbots.org * noop
 discordbots.org reaction-role.com * noop
 discordbots.org thebotdev.de * noop
 discordbots.org thisiswaldo.com * noop
+discordemoji.com discordemoji.com * noop
 discordia.me discordia.me * noop
+discordservers.com discordapp.com * noop
 discordtip.io discordtip.io * noop
 discourse.mozilla.org * 1p-script noop
 discourse.mozilla.org * inline-script noop
@@ -17261,8 +17482,6 @@ docviewer.yandex.com * inline-script noop
 docviewer.yandex.com yandex.com * noop
 docviewer.yandex.com yandex.ru * noop
 docviewer.yandex.com yastatic.net * noop
-docviewer.yandex.ru * 1p-script noop
-docviewer.yandex.ru * inline-script noop
 docviewer.yandex.ru yandex.ru * noop
 docviewer.yandex.ru yastatic.net * noop
 dod.defense.gov defense.gov * noop
@@ -17288,6 +17507,7 @@ download.lineage.microg.org * inline-script noop
 download.lineage.microg.org fonts.googleapis.com * noop
 download.lineage.microg.org microg.org * noop
 download.lineageos.org karneval.cz * noop
+download.ru download.ru * noop
 download.sysinternals.com sysinternals.com * noop
 download.visualstudio.microsoft.com download.visualstudio.microsoft.com * allow
 download1656.mediafire.com mediafire.com * noop
@@ -17338,6 +17558,7 @@ eachnow.com eachnow.com * noop
 eachvideo.com eachvideo.com * noop
 earnload.co earnload.co * noop
 earnload.co earnload.com * noop
+earnload.co foxaxis.com * noop
 earthbound.wikia.com nocookie.net * noop
 earthbound.wikia.com wikia-services.com * noop
 eastasiaresearch.org eastasiaresearch.org * noop
@@ -17480,6 +17701,7 @@ finalfantasy.wikia.com nocookie.net * noop
 financials.morningstar.com morningstar.com * noop
 finanzen.naanoo.de naanoo.com * noop
 finanzen.naanoo.de naanoo.de * noop
+fingerprintjs.com fingerprintjs.com * noop
 fiprinca.0x90.eu 0x90.eu * noop
 fir.im fir.im * noop
 fir.im qbox.me * noop
@@ -17584,7 +17806,6 @@ forum.telfort.nl dug71lzgx0zym.cloudfront.net * noop
 forum.telfort.nl telfort.nl * noop
 forum.torrminatorr.com torrminatorr.com * noop
 forum.transmissionbt.com transmissionbt.com * noop
-forum.tuts4you.com * inline-script noop
 forum.tuts4you.com tuts4you.com * noop
 forum.ubuntuusers.de ubuntu-de.org * noop
 forum.ubuntuusers.de ubuntuusers.de * noop
@@ -17669,6 +17890,7 @@ free-proxy.cz free-proxy.cz * noop
 free.appnee.com appnee.com * noop
 free.appnee.com google.com * noop
 free.ubisof.com ubisof.com * noop
+freebiesglobal.com freebiesglobal.com * noop
 freedom-to-tinker.com freedom-to-tinker.com * noop
 freegrabapp.com freegrabapp.com * noop
 freeobfuscator.com freeobfuscator.com * noop
@@ -17751,7 +17973,9 @@ geti2p.net geti2p.net * noop
 getintopc.com getintopc.com * noop
 getintra.org getintra.org * noop
 getmdl.io getmdl.io * noop
+getmodsapk.com getmodsapk.com * noop
 getoutline.org getoutline.org * noop
+getsession.org getsession.org * noop
 getsharex.com getsharex.com * noop
 getstation.com getstation.com * noop
 getwpd.com getwpd.com * noop
@@ -17784,6 +18008,8 @@ glitchmoji.bblok.tech discordapp.com * noop
 glitchmoji.bblok.tech glitch.com * noop
 glitchmoji.bblok.tech top.gg * noop
 gload.cc gload.cc * noop
+glodls.rocks glodls.rocks * noop
+glodls.to glodls.to * noop
 gls-group.eu * inline-script noop
 gmdmoney.com gmdmoney.com * noop
 go.twitch.tv * 1p-script noop
@@ -17852,6 +18078,7 @@ hartz4widerspruch.de hartz4widerspruch.de * noop
 haveibeenpwned.com haveibeenpwned.com * noop
 haveibeensold.app haveibeensold.app * noop
 hddcaddy.com hddcaddy.com * noop
+hddguru.com hddguru.com * noop
 hdencode.com hdencode.com * noop
 hdmega.unblckd.gdn unblckd.gdn * noop
 hdvideostream.biz hdvideostream.biz * noop
@@ -17934,6 +18161,7 @@ ieeexplore.ieee.org ieee.org * noop
 ifixit.org d3nevzfk7ii3be.cloudfront.net * noop
 ifixit.org dmuywy5wvoxpe.cloudfront.net * noop
 ifixit.org ifixit.org * noop
+ifttt.com ctfassets.net * noop
 ifttt.com google.com * noop
 ifttt.com ifttt.com * noop
 igg-games.com f45ff72fec5426ae.com * noop
@@ -17996,6 +18224,7 @@ isitdownorjust.me isitdownorjust.me * noop
 isohunt2.net isohunt2.net * noop
 isohunts.to isohunts.to * noop
 it-film.com it-film.com * noop
+it-runde.de it-runde.de * noop
 it.slashdot.org slashdot.org * noop
 itbrief.com.au itbrief.com.au * noop
 itch.io itch.io * noop
@@ -18032,6 +18261,7 @@ jsbeautifier.org jsbeautifier.org * noop
 jsfiddle.net jsfiddle.net * noop
 jsfiddle.net jshell.net * noop
 jsfiddle.net usesfathom.com * noop
+jspaint.app jspaint.app * noop
 jspenguin2017.github.io hugoxu.com * noop
 jspenguin2017.github.io jspenguin.com * noop
 justgetflux.com justgetflux.com * noop
@@ -18049,7 +18279,6 @@ kb.mozillazine.org mozillazine.org * noop
 kb.sandisk.com sandisk.com * noop
 kbdlab.co.kr kbdlab.co.kr * noop
 kcsoftwares.com kcsoftwares.com * noop
-keepa.com * inline-script noop
 keepass.info keepass.info * noop
 keepdrum.de keepdrum.de * noop
 keybase.io * 1p-script noop
@@ -18101,10 +18330,12 @@ le.utah.gov utah.gov * noop
 leaddyno.com leaddyno.com * noop
 left4dead.wikia.com nocookie.net * noop
 left4dead.wikia.com wikia.com * noop
+legal.social legal.social * noop
 legalbase.de d3tqgzn5js99sc.cloudfront.net * noop
 legalbase.de diowgrpdk52p2.cloudfront.net * noop
 legalbase.de legalbase.de * noop
 legion.wikia.com nocookie.net * noop
+lepiratebay.org lepiratebay.org * noop
 lessmsi.activescott.com activescott.com * noop
 level1techs.com level1techs.com * noop
 lew.la lew.la * noop
@@ -18137,6 +18368,7 @@ linuxblog.darkduck.com darkduck.com * noop
 linuxconfig.org linuxconfig.org * noop
 linx.li linx.li * noop
 list.proxylistplus.com proxylistplus.com * noop
+listenbrainz.org listenbrainz.org * noop
 lists.freedesktop.org lists.freedesktop.org * noop
 litanswers.org litanswers.org * noop
 litewinos.blogspot.de litewinos.blogspot.de * noop
@@ -18182,6 +18414,7 @@ mail.edison.tech edison.tech * noop
 mail.gnome.org gnome.org * noop
 mail.google.com * inline-script noop
 mail.google.com google.com * noop
+mail.protonmail.com protonmail.com * noop
 mailbox.org mailbox.org * noop
 mailchi.mp mailchi.mp * noop
 mailchi.mp mailchimp.com * noop
@@ -18190,6 +18423,7 @@ mailchi.mp nas.edu * noop
 mailing.scaleway.com scaleway.com * noop
 majornelson.com majornelson.com * noop
 makeameme.org makeameme.org * noop
+malsync.moe malsync.moe * noop
 malware-research.org malware-research.org * noop
 malwaretips.com malwaretips.com * noop
 manage.betterttv.net * inline-script noop
@@ -18205,7 +18439,6 @@ maritime-executive.com maritime-executive.com * noop
 marketing.telestream.net d2ejbyoa6f5suy.cloudfront.net * noop
 marketing.telestream.net telestream.net * noop
 marketingland.com marketingland.com * noop
-marketplace.visualstudio.com * inline-script noop
 marketplace.visualstudio.com sharepointonline.com * noop
 marketplace.visualstudio.com vsassets.io * noop
 marketplace.xbox.com xbox.com * noop
@@ -18273,6 +18506,7 @@ missrose.org missrose.org * noop
 mixer.com * 1p-script noop
 mixer.com * inline-script noop
 mixer.com getsentry.com * noop
+mixplorer.com mixplorer.com * noop
 mmistakes.github.io fontawesome.com * noop
 mntmn.com mntmn.com * noop
 mobasuite.com mobasuite.com * noop
@@ -18296,6 +18530,7 @@ motherfuckingwebsite.com motherfuckingwebsite.com * noop
 movegraph.com movegraph.com * noop
 movie-forum.co movie-forum.co * noop
 movieo.info movieo.info * noop
+movieweb.com movieweb.com * noop
 mozilla.github.io mozilla.github.io * noop
 mozilla.invisionapp.com invisionapp.com * noop
 mp3fiesta.com mp3fiesta.com * noop
@@ -18311,11 +18546,13 @@ msg.adamant.im adamant.im * noop
 msguides.com msguides.com * noop
 msilab.net msilab.net * noop
 mspoweruser.com mspoweruser.com * noop
+mullvad.net mullvad.net * noop
 multistream.me multistream.me * noop
 multiup.org google.com * noop
 multiup.org multiup.org * noop
 music.tutsplus.com fonts.googleapis.com * noop
 music.tutsplus.com tutsplus.com * noop
+musicbrainz.org google.com * noop
 musicbrainz.org musicbrainz.org * noop
 musicbrainz.org staticbrainz.org * noop
 mussmanwissen.mwzip.com mwzip.com * noop
@@ -18323,10 +18560,12 @@ muttertag-tipps.com muttertag-tipps.com * noop
 mxlinux.org mxlinux.org * noop
 mxtoolbox.com mxtoolbox.com * noop
 my-netdata.io my-netdata.io * noop
+my.hidrive.com hidrive.com * noop
 my.nextdns.io nextdns.io * noop
 myaccount.google.com * 1p-script noop
 myaccount.google.com * inline-script noop
 myaccount.google.com fonts.googleapis.com * noop
+myanimelist.net myanimelist.net * noop
 mybroadband.co.za mybroadband.co.za * noop
 mybrowseraddon.com mybrowseraddon.com * noop
 mybrowseraddon.com zoho.com * noop
@@ -18385,6 +18624,7 @@ newscenter.lbl.gov lbl.gov * noop
 newseu.cgtn.com cgtn.com * noop
 newsroom.ibm.com mediaroom.com * noop
 newsroom.intel.com gigya.com * noop
+newsroom.spotify.com spotify.com * noop
 newsroom.unsw.edu.au unsw.edu.au * noop
 newsstand.google.com * 1p-script noop
 newsstand.google.com * inline-script noop
@@ -18394,6 +18634,7 @@ newtab.chrome-scheme browserling.com * noop
 newtab.chrome-scheme datafilehost.com * noop
 newtab.chrome-scheme johanka.cz * noop
 newtab.chrome-scheme mail.ru * noop
+newtab.chrome-scheme privacymachine.info * noop
 newtab.chrome-scheme techbeacon.com * noop
 newtab.chrome-scheme warez-bb.org * noop
 newtab.chrome-scheme wccftech.com * noop
@@ -18458,14 +18699,17 @@ oceancrack.com oceancrack.com * noop
 oceanofgames.com oceanofgames.com * noop
 ocloud.de ocloud.de * noop
 octobox.io octobox.io * noop
+od.lk od.lk * noop
 oddvar.moe oddvar.moe * noop
 oe.reddit.com reddit.com * noop
 oe.reddit.com redditmedia.com * noop
 offeo.com offeo.com * noop
+offer.ebay.de ebaystatic.com * noop
 ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme app.link * noop
 ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme demonoid.pw * noop
 ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme faz.net * noop
 ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme multiup.org * noop
+ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme notebookcheck.com * noop
 ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme proboards.com * noop
 ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme rogerebert.com * noop
 ogfcmafjalglgifnmanfmnieipoejdcf.chrome-extension-scheme vxposed.com * noop
@@ -18478,8 +18722,8 @@ old.reddit.com redditstatic.com * noop
 omergil.blogspot.ch omergil.blogspot.ch * noop
 oneddl.org oneddl.org * noop
 oneddl.org rapidgator.net * noop
-onedrive.live.com * inline-script noop
 onedrive.live.com 1drv.ms * noop
+onedrive.live.com msocdn.com * noop
 onetile.ru onetile.ru * noop
 onghutgao.net onghutgao.net * noop
 onionbalance.readthedocs.io readthedocs.io * noop
@@ -18495,6 +18739,8 @@ opaque.link opaque.link * noop
 open.lib.umn.edu umn.edu * noop
 open.rocket.chat rocket.chat * noop
 open.spotify.com amazonaws.com * noop
+open.spotify.com google.com * noop
+open.spotify.com spotify.com * noop
 openbsd-archive.7691.n7.nabble.com nabble.com * noop
 opencritic.com opencritic.com * noop
 opengapps.org * inline-script noop
@@ -18512,6 +18758,7 @@ orteil.dashnet.org dashnet.org * noop
 osdn.net osdn.net * noop
 osmand.net osmand.net * noop
 ostif.org ostif.org * noop
+osu.ppy.sh ppy.sh * noop
 overclockers.ru overclockers.ru * noop
 oversight.gov oversight.gov * noop
 overview.artbyrens.com artbyrens.com * noop
@@ -18538,11 +18785,15 @@ pasteboard.co nitropay.com * noop
 pasteboard.co pasteboard.co * noop
 pasteboard.co pbrd.co * noop
 pastelink.net pastelink.net * noop
+pastr.io pastr.io * noop
 patchbot.io patchbot.io * noop
 patchtuesdaydashboard.com patchtuesdaydashboard.com * noop
 paulirish.github.io paulirish.github.io * noop
 pavelfatin.com pavelfatin.com * noop
-pay.ebay.de * inline-script noop
+pay.ebay.de ebay.com * noop
+pay.ebay.de ebayimg.com * noop
+pay.ebay.de ebaystatic.com * noop
+pay.ebay.de forter.com * noop
 pay.gov pay.gov * noop
 pccleaningtools.com pccleaningtools.com * noop
 pcgames-download.com pcgames-download.com * noop
@@ -18654,6 +18905,7 @@ privacypass.github.io privacypass.github.io * noop
 privacypolicies.com privacypolicies.com * noop
 privacyroot.com privacyroot.com * noop
 privacyscore.org privacyscore.org * noop
+privatelink.de privatelink.de * noop
 privnote.com privnote.com * noop
 proactivator.net proactivator.net * noop
 proapk.co proapk.co * noop
@@ -18696,6 +18948,9 @@ pythonsweetness.tumblr.com tumblr.com * noop
 qbforums.shiki.hu shiki.hu * noop
 qrcodehome.net qrcodehome.net * noop
 qspace.library.queensu.ca queensu.ca * noop
+qttabbar.wikidot.com d3g0gp89917ko0.cloudfront.net * noop
+qttabbar.wikidot.com wdfiles.com * noop
+qttabbar.wikidot.com wikidot.com * noop
 queuecosm.bid queuecosm.bid * noop
 quillbot.com quillbot.com * noop
 quiterss.org quiterss.org * noop
@@ -18721,6 +18976,7 @@ rarbg.to rarbg.to * noop
 rarbgmirror.org rarbgmirror.org * noop
 rarbgprx.org dyncdn.me * noop
 rarbgprx.org rarbgprx.org * noop
+rarefilm.net rarefilm.net * noop
 raspberryparanovatos.com raspberryparanovatos.com * noop
 ratgeber.immowelt.de immowelt.de * noop
 raw.githack.com githack.com * noop
@@ -18750,11 +19006,13 @@ reiseauskunft.bahn.de img-bahn.de * noop
 release-apk.com postimg.cc * noop
 release-apk.com release-apk.com * noop
 remotestorage.io remotestorage.io * noop
+rentry.co rentry.co * noop
 repack.me repack.me * noop
 replicant.us replicant.us * noop
 replicaradio.ro replicaradio.ro * noop
 repo.thehackademy.net thehackademy.net * noop
 reports.adduplex.com adduplex.com * noop
+reports.exodus-privacy.eu.org exodus-privacy.eu.org * noop
 reproducible-builds.org reproducible-builds.org * noop
 resanance.com resanance.com * noop
 research.sc research.sc * noop
@@ -18789,6 +19047,7 @@ reviewmeta.com reviewmeta.com * noop
 revolt.group revolt.group * noop
 rewe-kranich.de rewe-kranich.de * noop
 rewinside.tv rewinside.tv * noop
+rexdl.com rexdl.com * noop
 rexdlfile.com rexdl.com * noop
 rexdlfile.com rexdlfile.com * noop
 rg-adguard.net rg-adguard.net * noop
@@ -18816,7 +19075,6 @@ romhustler.net romhustler.net * noop
 room-name-generator.getjoan.com * 1p-script noop
 room-name-generator.getjoan.com * inline-script noop
 room-name-generator.getjoan.com getjoan.com * noop
-roonlabs.com roonlabs.com * noop
 rootcanary.org rootcanary.net * noop
 routersecurity.org routersecurity.org * noop
 rpg.rem.uz rem.uz * noop
@@ -18892,6 +19150,7 @@ securityledger.com securityledger.com * noop
 securitypreview.zscaler.com zscaler.com * noop
 securityskeptic.typepad.com securityskeptic.com * noop
 securityskeptic.typepad.com typepad.com * noop
+securitytools.simplecast.com simplecast.com * noop
 securitytrails.com securitytrails.com * noop
 seekingalpha.com seekingalpha.com * noop
 segmentnext.com segmentnext.com * noop
@@ -18940,10 +19199,14 @@ showrss.info showrss.info * noop
 shyftplan.com shyftplan.com * noop
 signalstickers.com signalstickers.com * noop
 signature-maker.net signature-maker.net * noop
-signin.ebay.de * inline-script noop
+signin.ebay.de ebaystatic.com * noop
 signup.opendns.com bizible.com * noop
 siliconlottery.com siliconlottery.com * noop
+silicophilic.com silicophilic.com * noop
 simjacker.com simjacker.com * noop
+simkl.com simkl.com * noop
+simkl.com simkl.in * noop
+simkl.com simkl.net * noop
 simpleradar.com simpleradar.com * noop
 sites.fastspring.com fastspring.com * noop
 sites.google.com fonts.googleapis.com * noop
@@ -18976,6 +19239,7 @@ socialblade.com socialblade.com * noop
 solarmoviez.to solarmoviez.to * noop
 solidfile.net google.com * noop
 solidfile.net solidfile.net * noop
+solidforums.com solidforums.com * noop
 solus-project.com solus-project.com * noop
 sorenpoulsen.com sorenpoulsen.com * noop
 soundcloud.com mrvv.net * noop
@@ -18993,6 +19257,8 @@ speedtest.xfinity.com cimcontent.net * noop
 speedtest.xfinity.com comcast.net * noop
 sphere.tenebris.cc tenebris.cc * noop
 sphinx-soft.com sphinx-soft.com * noop
+spinditty.com hubstatic.com * noop
+spinditty.com spinditty.com * noop
 splits.io splits.io * noop
 spotify.en.uptodown.com uptodown.com * noop
 spotify.en.uptodown.com utdstc.com * noop
@@ -19024,6 +19290,7 @@ starmen.net starmen.net * noop
 startisback.com startisback.com * noop
 startyourownisp.com startyourownisp.com * noop
 station-drivers.com station-drivers.com * noop
+station.f-n.me f-n.me * noop
 stats.blahdns.com blahdns.com * noop
 stats.blahdns.com uptimerobot.com * noop
 status.discordapp.com discordapp.com * noop
@@ -19119,6 +19386,9 @@ support.signal.org fonts.googleapis.com * noop
 support.signal.org signal.org * noop
 support.skype.com skype.com * noop
 support.skype.com skypeassets.com * noop
+support.spotify.com force.com * noop
+support.spotify.com sp-bootstrap.global.ssl.fastly.net * noop
+support.spotify.com spotify.com * noop
 support.surfshark.com surfshark.com * noop
 support.unlocator.com unlocator.com * noop
 supportcommunity.milestonesys.com milestonesys.com * noop
@@ -19159,8 +19429,10 @@ talk.jekyllrb.com discourse-cdn-sjc2.com * noop
 talk.maemo.org maemo.org * noop
 tampermonkey.net tampermonkey.freetls.fastly.net * noop
 tapochek.net tapochek.net * noop
+tarnkappe-forum.info h5v.eu * noop
 tarnkappe.info tarnkappe-forum.info * noop
 tarnkappe.info tarnkappe.info * noop
+tarnkappe.info w.org * noop
 tasker.joaoapps.com joaoapps.com * noop
 tatsumaki.xyz tatsumaki.xyz * noop
 tb.rg-adguard.net mail.ru * noop
@@ -19305,6 +19577,7 @@ themen.ebay-kleinanzeigen.de ebay-kleinanzeigen.de * noop
 themes.jekyllrc.org * inline-script noop
 themes.jekyllrc.org fastbyte01.it * noop
 themes.jekyllrc.org jekyllrc.org * noop
+themes.moe themes.moe * noop
 theopen.site theopen.site * noop
 thepiratebay-proxylist.org thepiratebay-proxylist.org * noop
 thepiratebay.cr thepiratebay.cr * noop
@@ -19321,6 +19594,7 @@ thewincentral.com thewincentral.com * noop
 threatpost.com kasperskycontenthub.com * noop
 threatpost.com netdna-ssl.com * noop
 threats.kaspersky.com kasperskydaily.com * noop
+throwbin.io throwbin.io * noop
 thume.ca thume.ca * noop
 timelog-app.com timelog-app.com * noop
 timepedia.blogspot.nl timepedia.blogspot.nl * noop
@@ -19332,21 +19606,23 @@ tiny.cc xda-developers.com * noop
 tinyspell.com tinyspell.com * noop
 tinyurl.com tinyurl.com * noop
 tinywall.pados.hu pados.hu * noop
+tld-list.com tld-list.com * noop
 tls13.ulfheim.net ulfheim.net * noop
 tom.preston-werner.com preston-werner.com * noop
 tools.woolyss.com woolyss.com * noop
-top.gg alexandernorup.com * noop
 top.gg discordapp.net * noop
 top.gg serverstatsbot.com * noop
 top.gg top.gg * noop
 topjohnwu.github.io topjohnwu.github.io * noop
 toplist.gg toplist.gg * noop
 toppornsites.com toppornsites.com * noop
+torbencapiau.be torbencapiau.be * noop
 torguard.net torguard.net * noop
 torkickass.com torkickass.com * noop
 torkickass.net torkickass.net * noop
 torlock.com torlock.com * noop
 tornado.org.ru tornado.org.ru * noop
+torrent2magnet.com torrent2magnet.com * noop
 torrentfreak.com torrentfreak.com * noop
 torrentgalaxy.org torrentgalaxy.org * noop
 torrentproject.se torrentproject.se * noop
@@ -19355,9 +19631,11 @@ tortoisegit.org tortoisegit.org * noop
 toughnickel.com hubstatic.com * noop
 toughnickel.com toughnickel.com * noop
 tparser.org tparser.org * noop
+tpaste.net tpaste.net * noop
 tpbproxy.nl tpbproxy.nl * noop
 tr.free-torrents.org free-torrents.org * noop
 tracker.kozatske.in.ua kozatske.in.ua * noop
+tracking.earnkaro.com earnkaro.com * noop
 transcripts.fandom.com fandom.com * noop
 transcripts.fandom.com nocookie.net * noop
 transference.com transference.com * noop
@@ -19599,6 +19877,7 @@ webrtc.github.io webrtc.github.io * noop
 webscene.ir webscene.ir * noop
 webtorrent.io webtorrent.io * noop
 webtransparency.cs.princeton.edu princeton.edu * noop
+wegotthiscovered.com wegotthiscovered.com * noop
 wer-hat-angerufen.info wer-hat-angerufen.info * noop
 wetransfer.com wetransfer.com * noop
 wetransfer.com wetransfer.net * noop
@@ -19673,6 +19952,7 @@ wordpress.org bbpress.org * noop
 work-soft.net work-soft.net * noop
 work.threema.ch fonts.net * noop
 workzilla.aswsyst.cz aswsyst.cz * noop
+worldscinema.org worldscinema.org * noop
 worldup.ir worldup.ir * noop
 worldwidetorrents.eu worldwidetorrents.eu * noop
 wp-rocket.me wp-rocket.me * noop
@@ -19680,6 +19960,7 @@ wp.internetsociety.org internetsociety.org * noop
 wphelp365.com wphelp365.com * noop
 wrttn.me wrttn.me * noop
 wtfnzb.pw wtfnzb.pw * noop
+ww1.animesimple.com animesimple.com * noop
 ww1.born2download.com born2download.com * noop
 ww1.treasureen.com treasureen.com * noop
 ww1.ubisof.com sedoparking.com * noop
@@ -19855,6 +20136,7 @@ www.avsforum.com avsforum.com * noop
 www.avsforum.com google.com * noop
 www.avsforum.com verticalscope.com * noop
 www.axis.com axis.com * noop
+www.azdll.net azdll.net * noop
 www.b4x.com b4x.com * noop
 www.babelstone.co.uk babelstone.co.uk * noop
 www.babylonsfall.com babylonsfall.com * noop
@@ -19896,6 +20178,8 @@ www.bild.de bild.de * noop
 www.bild.de bildstatic.de * noop
 www.bild.de stepstone.de * noop
 www.bildverkleinern.com bildverkleinern.com * noop
+www.bilibili.com bilibili.com * noop
+www.bilibili.com hdslb.com * noop
 www.bing.com bing.com * noop
 www.binisoft.org binisoft.org * noop
 www.biniware.com biniware.com * noop
@@ -19928,11 +20212,14 @@ www.bluedesigns.com bluedesigns.com * noop
 www.bluestacks.com bluestacks.com * noop
 www.blurbusters.com blurbusters.com * noop
 www.boernyblog.de boernyblog.de * noop
+www.bontersoft.cc bontersoft.cc * noop
+www.borncity.com borncity.com * noop
 www.borrowlenses.com borrowlenses.com * noop
 www.bountysource.com bancor.network * noop
 www.bountysource.com d2bbtvgnhux6eq.cloudfront.net * noop
 www.bountysource.com fonts.googleapis.com * noop
 www.bountysource.com fonts.gstatic.com * noop
+www.brainyquote.com brainyquote.com * noop
 www.brave.com brave.com * noop
 www.breitbart.com * inline-script noop
 www.breitbart.com bing.com * noop
@@ -20030,6 +20317,7 @@ www.cloudflare.com cloudflareresolve.com * noop
 www.cloudflare.com encryptedsni.com * noop
 www.cnbc.com cnbc.com * noop
 www.cnbc.com cnbcfm.com * noop
+www.cnet.com cbsistatic.com * noop
 www.codefactor.io codefactor.io * noop
 www.codeinwp.com codeinwp.com * noop
 www.codeproject.com 0914.global.ssl.fastly.net * noop
@@ -20083,6 +20371,7 @@ www.creatorshub.net creatorshub.net * noop
 www.creatorshub.net digitaloceanspaces.com * noop
 www.crowdjustice.com crowdjustice.com * noop
 www.crunchyroll.com crunchyroll.com * noop
+www.crunchyroll.com segment.io * noop
 www.cryengine.com cryengine.com * noop
 www.cryfs.org cryfs.org * noop
 www.crystalidea.com crystalidea.com * noop
@@ -20155,6 +20444,7 @@ www.digital-eliteboard.com kxcdn.com * noop
 www.digitalcitizen.life digitalcitizen.life * noop
 www.digitalmusicnews.com digitalmusicnews.com * noop
 www.digitalocean.com digitalocean.com * noop
+www.digitaltrends.com digitaltrends.com * noop
 www.digitalwelt.org digitalwelt.org * noop
 www.digitec.ch digitec.ch * noop
 www.digitimes.com digitimes.com * noop
@@ -20192,6 +20482,7 @@ www.download-free-fonts.com download-free-fonts.com * noop
 www.download-geek.com download-geek.com * noop
 www.download3k.com download3k.com * noop
 www.download82.com download82.com * noop
+www.downloadroms.io downloadroms.io * noop
 www.dpreview.com dpreview.com * noop
 www.dpreview.com img-dpreview.com * noop
 www.dragon-ball-super-streaming.com dragon-ball-super-streaming.com * noop
@@ -20241,9 +20532,12 @@ www.ebay.ch ebayimg.com * noop
 www.ebay.ch ebaystatic.com * noop
 www.ebay.ch extremecells.com * noop
 www.ebay.ch mobilefox.de * noop
-www.ebay.de * inline-script noop
 www.ebay.de auktionsvorlage-pro.de * noop
+www.ebay.de ebay.com * noop
+www.ebay.de ebayimg.com * noop
+www.ebay.de ebaystatic.com * noop
 www.ebay.de fonts.googleapis.com * noop
+www.ebay.de google.com * noop
 www.eckgold.eu eckgold.eu * noop
 www.edeka.de edeka.de * noop
 www.edifier.com edifier.com * noop
@@ -20364,6 +20658,8 @@ www.foobar2000.org dbpoweramp.com * noop
 www.foobar2000.org foobar2000.org * noop
 www.fool.com fool.com * noop
 www.fool.com foolcdn.com * noop
+www.forbes.com brightcove.services * noop
+www.forbes.com firebase.com * noop
 www.forbes.com forbes.com * noop
 www.forensit.com forensit.com * noop
 www.forocoches.com forocoches.com * noop
@@ -20374,6 +20670,7 @@ www.forum-sozialhilfe.de forum-sozialhilfe.de * noop
 www.forum.torrminatorr.com torrminatorr.com * noop
 www.fosshub.com fosshub.com * noop
 www.fotor.com fotor.com * noop
+www.fouadmods.com fouadmods.com * noop
 www.foxbusiness.com foxbusiness.com * noop
 www.fpgadeveloper.com fpgadeveloper.com * noop
 www.fractal-design.com fractal-design.com * noop
@@ -20386,6 +20683,7 @@ www.freenom.link freenom.link * noop
 www.freeonlinephotoeditor.com freeonlinephotoeditor.com * noop
 www.freeplane.org freeplane.org * noop
 www.freepptbackgrounds.net freepptbackgrounds.net * noop
+www.freevbcode.com freevbcode.com * noop
 www.freitag.de freitag.de * noop
 www.fritzmod.net fritzmod.net * noop
 www.froghill.at froghill.at * noop
@@ -20452,11 +20750,11 @@ www.giropay.de giropay.de * noop
 www.git-tower.com git-tower.com * noop
 www.git-tower.com netdna-ssl.com * noop
 www.gitbook.com gitbook.com * noop
-www.gitkraken.com * inline-script noop
 www.gitkraken.com axocdn.com * noop
 www.gitkraken.com crazyegg.com * noop
 www.gitkraken.com gitkraken.com * noop
 www.gitkraken.com purechat.com * noop
+www.gitkraken.com purechatcdn.com * noop
 www.giveaway-club.com admedia.com * noop
 www.giveaway-club.com giveaway-club.com * noop
 www.giveawayoftheday.com giveawayoftheday.com * noop
@@ -20479,6 +20777,7 @@ www.golem.de bacontent.de * noop
 www.golem.de golem.de * noop
 www.golem.de onthe.io * noop
 www.golem.de radiantmediatechs.com * noop
+www.golem.de svonm.com * noop
 www.goodolddownloads.com goodolddownloads.com * noop
 www.google.ch google.ch * noop
 www.google.ch google.com * noop
@@ -20493,7 +20792,6 @@ www.google.de 4tube.com * noop
 www.google.de adultxxxarea.com * noop
 www.google.de akceleratorbiznesu.eu * noop
 www.google.de amcb.be * noop
-www.google.de androidfreeware.net * noop
 www.google.de babeimpact.com * noop
 www.google.de bdsm24.vip * noop
 www.google.de besthugecocks.com * noop
@@ -20509,7 +20807,6 @@ www.google.de fastxxxpicssearch.com * noop
 www.google.de fisting-blog.org * noop
 www.google.de fleurdelisperfumes.com * noop
 www.google.de fonts.googleapis.com * noop
-www.google.de fossdroid.com * noop
 www.google.de ftopx.com * noop
 www.google.de fucd.pro * noop
 www.google.de fuckandcdn.com * noop
@@ -20540,6 +20837,7 @@ www.google.de teensinasia.com * noop
 www.google.de troubleshooter.xyz * noop
 www.google.de wetter.de * noop
 www.google.de xxxopenload.com * noop
+www.googleplaymusicdesktopplayer.com googleplaymusicdesktopplayer.com * noop
 www.goskills.com goskills.com * noop
 www.gpsoft.com.au gpsoft.com.au * noop
 www.gpsworld.com gpsworld.com * noop
@@ -20614,6 +20912,7 @@ www.hkepc.com hkepc.com * noop
 www.hkepc.com hkepc.net * noop
 www.hltv.org hltv.org * noop
 www.hollywoodreporter.com hollywoodreporter.com * noop
+www.hollywoodreporter.com pgmcdn.com * noop
 www.hollywoodreporter.com thr.com * noop
 www.holzapfels-baeckerladen.de c4t.cc * noop
 www.holzapfels-baeckerladen.de holzapfels-baeckerladen.de * noop
@@ -20629,6 +20928,7 @@ www.hotcleaner.com appn.center * noop
 www.hotcleaner.com hotcleaner.com * noop
 www.hotspotshield.com hotspotshield.com * noop
 www.hoverwatch.com hoverwatch.com * noop
+www.howtogeek.com howtogeek.com * noop
 www.howtogeek.com reviewgeek.com * noop
 www.hrkgame.com hrkgame.com * noop
 www.ht4u.net ht4u.net * noop
@@ -20666,6 +20966,9 @@ www.ign.com zdbb.net * noop
 www.ign.com zergnet.com * noop
 www.ign.com ziffprod.com * noop
 www.ign.com ziffstatic.com * noop
+www.igorslab.de gotit.tm * noop
+www.igorslab.de igorslab.de * noop
+www.igorslab.de igorslab.media * noop
 www.iloveimg.com iloveimg.com * noop
 www.imdb.com db187550c7dkf.cloudfront.net * noop
 www.imdb.com totaleclips.com * noop
@@ -20679,6 +20982,7 @@ www.indiegala.com * inline-script noop
 www.indiegala.com fonts.googleapis.com * noop
 www.infopackets.com infopackets.com * noop
 www.infoworld.com staticworld.net * noop
+www.ingmferrer.com.ve ingmferrer.com.ve * noop
 www.inkasso-sofort.de inkasso-sofort.de * noop
 www.inputzero.io inputzero.io * noop
 www.inquisitr.com adapex.io * noop
@@ -20734,6 +21038,7 @@ www.jeffersonscher.com jeffersonscher.com * noop
 www.jetbrains.com jetbrains.com * noop
 www.jiffchat.com jiffchat.com * noop
 www.jonpeddie.com jonpeddie.com * noop
+www.jscreenfix.com jscreenfix.com * noop
 www.jspell.com jspell.com * noop
 www.juraforum.de juraforum.de * noop
 www.jurarat.de jurarat.de * noop
@@ -20762,6 +21067,7 @@ www.keezmovies.com ypncdn.com * noop
 www.kennasecurity.com kennasecurity.com * noop
 www.kernelmode.info kernelmode.info * noop
 www.keysync.com keysync.com * noop
+www.kgvrfn.ebay.de ebaystatic.com * noop
 www.killping.com d1jkho2idshhnx.cloudfront.net * noop
 www.killping.com killping.com * noop
 www.kinox.io kinox.io * noop
@@ -21012,6 +21318,7 @@ www.novirusthanks.org novirusthanks.org * noop
 www.npmjs.com githubbadges.com * noop
 www.npmjs.com npmjs.com * noop
 www.npr.org npr.org * noop
+www.nptunnel.com nptunnel.com * noop
 www.nsa-observer.net nsa-observer.net * noop
 www.nsanedown.com nsanedown.com * noop
 www.nsaneforums.com ax1x.com * noop
@@ -21032,6 +21339,8 @@ www.nsaneforums.com zupimages.net * noop
 www.ntlite.com ntlite.com * noop
 www.ntop.org ntop.org * noop
 www.nulled.cc nulled.cc * noop
+www.nulled.to nulled.to * noop
+www.nulledteam.com nulledteam.com * noop
 www.nvidia.com d1xvxw8otlw0yp.cloudfront.net * noop
 www.nvidia.com fonts.googleapis.com * noop
 www.nvidia.de fonts.googleapis.com * noop
@@ -21065,6 +21374,8 @@ www.op-marburg.de op-marburg.de * noop
 www.opennet.ru opennet.ru * noop
 www.opennic.org opennic.org * noop
 www.openwall.com openwall.com * noop
+www.opera.com operacdn.com * noop
+www.opswat.com opswat.com * noop
 www.oracle.com * inline-script noop
 www.oracle.com oracle.com * noop
 www.oracle.com oracleimg.com * noop
@@ -21101,6 +21412,7 @@ www.packtpub.com packtpub.com * noop
 www.paket.net paket.net * noop
 www.palmbeachdailynews.com palmbeachdailynews.com * noop
 www.panasonic.com panasonic.com * noop
+www.pastery.net pastery.net * noop
 www.patentlyapple.com patentlyapple.com * noop
 www.patreon.com d24n15hnbwhuhn.cloudfront.net * noop
 www.patreon.com embedly.com * noop
@@ -21122,6 +21434,8 @@ www.pcgames.de pcgames.de * noop
 www.pcgameshardware.de pcgameshardware.de * noop
 www.pcgameshardware.de planet3dnow.de * noop
 www.pcgameshardware.de svonm.com * noop
+www.pcgamesn.com network-n.com * noop
+www.pcgamingwiki.com pcgamingwiki.com * noop
 www.pcmag.com pcmag.com * noop
 www.pcmag.com zdbb.net * noop
 www.pcmag.com zdcommerce.io * noop
@@ -21154,6 +21468,7 @@ www.pirate-bay.net pirate-bay.net * noop
 www.pirate-bay.net tpb.party * noop
 www.piriform.com piriform.com * noop
 www.pivpn.io pivpn.io * noop
+www.placetel.de placetel.de * noop
 www.planet3dnow.de planet3dnow.de * noop
 www.planetoftech.de planetoftech.de * noop
 www.playcentral.de playcentral.de * noop
@@ -21313,6 +21628,10 @@ www.rollingstone.com rollingstone.com * noop
 www.rollingstone.com wennermedia.com * noop
 www.romhacking.net romhacking.net * noop
 www.ronaldverlaan.nl ronaldverlaan.nl * noop
+www.rottentomatoes.com d2a5cgar23scu2.cloudfront.net * noop
+www.rottentomatoes.com flixster.com * noop
+www.rottentomatoes.com nbcuni.com * noop
+www.rottentomatoes.com rottentomatoes.com * noop
 www.rottentomatoes.com theplatform.com * noop
 www.router-forum.de router-forum.de * noop
 www.rsbac.org rsbac.org * noop
@@ -21689,6 +22008,8 @@ www.ubnt.com ubnt.com * noop
 www.ubuduasia.com ubuduasia.com * noop
 www.udemy.com udemy.com * noop
 www.udemy.com udemycdn.com * noop
+www.ultimateudemy.com convertflow.co * noop
+www.ultimateudemy.com ultimateudemy.com * noop
 www.un.org un.org * noop
 www.unicode.org unicode.org * noop
 www.unit-conversion.info * inline-script noop
@@ -21729,6 +22050,7 @@ www.vdr-portal.de vdr-portal.de * noop
 www.vegascreativesoftware.com vegascreativesoftware.com * noop
 www.venzom.de venzom.de * noop
 www.veracode.com veracode.com * noop
+www.veracrypt.fr veracrypt.fr * noop
 www.verify-whois.com verify-whois.com * noop
 www.verivox.de verivox.de * noop
 www.verivox.de vxcdn.com * noop
@@ -21739,8 +22061,12 @@ www.vice.com vice.com * noop
 www.vidarrapp.se vidarrapp.se * noop
 www.videogamer.com candybanana.com * noop
 www.videogamer.com videogamer.com * noop
+www.videograbber.net aoscdn.com * noop
+www.videograbber.net apowersoft.com * noop
+www.videograbber.net videograbber.net * noop
 www.videohelp.com videohelp.com * noop
 www.videolan.org videolan.org * noop
+www.videosolo.com videosolo.com * noop
 www.vilfo.com vilfo.com * noop
 www.vilros.com vilros.com * noop
 www.vipre.com vipre.com * noop
@@ -21785,6 +22111,8 @@ www.washingtonpost.com d2p9l91d5g68ru.cloudfront.net * noop
 www.washingtonpost.com posttv.com * noop
 www.washingtonpost.com wpdigital.net * noop
 www.watchguard.com watchguard.com * noop
+www.wcostream.com wcostream.com * noop
+www.webfx.com webfx.com * noop
 www.weblockapp.com weblockapp.com * noop
 www.webpagefx.com webpagefx.com * noop
 www.webscene.ir webscene.ir * noop
@@ -21954,6 +22282,8 @@ yagpdb.xyz yagpdb.xyz * noop
 yara.readthedocs.io readthedocs.org * noop
 yesmovies.to yesmovies.to * noop
 yifymovieonline.com yifymovieonline.com * noop
+ymp4.download ymp4.download * noop
+ymusic.io ymusic.io * noop
 yntrend.pw yntrend.pw * noop
 youlean.onfastspring.com d37uz57cydkqly.cloudfront.net * noop
 youlean.onfastspring.com d8y8nchqlnmka.cloudfront.net * noop
