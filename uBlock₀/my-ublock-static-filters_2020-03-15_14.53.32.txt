@@ -654,3 +654,25 @@ www.kuketz-blog.de##.support > [href="https://www.kuketz-blog.de/unterstuetzen/"
 
 ! 3/10/2020 https://www.gamingonlinux.com
 www.gamingonlinux.com##div.container:nth-of-type(2) > .col-12 > .box > .announce.group.body
+
+! 3/11/2020 http://www.rlslog.net
+www.rlslog.net###footer
+
+! 3/13/2020 https://userstyles.org
+userstyles.org##.android_button_banner
+userstyles.org##.android_button_button
+userstyles.org###top_android_button
+userstyles.org##.android_walking
+userstyles.org##.footsteps
+userstyles.org##.shadow
+
+! 3/13/2020 https://www.google.de
+www.google.de###promos
+
+! 3/13/2020 https://www.pornhub.com
+www.pornhub.com###videoSearchResult > .alpha
+
+! 3/15/2020 https://multiup.org
+multiup.org##.text-center.alert-info
+multiup.org##.text-center.alert-info
+multiup.org##footer > .row > .col-md-12 > .panel > .panel-body
