@@ -6,7 +6,6 @@ opera-scheme
 vivaldi-scheme
 wyciwyg-scheme
 *youtube.com/*user=GamersNexus
-127.0.0.1
 192.168.178.1
 192.168.178.40
 5who.net
@@ -71,7 +70,6 @@ liamja.co.uk
 lists.debian.org
 lite.qwant.com
 mademistakes.com
-mail.protonmail.com
 mednafen.github.io
 minhaskamal.github.io
 news.ycombinator.com
@@ -131,7 +129,6 @@ www.indiegogo.com
 www.ipfire.org
 www.kinza.jp
 www.otr.im
-www.researchgate.net
 www.ronaldverlaan.nl
 www.thetechgame.com
 www.torproject.org
