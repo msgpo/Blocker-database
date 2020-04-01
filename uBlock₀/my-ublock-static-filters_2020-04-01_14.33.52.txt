@@ -638,9 +638,6 @@ fingerprintjs.com##footer
 ||www.kuketz-blog.de/wp-content/themes/kuketz-security/icons/support.png$image
 www.kuketz-blog.de##.support-box-microblog.box
 
-! 3/8/2020 https://tarnkappe.info
-tarnkappe.info##body > div:nth-of-type(2)
-
 ! 3/8/2020 https://www.hybrid-analysis.com
 www.hybrid-analysis.com##footer
 
@@ -676,3 +673,56 @@ www.pornhub.com###videoSearchResult > .alpha
 multiup.org##.text-center.alert-info
 multiup.org##.text-center.alert-info
 multiup.org##footer > .row > .col-md-12 > .panel > .panel-body
+
+! 3/15/2020 https://www.youporn.com
+www.youporn.com###adblock_tooltip
+
+! 3/15/2020 https://www.pornhub.com
+www.pornhub.com##.clearfix.wqrxgzlv
+www.pornhub.com##.ccdegoiccd
+www.pornhub.com##.clear.hd.wqrxgzlu.wqrxgzlr
+www.pornhub.com###\31 584296240389
+
+! 3/16/2020 https://www.techradar.com
+www.techradar.com##.region_redirect_popup_asset
+
+! 3/17/2020 https://1337x.gd
+1337x.gd##footer
+1337x.gd##.clearfix.box-info-detail
+1337x.gd##.clearfix.box-info-heading
+
+! 3/17/2020 https://alternativeto.net
+alternativeto.net##footer
+
+! 3/17/2020 http://www.solidfiles.com
+www.solidfiles.com##.left
+www.solidfiles.com##.top-section
+www.solidfiles.com##.premium-promo.box
+www.solidfiles.com##article.box:nth-of-type(2)
+
+! 3/17/2020 https://www.twitch.tv
+www.twitch.tv##.tw-pd-2.tw-mg-1.tw-flex-column.tw-flex.tw-elevation-1.tw-c-background-base.tw-border-radius-large
+
+! 3/19/2020 https://movies.stackexchange.com
+||cdn.sstatic.net/Sites/movies/img/footer-background-image.svg?v=97638f5ad77a$image
+movies.stackexchange.com###footer
+
+! 3/24/2020 https://www.xup.in
+www.xup.in###i3a2
+www.xup.in##div:nth-of-type(2) > [href^="https://www.xup.in/blog/"] > div
+www.xup.in##div:nth-of-type(5) > div
+www.xup.in##fieldset#option:nth-of-type(1) > [href^="https://www.xup.in/blog/"] > div
+||sexei.net/responsive.html?r=xup$subdocument
+
+! 3/26/2020 https://www.google.com
+www.google.com##.gb_na.gb_Ud.gb_4c.gb_Jd
+
+! 3/26/2020 https://www.sidify.de
+www.sidify.de##.home-footer
+
+! 3/27/2020 https://tarnkappe.info
+tarnkappe.info##body > div:nth-of-type(2)
+
+! 3/30/2020 https://open.spotify.com
+open.spotify.com##._759904f944cb2420680734ecad0043ed-scss
+open.spotify.com##.Root__now-playing-bar > .now-playing-bar-container > .f8173b6c9c83185b5ba509aefd178eb8-scss
