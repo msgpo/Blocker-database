@@ -8,6 +8,183 @@ HTTP://*^$third-party,script,subdocument,object,ping,websocket,xmlhttprequest
 ! Block third-party requests on unsecure HTTP websites, 95% of malware is hosted on HTTP websites
 !HTTP://*^$third-party
 
+! --- Top 200 Advertising/analytics/tag management/tracking
+!
+||2mdn.net
+||33across.com
+||360yield.com
+||adblade.com
+||adform.com
+||adform.net
+||adglare.net
+||adhigh.net
+||adition.com
+||admantx.com
+||admixer.net
+||adnxs.com
+||adobedtm.com
+||adroll.com
+||adsafeprotected.com
+||adserver.adtech.de
+||adsrvr.org
+||ads-twitter.com
+||advertising.com
+||adyoulike.com
+||amazon-adsystem.com
+||appnexus.com
+||awin.com
+||beachfront.com
+||beemray.com
+||betrad.com
+||bidfluence.com
+||bidswitch.net
+||bidtellect.com
+||bidtheatre.com
+||bizible.com
+||blueconic.net
+||bluekai.com
+||bounceexchange.com
+||bouncex.net
+||brightcom.com
+||brightroll.com
+||bttrack.com
+||c1exchange.com
+||casalemedia.com
+||cedato.com
+||celtra.com
+||chartbeat.com
+||chartbeat.net
+||comscore.com
+||conductrics.com
+||connatix.com
+||content-ad.net
+||contextweb.com
+||conversantmedia.com
+||conviva.com
+||coxmt.com
+||criteo.com
+||criteo.net
+||crwdcntrl.net
+||cxense.com
+||demdex.net
+||doubleclick.net
+||dynamicyield.com
+||edgekey.net
+||edigitalsurvey.com
+||emxdgt.com
+||eroadvertising.com
+||evidon.com
+||exelator.com
+||exoclick.com
+||exosrv.com
+||exponential.com
+||facebook.com^$third-party
+||facebook.net^$domain=~facebook.com
+||fwmrm.net
+||fyber.com
+||getintent.com
+||googletagmanager.com
+||googletagservices.com
+||google-analytics.com
+||gscontxt.net
+||gumgum.com
+||hotjar.com
+||imonomy.com
+||improvedigital.com
+||imrworldwide.com
+||index.com
+||indexexchange.com
+||indexww.com
+||inner-active.com
+||insticator.com
+||juicyads.com
+||krxd.net
+||lijit.com
+||livefyre.com
+||liveintent.com
+||lkqd.com
+||lkqd.net
+||matamo.org
+||mathtag.com
+||media.net
+||metrica.yandex.com
+||mnet-ad.net
+||moatads.com
+||moatpixel.com
+||mobfox.com
+||nativo.com
+||newrelic.com
+||nr-data.net
+||nugg.ad
+||oath.com
+||omniture.com
+||openx.com
+||optimatic.com
+||optimizely.com
+||outbrain.com
+||outbrainimg.com
+||pagefair.com
+||pagefair.net
+||parsely.com
+||popads.com
+||postrelease.com
+||prebid.org
+||pubmatic.com
+||pulsepoint.com
+||pusher.com
+||pusherapp.com
+||q1connect.com
+||quantcast.com
+||quantserve.com
+||quantum-advertising.com
+||ranker.com
+||revcontent.com
+||rhythmone.com
+||rs-stripe.com
+||rubicon.com
+||rubiconproject.com
+||sail-horizon.com
+||sail-personalize.com
+||scorecardresearch.com
+||segment.com
+||segment.io
+||sekindo.com
+||serving-sys.com
+||sharethrough.com
+||smaato.com
+||smartadserver.com
+||smartclip.net
+||smartocto.com
+||sonobi.com
+||sovrn.com
+||spotx.tv
+||spotxchange.com
+||springserve.com
+||summerhamster.com
+||synacor.com
+||taboola.com
+||teads.tv
+||tealium.com
+||tidaltv.com
+||tiqcdn.com
+||trafficforce.com
+||trafficjunky.net
+||tribalfusion.com
+||triplelift.com
+||trustx.org
+||tsyndicate.com
+||tubemogul.com
+||tynt.com
+||unrulymedia.com
+||usabilla.com
+||vertamedia.com
+||vi.ai
+||viglink.com
+||vilynx.com
+||visualwebsiteoptimizer.com
+||yieldmo.com
+||zqtk.net
+
 ! 1/3/2019, 5:12:37 PM https://www.pornhub.com/
 www.pornhub.com##undefined
 
@@ -539,12 +716,6 @@ dropapk.to##footer
 ! 2/25/2020 https://sanet.st
 sanet.st###noscript_alert
 
-! 2/25/2020 https://nitroflare.com
-nitroflare.com###footerCredits
-nitroflare.com##.noticeMessage
-nitroflare.com###file > div:nth-of-type(1) > div > div:nth-of-type(1)
-nitroflare.com##.text
-
 ! 2/26/2020 https://cloud.mail.ru
 cloud.mail.ru##.b-tooltip__content
 
@@ -726,3 +897,158 @@ tarnkappe.info##body > div:nth-of-type(2)
 ! 3/30/2020 https://open.spotify.com
 open.spotify.com##._759904f944cb2420680734ecad0043ed-scss
 open.spotify.com##.Root__now-playing-bar > .now-playing-bar-container > .f8173b6c9c83185b5ba509aefd178eb8-scss
+
+! Linkedin.com fix
+@@||cedexis.net^$css,script,domain=linkedin.com
+
+! 4/2/2020 https://decrypt.co
+||cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/illustrations/woman-desktop-200.png$image
+decrypt.co##.jPPuDZ.sc-oTBUA.sc-fzozJi
+decrypt.co##div.gErxjB.sc-fznKkj.sc-fznyAO:nth-of-type(3) > .cjarLy.sc-fznZeY > .fdTdiT.sc-fzokOt > .dybWlu.sc-AxhCb > .preview-container.cbVHxt.sc-pzYib.keyVA.sc-fzqBZW
+
+! 4/3/2020 https://top.gg
+top.gg###migration_2019_10
+
+! 4/3/2020 https://discord-antinsfw.glitch.me
+discord-antinsfw.glitch.me###donate
+
+! 4/3/2020 https://www.gamezop.com
+www.gamezop.com##.f84qmek > div:nth-of-type(1)
+www.gamezop.com##.home-page.wrapper > div:nth-of-type(3) > div:nth-of-type(2)
+www.gamezop.com##.home-page.wrapper > div:nth-of-type(3) > div:nth-of-type(1)
+
+! 4/8/2020 https://ustvgo.tv
+ustvgo.tv###ustvg-1377480668
+ustvgo.tv###ustvg-0c57c9d779be2566e9346828ce7e66ed
+!
+! Golem Forum
+!
+forum.golem.de##.section-gpure__btn
+forum.golem.de###abo-clip
+!
+! hybrid-analysis.com
+!
+www.hybrid-analysis.com##blockquote
+www.hybrid-analysis.com###fact-container
+!
+! Clownhacks
+!
+www.ghacks.net##.pb--40.pt--40.color--white.bg--darkGray
+!
+! Google Search
+!
+google.*##.xFNJP
+google.*###taw
+google.*###rhs
+google.*###fsl
+google.*###bottomads
+!
+! Google Maps
+!
+google.*###consent-bump > div.widget-consent.widget-consent-small
+google.*###gb > div.gb_0f > div.gb_Xa.gb_Fg.gb_i.gb_Eg.gb_E > div.gb_Zc.gb_Fg.gb_i:first-child > div.gb_id.gb_jd.gb_7c.gb_td.gb_Dd.gb_na:last-child > div.gb_F.gb_na
+google.*##.section-cardbox
+!
+! Youtube
+!
+/.*instream.*/$domain=youtube.com
+/.*midroll.*/$domain=youtube.com
+||youtube.com/*/scheduler.js$script
+||youtube.com/ptracking
+||youtube.com/api/stats
+||youtube.com/youtubei
+||youtube.com/pagead/
+||google.com/pagead/
+||gstatic.com/inputtools/images/$domain=youtube.com
+youtube.com###ticker
+youtube.com##.ytd-popup-container
+!
+! Prevent blocks signing into your google account
+!
+@@||accounts.google.com
+@@||myaccount.google.com
+
+! 4/20/2020 https://anonfiles.com
+anonfiles.com##.sister-sites.col-xs-12
+
+! 4/23/2020 https://dropgalaxy.com
+dropgalaxy.com###gdpr-cookie-notice
+
+! 4/23/2020 https://www.kuketz-blog.de
+www.kuketz-blog.de###custom_html-2
+
+! 4/23/2020 https://www.heise.de
+www.heise.de##.article-layout__curtain.curtain--gradient.curtain
+
+! 4/24/2020 https://memoryhackers.org
+memoryhackers.org##.notice-content
+memoryhackers.org##.ads-header
+memoryhackers.org##.p-body-sidebar > div.block:nth-of-type(5) > .block-container
+memoryhackers.org##.adshack
+memoryhackers.org##.p-body-sidebar > div.block:nth-of-type(3) > .block-container
+
+! 4/24/2020 https://thepiratebay.org
+thepiratebay.org###d > center
+thepiratebay.org###d > .hyper-link
+thepiratebay.org###d > [href^="http://www.coiwqe.site/tr/pg"]
+thepiratebay.org###d2 > [href^="http://www.coiwqe.site/tr/pg"]
+thepiratebay.org###d2 > .hyper-link
+
+! 4/25/2020 https://www.reddit.com
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(3) > ._1G4yU68P50vRZ4USXfaceV.avKlJzxZU3brq4nAX0_i1
+www.reddit.com##._1vYrJH5uc57mZQJPN4l34E > ._2vEf-C2keJaBMY9qk_BxVn > ._1G4yU68P50vRZ4USXfaceV.avKlJzxZU3brq4nAX0_i1
+
+! 4/25/2020 https://streaminglearningcenter.com
+streaminglearningcenter.com##.entry-author.author-info
+streaminglearningcenter.com###bottom-bar > .wf-wrap
+
+! 4/25/2020 https://www.heise.de
+www.heise.de##a-collapse.a-inline-textbox.js-dossier.a-u-hide-from-desktop.a-box--full-bordered.a-box--collapsable.a-box:nth-of-type(1)
+www.heise.de##a-collapse.a-inline-textbox.js-dossier.a-u-hide-from-desktop.a-box--full-bordered.a-box--collapsable.a-box:nth-of-type(2) > div:nth-of-type(2)
+www.heise.de##a-collapse.a-inline-textbox.js-dossier.a-u-hide-from-desktop.a-box--full-bordered.a-box--collapsable.a-box:nth-of-type(2)
+
+! --- Block third-party web requests on insecure HTTP websites except images and CSS-stylesheets
+HTTP://*^$third-party,~image,~stylesheet
+
+! --- Generic filters (domains starting with)
+||ads.^
+||ads1.^
+||ads2.^
+||ads3.^
+||ads4.^
+||ads5.^
+||ads6.^
+||ads7.^
+||ads8.^
+||ads9.^
+||adserv.^
+||adserve.^
+||adserver.^
+||adserver1.^
+||advertise.^
+||advertising.^
+||affiliate.^
+||affiliates.^
+||analytics.^
+||audience.^
+||banner.^
+||banners.^
+||beacon.^
+||beacons.^
+||click.^
+||pixel.^
+||tag.^
+||tags.^
+||track.^
+||tracker.^
+||tracking.^
+
+! 4/27/2020 https://add0n.com
+add0n.com##footer:nth-of-type(1)
+add0n.com##body > div.content:nth-of-type(1) > table
+
+! 4/27/2020 https://userstyles.org
+userstyles.org##.overlay_background
+
+! 4/30/2020 https://thepiratebay.org
+thepiratebay.org##nav > section:nth-of-type(1)

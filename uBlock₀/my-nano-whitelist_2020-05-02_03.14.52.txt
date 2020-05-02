@@ -1,7 +1,10 @@
 about-scheme
 # chrome-extension-scheme
 # chrome-scheme
+# edge-extension-scheme
+# edge-scheme
 moz-extension-scheme
+# ms-browser-extension-scheme
 opera-scheme
 vivaldi-scheme
 wyciwyg-scheme
@@ -133,6 +136,5 @@ www.ronaldverlaan.nl
 www.thetechgame.com
 www.torproject.org
 www.tweetalerts.tv
-www.whonix.org
 wybiral.github.io
 zerobin.net
