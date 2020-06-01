@@ -1,0 +1,76 @@
+{
+  "settings": [
+    {
+      "name": "activeMode",
+      "value": true
+    },
+    {
+      "name": "delayBeforeClean",
+      "value": "15"
+    },
+    {
+      "name": "statLogging",
+      "value": false
+    },
+    {
+      "name": "showNumOfCookiesInIcon",
+      "value": true
+    },
+    {
+      "name": "showNotificationAfterCleanup",
+      "value": false
+    },
+    {
+      "name": "cleanCookiesFromOpenTabsOnStartup",
+      "value": true
+    },
+    {
+      "name": "contextualIdentities",
+      "value": false
+    },
+    {
+      "name": "localstorageCleanup",
+      "value": true
+    },
+    {
+      "name": "notificationOnScreen",
+      "value": "4"
+    },
+    {
+      "name": "domainChangeCleanup",
+      "value": true
+    },
+    {
+      "name": "greyCleanLocalstorage",
+      "value": true
+    },
+    {
+      "name": "whiteCleanLocalstorage",
+      "value": true
+    },
+    {
+      "name": "enableNewVersionPopup",
+      "value": false
+    },
+    {
+      "name": "debugMode",
+      "value": false
+    },
+    {
+      "name": "enableGreyListCleanup",
+      "value": true
+    },
+    {
+      "name": "keepDefaultIcon",
+      "value": false
+    },
+    {
+      "name": "sizePopup",
+      "value": 16
+    },
+    {
+      "name": "sizeSetting",
+      "value": 16
+    }
+  ]
+}

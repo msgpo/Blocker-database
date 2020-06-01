@@ -3,38 +3,41 @@
           autoCommentFilterTemplate {{date}} {{origin}}
          autoUpdateAssetFetchPeriod 120
          autoUpdateDelayAfterLaunch 180
-                   autoUpdatePeriod 4
+                   autoUpdatePeriod 6
                 benchmarkDatasetURL unset
                    blockingProfiles 11111/#F00 11011/#C0F 11001/#00F 00001
-      cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
                     cacheStorageAPI unset
             cacheStorageCompression true
+      cacheControlForFirefox1376932 no-cache, no-store, must-revalidate
+                    cnameIgnoreList unset
                 cnameIgnore1stParty true
               cnameIgnoreExceptions true
-                    cnameIgnoreList unset
             cnameIgnoreRootDocument true
-                        cnameMaxTTL 120
+                        cnameMaxTTL 100
                  cnameReplayFullURL false
                        cnameUncloak true
                 cnameUncloakProxied false
                     consoleLogLevel unset
-             debugScriptletInjector false
                     debugScriptlets false
+             debugScriptletInjector false
                  disableWebAssembly false
-         extensionUpdateForceReload false
-                   filterAuthorMode false
+         extensionUpdateForceReload true
               ignoreRedirectFilters false
           ignoreScriptInjectFilters false
+                   filterAuthorMode false
                     loggerPopupType popup
        manualUpdateAssetFetchPeriod 500
       nanoIgnoreThirdPartyWhitelist false
 nanoMakeThirdPartyFiltersPrivileged false
       nanoMakeUserFiltersPrivileged false
-                      popupFontSize unset
+                      popupFontSize 12px
+         popupPanelDisabledSections 0
+           popupPanelLockedSections 39
         requestJournalProcessPeriod 1000
-                        selfieAfter 5
+                        selfieAfter 10
        strictBlockingBypassDuration 120
               suspendTabsUntilReady unset
-                           uiFlavor unset
-      updateAssetBypassBrowserCache false
+                      uiPopupConfig undocumented
+                           uiFlavor classic
+      updateAssetBypassBrowserCache true
               userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt

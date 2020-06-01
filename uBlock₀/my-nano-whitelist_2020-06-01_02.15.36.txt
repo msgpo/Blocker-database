@@ -5,15 +5,14 @@ about-scheme
 # edge-scheme
 moz-extension-scheme
 # ms-browser-extension-scheme
-opera-scheme
-vivaldi-scheme
-wyciwyg-scheme
+# opera-scheme
+# vivaldi-scheme
+# wyciwyg-scheme
 *youtube.com/*user=GamersNexus
 192.168.178.1
 192.168.178.40
 5who.net
 amiunique.org
-archive.is
 arestwo.org
 asciimoo.github.io
 audiofingerprint.openwpm.com
@@ -68,7 +67,6 @@ isthereanydeal.com
 jcenter.bintray.com
 jch.penibelst.de
 killedbypolice.net
-lavabit.com
 liamja.co.uk
 lists.debian.org
 lite.qwant.com
@@ -76,11 +74,14 @@ mademistakes.com
 mednafen.github.io
 minhaskamal.github.io
 news.ycombinator.com
+od.lk
+outline.com
 panopticlick.eff.org
 passport.twitch.tv
 paul4innovating.com
 paulirish.github.io
 pgl.yoyo.org
+play.google.com
 predb.pw
 prism-break.org
 privacy.net
@@ -92,8 +93,11 @@ scene.org
 search.f-droid.org
 securitypreview.zscaler.com
 shadowsocks.org
+signin.ebay.de
 snowdenarchive.cjfe.org
 stanev.org
+support.epson.net
+support.hp.com
 support.mozilla.org
 test-ipv6.com
 thememoryhole2.org
@@ -120,8 +124,10 @@ www.bitmight.uk
 www.browserplugs.com
 www.crunchyroll.com
 www.debian.org
+www.deviceinfo.me
 www.dnsleaktest.com
 www.doileak.com
+www.epson.co.uk
 www.eurodns.com
 www.freehaven.net
 www.gnu.org
